@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message StatusExaustor {
+    float status = 1;
+}
+
+service Exaustor {
+    rpc ligarExaustor(StatusExaustor) returns (StatusExaustor) {}
+    rpc desligarExaustor(StatusExaustor) returns (StatusExaustor) {}
+}

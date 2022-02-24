@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message LampadaStatus {
+    int32 stauts = 1;
+}
+
+service Lampada {
+    rpc ligarLampada(LampadaStatus) returns (LampadaStatus) {}
+    rpc desligarLampada(LampadaStatus) returns (LampadaStatus) {}
+}

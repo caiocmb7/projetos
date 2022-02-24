@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("input:radio[name='ar']").click(function () {
+            var $cor = $(this).val();
+            if ($cor == 1) $("#temperatura").css("display", "block");
+            else $("#temperatura").css("display", "none");
+            console.log($cor);
+
+        });
+    });
+</script>
+
+<body>
+    <div class="tile is-ancestor">
+        <div class="tile is-vertical is-3">
+            <div class="tile">
+                <div class="tile is-parent">
+                    <article class="tile is-child notification is-info">
+                        <div class="tile is-ancestor">
+                            <div class="tile is-vertical is-8">
+                                <div class="tile">
+                                    <div class="tile is-parent is-vertical">
+                                        <article class="tile is-child notification is-primary">
+                                            <p class="title">Atuadores</p>
+
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <form action="." method="POST" name='form' onsubmit="return validaForm(this);">
+
+                                <label for="gender">Lampada: </label>
+                                <input type="radio" name="lampada" value="1" checked>Ligada</input>
+                                <input type="radio" name="lampada" value="-1">Desligada</input>
+                                <br><br><label for="gender">Ar-Condicionado: </label>
+                                <input type="radio" name="ar" value="1">Ligado</input>
+                                <input type="Number" name="temperatura" id="temperatura" value=""
+                                    placeholder="Informe a temperatura" style="display: none;"></input>
+                                <input type="radio" name="ar" value="-1" checked>Desligado</input>
+                                <br><br><label for="gender">Exaustor: </label>
+                                <input type="radio" name="exaustor" value="1" checked>Ligar</input>
+                                <input type="radio" name="exaustor" value="-1">Desligar</input>
+
+                                <br><br><input id="txt" type="submit" name='submit' value="Enviar">
+                            </form>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+<script type="text/javascript">
+    function validaForm(form) {
+        lampada = document.form.genderS.value;
+        if (lampada == '') {
+            alert('não enviado');
+            return false;
+        }
+        alert("Formulário enviado!");
+    }
+</script>
+
+</html>
