@@ -3,6 +3,7 @@ import cv2
 import easyocr
 
 img = cv2.imread("C:/Users/nhoei/licenseplate.jpg")
+reader = easyocr.Reader(['en'])
 ocr_results = reader.readtext("C:/Users/nhoei/licenseplate.jpg")
 print(ocr_results)
 
