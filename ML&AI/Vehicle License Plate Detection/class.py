@@ -31,6 +31,17 @@ import imutils
 import pandas as pd
 import os
 
+# imports
+
+import numpy as np
+import cv2
+import easyocr
+import cv2
+from matplotlib import pyplot as plt
+import imutils
+import pandas as pd
+import os
+
 # A Sample class with init method
 class Car:
 
@@ -75,7 +86,9 @@ class Car:
       os.chdir(current_path)
       return full_path
     except OSError as error: 
-      print(f"Already have a folder called: {folder_name} in this directory")  
+      print(f"Already have a folder called: {folder_name} in this directory")
+      full_path = os.path.join(path, folder_name)
+      return full_path 
 
   # Sample Method
   def plateDetection(self, path, save_path):
@@ -104,6 +117,9 @@ class Car:
           plt.savefig(full_path + "/" + path_imagem)
         except IndexError as IE:
           print(f"\n\nOcorreu um erro de Index na imagem: {path_imagem}, porém continuando para a proxima imagem")
+          continue
+        except Exception as error:
+          print(f"\n\nOcorreu um erro na imagem: {path_imagem}, porém continuando para a proxima imagem")
           continue
 
     df_aux = pd.DataFrame(df_lista)
