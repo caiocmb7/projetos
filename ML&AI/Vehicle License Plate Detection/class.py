@@ -20,6 +20,17 @@ import imutils
 import pandas as pd
 import os
 
+# imports
+
+import numpy as np
+import cv2
+import easyocr
+import cv2
+from matplotlib import pyplot as plt
+import imutils
+import pandas as pd
+import os
+
 # A Sample class with init method
 class Car:
 
@@ -67,28 +78,33 @@ class Car:
       print(f"Already have a folder called: {folder_name} in this directory")  
 
   # Sample Method
-  def plateDetection(self, path):
+  def plateDetection(self, path, save_path):
     self.path = path
+    self.save_path = save_path
     df_lista = []
 
-    full_path = self.__create_new_folder(path, "detection")
+    full_path = self.__create_new_folder(path, save_path)
 
     for dir, subarch, archives in os.walk(path):
       for path_imagem in archives:
-        img = cv2.imread(path + "/" + str(path_imagem))
-        gray, edged  = self.__filters(img)
-        new_image, approx, cropped_image = self.__search_plate_and_crop(img, edged, gray)
+        try:
+          img = cv2.imread(path + "/" + str(path_imagem))
+          gray, edged  = self.__filters(img)
+          new_image, approx, cropped_image = self.__search_plate_and_crop(img, edged, gray)
 
-        reader = easyocr.Reader(['en'])
-        result = reader.readtext(cropped_image)
+          reader = easyocr.Reader(['en'])
+          result = reader.readtext(cropped_image)
 
-        text = result[0][-2]
-        df_lista.append((path_imagem, text))
-        font = cv2.FONT_HERSHEY_SIMPLEX
-        res = cv2.putText(img, text=text, org=(approx[1][0][0], approx[2][0][1]+30), fontFace=font, fontScale=0.7, color=(0,255,0), thickness=3, lineType=cv2.LINE_AA)
-        res = cv2.rectangle(img, tuple(approx[0][0]), tuple(approx[2][0]), (0,255,0),3)
-        plt.imshow(cv2.cvtColor(res, cv2.COLOR_BGR2RGB))
-        plt.savefig(full_path + "/" + path_imagem)
+          text = result[0][-2]
+          df_lista.append((path_imagem, text))
+          font = cv2.FONT_HERSHEY_SIMPLEX
+          res = cv2.putText(img, text=text, org=(approx[1][0][0], approx[2][0][1]+30), fontFace=font, fontScale=0.7, color=(0,255,0), thickness=3, lineType=cv2.LINE_AA)
+          res = cv2.rectangle(img, tuple(approx[0][0]), tuple(approx[2][0]), (0,255,0),3)
+          plt.imshow(cv2.cvtColor(res, cv2.COLOR_BGR2RGB))
+          plt.savefig(full_path + "/" + path_imagem)
+        except IndexError as IE:
+          print(f"\n\nOcorreu um erro de Index na imagem: {path_imagem}, porém continuando para a proxima imagem")
+          continue
 
     df_aux = pd.DataFrame(df_lista)
     df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace = True)
