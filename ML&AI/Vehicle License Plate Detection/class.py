@@ -9,39 +9,6 @@ import imutils
 import pandas as pd
 import os
 
-# imports
-
-import numpy as np
-import cv2
-import easyocr
-import cv2
-from matplotlib import pyplot as plt
-import imutils
-import pandas as pd
-import os
-
-# imports
-
-import numpy as np
-import cv2
-import easyocr
-import cv2
-from matplotlib import pyplot as plt
-import imutils
-import pandas as pd
-import os
-
-# imports
-
-import numpy as np
-import cv2
-import easyocr
-import cv2
-from matplotlib import pyplot as plt
-import imutils
-import pandas as pd
-import os
-
 # A Sample class with init method
 class Car:
 
