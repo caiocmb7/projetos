@@ -15,15 +15,15 @@ class Car:
   # init method or constructor
   def __init__(self):
       pass
-
+  
+  # comparar figura por figura no antigo para tentar identificar se uma variavel ta passando errado no metodo
   def __filters(self, img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     bfilter = cv2.bilateralFilter(gray, 11, 17, 17) #Noise reduction
     edged = cv2.Canny(bfilter, 30, 200) #Edge detection
     return gray, edged
   
-  def __search_plate_and_crop(self, img):
-    gray, edged = self.__filters(img)
+  def __search_plate_and_crop(self, img, edged, gray):
     keypoints = cv2.findContours(edged.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
     contours = imutils.grab_contours(keypoints)
     contours = sorted(contours, key=cv2.contourArea, reverse=True)[:10]
@@ -52,17 +52,17 @@ class Car:
     for dir, subarch, archives in os.walk(path):
       for path_imagem in archives:
         img = cv2.imread(path + "/" + str(path_imagem))
-        self.__filters(img)
-        self.__search_plate_and_crop(img, self.edged, self.gray)
+        edged, gray = self.__filters(img)
+        new_image, approx, cropped_image = self.__search_plate_and_crop(img, edged, gray)
 
         reader = easyocr.Reader(['en'])
-        result = reader.readtext(self.cropped_image)
+        result = reader.readtext(cropped_image)
 
         text = result[0][-2]
         df_lista.append((path_imagem, text))
         font = cv2.FONT_HERSHEY_SIMPLEX
-        res = cv2.putText(img, text=text, org=(self.approx[1][0][0], self.approx[2][0][1]+30), fontFace=font, fontScale=0.6, color=(0,255,0), thickness=3, lineType=cv2.LINE_AA)
-        res = cv2.rectangle(img, tuple(self.approx[0][0]), tuple(self.approx[2][0]), (0,255,0),3)
+        res = cv2.putText(img, text=text, org=(approx[1][0][0], approx[2][0][1]+30), fontFace=font, fontScale=0.6, color=(0,255,0), thickness=3, lineType=cv2.LINE_AA)
+        res = cv2.rectangle(img, tuple(approx[0][0]), tuple(approx[2][0]), (0,255,0),3)
         plt.imshow(cv2.cvtColor(res, cv2.COLOR_BGR2RGB))
         plt.savefig(f"/content/detection/{path_imagem}")
 
