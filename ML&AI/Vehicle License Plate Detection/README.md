@@ -15,3 +15,8 @@ O código foi construído no Google Colab, então precisamos utilizar para que a
 Para iniciar o projeto, basta termos o dataset localmente e executar a linha de comando abaixo:
 
 Car().plateDetection(path = "/content/samples", folder_name = "detection15")
+
+onde 
+
+* path = local onde foi colocado o dataset
+* folder_name = nome da pasta que será criada e alocada os resultados do script
