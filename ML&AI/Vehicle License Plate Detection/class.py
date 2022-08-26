@@ -9,6 +9,17 @@ import imutils
 import pandas as pd
 import os
 
+# imports
+
+import numpy as np
+import cv2
+import easyocr
+import cv2
+from matplotlib import pyplot as plt
+import imutils
+import pandas as pd
+import os
+
 # A Sample class with init method
 class Car:
 
@@ -43,20 +54,30 @@ class Car:
     cropped_image = gray[x1:x2+1, y1:y2+1]
     return new_image, approx, cropped_image
 
+  def __create_new_folder(self, path, folder_name): 
+    try: 
+      current_path = os.getcwd() 
+      os.chdir('.')
+      path = os.getcwd()
+      full_path = os.path.join(path, folder_name) 
+      os.makedirs(full_path) 
+      os.chdir(current_path)
+      return full_path
+    except OSError as error: 
+      print(f"Already have a folder called: {folder_name} in this directory")  
+
   # Sample Method
   def plateDetection(self, path):
     self.path = path
     df_lista = []
 
+    full_path = self.__create_new_folder(path, "detection")
+
     for dir, subarch, archives in os.walk(path):
       for path_imagem in archives:
         img = cv2.imread(path + "/" + str(path_imagem))
         gray, edged  = self.__filters(img)
-        plt.imshow(cv2.cvtColor(edged, cv2.COLOR_BGR2RGB))
-        plt.show()
         new_image, approx, cropped_image = self.__search_plate_and_crop(img, edged, gray)
-        plt.imshow(cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB))
-        plt.show()
 
         reader = easyocr.Reader(['en'])
         result = reader.readtext(cropped_image)
@@ -67,9 +88,9 @@ class Car:
         res = cv2.putText(img, text=text, org=(approx[1][0][0], approx[2][0][1]+30), fontFace=font, fontScale=0.7, color=(0,255,0), thickness=3, lineType=cv2.LINE_AA)
         res = cv2.rectangle(img, tuple(approx[0][0]), tuple(approx[2][0]), (0,255,0),3)
         plt.imshow(cv2.cvtColor(res, cv2.COLOR_BGR2RGB))
-        plt.savefig(f"/content/detection/{path_imagem}")
+        plt.savefig(full_path + "/" + path_imagem)
 
     df_aux = pd.DataFrame(df_lista)
     df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace = True)
-    df = df_aux.to_csv("/content/detection/results.csv", index = False)
+    df = df_aux.to_csv(full_path + "/" + "results.csv", index = False)
     return df
