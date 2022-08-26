@@ -9,14 +9,24 @@ import imutils
 import pandas as pd
 import os
 
+# imports
+
+import numpy as np
+import cv2
+import easyocr
+import cv2
+from matplotlib import pyplot as plt
+import imutils
+import pandas as pd
+import os
+
 # A Sample class with init method
 class Car:
 
   # init method or constructor
   def __init__(self):
       pass
-  
-  # comparar figura por figura no antigo para tentar identificar se uma variavel ta passando errado no metodo
+
   def __filters(self, img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     bfilter = cv2.bilateralFilter(gray, 11, 17, 17) #Noise reduction
@@ -52,8 +62,12 @@ class Car:
     for dir, subarch, archives in os.walk(path):
       for path_imagem in archives:
         img = cv2.imread(path + "/" + str(path_imagem))
-        edged, gray = self.__filters(img)
+        gray, edged  = self.__filters(img)
+        plt.imshow(cv2.cvtColor(edged, cv2.COLOR_BGR2RGB))
+        plt.show()
         new_image, approx, cropped_image = self.__search_plate_and_crop(img, edged, gray)
+        plt.imshow(cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB))
+        plt.show()
 
         reader = easyocr.Reader(['en'])
         result = reader.readtext(cropped_image)
@@ -61,7 +75,7 @@ class Car:
         text = result[0][-2]
         df_lista.append((path_imagem, text))
         font = cv2.FONT_HERSHEY_SIMPLEX
-        res = cv2.putText(img, text=text, org=(approx[1][0][0], approx[2][0][1]+30), fontFace=font, fontScale=0.6, color=(0,255,0), thickness=3, lineType=cv2.LINE_AA)
+        res = cv2.putText(img, text=text, org=(approx[1][0][0], approx[2][0][1]+30), fontFace=font, fontScale=0.7, color=(0,255,0), thickness=3, lineType=cv2.LINE_AA)
         res = cv2.rectangle(img, tuple(approx[0][0]), tuple(approx[2][0]), (0,255,0),3)
         plt.imshow(cv2.cvtColor(res, cv2.COLOR_BGR2RGB))
         plt.savefig(f"/content/detection/{path_imagem}")
