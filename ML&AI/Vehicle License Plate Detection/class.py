@@ -8,6 +8,8 @@ from matplotlib import pyplot as plt
 import imutils
 import pandas as pd
 import os
+import warnings
+warnings.filterwarnings('ignore')
 
 # A Sample class with init method
 class Car:
