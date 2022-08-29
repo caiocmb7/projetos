@@ -22,7 +22,7 @@ class Car:
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     bfilter = cv2.bilateralFilter(gray, 11, 17, 17) #Noise reduction
     edged = cv2.Canny(bfilter, 30, 200) #Edge detection
-    return gray, edged
+    return gray, bfilter, edged
   
   def __search_plate_and_crop(self, img, edged, gray):
     keypoints = cv2.findContours(edged.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
@@ -59,19 +59,31 @@ class Car:
       full_path = os.path.join(path, folder_name)
       return full_path 
 
+  def __plot_images(self, img1, img2, title1="", title2=""):
+    fig = plt.figure(figsize=[15,15])
+    ax1 = fig.add_subplot(121)
+    ax1.imshow(img1, cmap="gray")
+    ax1.set(xticks=[], yticks=[], title=title1)
+
+    ax2 = fig.add_subplot(122)
+    ax2.imshow(img2, cmap="gray")
+    ax2.set(xticks=[], yticks=[], title=title2)
+    
+    return fig
+
   # Sample Method
-  def plateDetection(self, path, save_path):
+  def plateDetection(self, path, folder_name, show_steps = False):
     self.path = path
-    self.save_path = save_path
+    self.folder_name = folder_name
     df_lista = []
 
-    full_path = self.__create_new_folder(path, save_path)
+    full_path = self.__create_new_folder(path, folder_name)
 
     for dir, subarch, archives in os.walk(path):
       for path_imagem in archives:
         try:
           img = cv2.imread(path + "/" + str(path_imagem))
-          gray, edged  = self.__filters(img)
+          gray, bfilter, edged  = self.__filters(img)
           new_image, approx, cropped_image = self.__search_plate_and_crop(img, edged, gray)
 
           reader = easyocr.Reader(['en'])
@@ -94,4 +106,11 @@ class Car:
     df_aux = pd.DataFrame(df_lista)
     df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace = True)
     df = df_aux.to_csv(full_path + "/" + "results.csv", index = False)
+
+    if show_steps == True:
+      self.__plot_images(img, gray, title1="original", title2="gray")
+      self.__plot_images(gray, bfilter, title1="gray", title2="bfilter")
+      self.__plot_images(bfilter, edged, title1="bfilter", title2="edged")
+      self.__plot_images(img, cropped_image, title1="original", title2="cropped_image")
+
     return df
