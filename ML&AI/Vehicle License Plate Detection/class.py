@@ -114,3 +114,7 @@ class Car:
       self.__plot_images(img, cropped_image, title1="original", title2="cropped_image")
 
     return df
+
+# To run the class above, do:
+
+# Car().plateDetection(path = "/content/samples", folder_name = "detection", show_steps = True) -- example
