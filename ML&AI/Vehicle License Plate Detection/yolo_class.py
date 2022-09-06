@@ -1,9 +1,9 @@
 # imports
 
-import pytesseract
+#import pytesseract
 import cv2
 import matplotlib.pyplot as plt
-from IPython.display import Image
+#from IPython.display import Image
 import warnings
 import os
 import pandas as pd
@@ -70,8 +70,8 @@ class Car:
             print(x,y,w,h) # center of the bounding box
             img_alpr = img[y-int(h/2):y+int(h/2),x-int(w/2):x+int(w/2)]
             plt.imshow(img_alpr)
-            txt = pytesseract.image_to_string(img_alpr)
-            df_lista.append((path_imagem, txt))
+            #txt = pytesseract.image_to_string(img_alpr)
+            #df_lista.append((path_imagem, txt))
 
         except IndexError as IE:
           print(f"\n\nOcorreu um erro de Index na imagem: {path_imagem}, porém continuando para a proxima imagem")
