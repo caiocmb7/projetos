@@ -44,11 +44,10 @@ class Car:
       return full_path 
 
   # Sample Method
-  def YOLOplateDetection(self, path, path_label, folder_name):
+  def YOLOplateDetection(self, path, folder_name):
     self.path = path
-    self.path_label = path_label
     self.folder_name = folder_name
-    df_lista = []
+    df_lista_yolo = []
 
     full_path = self.__create_new_folder(path, folder_name)
 
@@ -57,21 +56,10 @@ class Car:
         try:
           img = cv2.imread(path + "/" + str(path_imagem))
           img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-          lics = self.__read_txt(path_label + "/" + str(path_imagem[:-4]) + '.txt')
-
-          for lic in lics:
-            print(lic)
-            c, x, y, w, h = lic
-            print(f"c: {c}")
-            print(f"x: {x}")
-            print(f"y: {y}")
-            print(f"w: {w}")
-            print(f"h: {h}")
-            print(x,y,w,h) # center of the bounding box
-            img_alpr = img[y-int(h/2):y+int(h/2),x-int(w/2):x+int(w/2)]
-            plt.imshow(img_alpr)
-            #txt = pytesseract.image_to_string(img_alpr)
-            #df_lista.append((path_imagem, txt))
+          reader = easyocr.Reader(['en'])
+          result = reader.readtext(img)
+          text = result[0][-2]
+          df_lista_yolo.append((path_imagem, text))
 
         except IndexError as IE:
           print(f"\n\nOcorreu um erro de Index na imagem: {path_imagem}, porém continuando para a proxima imagem")
@@ -80,8 +68,8 @@ class Car:
           print(f"\n\nOcorreu um erro na imagem: {path_imagem}, porém continuando para a proxima imagem")
           continue
 
-    df_aux = pd.DataFrame(df_lista)
+    df_aux = pd.DataFrame(df_lista_yolo)
     df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace = True)
-    df = df_aux.to_csv(full_path + "/" + "yolo_results.csv", index = False)
+    df = df_aux.sort_values("Image").to_csv(full_path + "/" + "yolo_results.csv", index = False)
 
     return df
