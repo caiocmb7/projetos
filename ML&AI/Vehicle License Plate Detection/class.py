@@ -114,6 +114,36 @@ class Car:
       self.__plot_images(img, cropped_image, title1="original", title2="cropped_image")
 
     return df
+    
+  def YOLOplateDetection(self, path, folder_name):
+    self.path = path
+    self.folder_name = folder_name
+    df_lista_yolo = []
+
+    full_path = self.__create_new_folder(path, folder_name)
+
+    for dir, subarch, archives in os.walk(path):
+      for path_imagem in archives:
+        try:
+          img = cv2.imread(path + "/" + str(path_imagem))
+          img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+          reader = easyocr.Reader(['en'])
+          result = reader.readtext(img)
+          text = result[0][-2]
+          df_lista_yolo.append((path_imagem, text))
+
+        except IndexError as IE:
+          print(f"\n\nOcorreu um erro de Index na imagem: {path_imagem}, porém continuando para a proxima imagem")
+          continue
+        except Exception as error:
+          print(f"\n\nOcorreu um erro na imagem: {path_imagem}, porém continuando para a proxima imagem")
+          continue
+
+    df_aux = pd.DataFrame(df_lista_yolo)
+    df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace = True)
+    df = df_aux.sort_values("Image").to_csv(full_path + "/" + "yolo_results.csv", index = False)
+
+    return df
 
 # To run the class above, do:
 
