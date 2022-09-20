@@ -5,6 +5,7 @@ import cv2
 import matplotlib.pyplot as plt
 #from IPython.display import Image
 import warnings
+import easyocr
 import os
 import pandas as pd
 warnings.filterwarnings('ignore')
