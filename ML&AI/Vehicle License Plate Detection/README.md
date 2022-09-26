@@ -34,7 +34,7 @@ Essa classe criada contém duas propostas de solução:
 
         onde 
 
-            * path = local onde foi colocado o dataset
+            * path = local onde foi colocado o dataset (nesse caso já é o resultado retornado do crop do yolov5, não o dataset original)
             * folder_name = nome da pasta que será criada e alocada os resultados do script
 
 
