@@ -1,14 +1,15 @@
 # imports
 
-import numpy as np
-import cv2
-import easyocr
-import cv2
-from matplotlib import pyplot as plt
-import imutils
-import pandas as pd
 import os
 import warnings
+
+import cv2
+import easyocr
+import imutils
+import keras_ocr
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
 
 warnings.filterwarnings("ignore")
 
@@ -137,7 +138,7 @@ class Car:
 
         return df
 
-    def YOLOplateDetection(self, path, folder_name):
+    def YOLOeasy(self, path, folder_name):
         self.path = path
         self.folder_name = folder_name
         df_lista_yolo = []
@@ -169,6 +170,36 @@ class Car:
         df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace=True)
         df = df_aux.sort_values("Image").to_csv(
             full_path + "/" + "yolo_results.csv", index=False
+        )
+
+        return df
+
+    def YOLOkeras(self, path, folder_name):
+        self.path = path
+        self.folder_name = folder_name
+
+        full_path = self.__create_new_folder(path, folder_name)
+
+        df_keras = []
+        for dir, subarch, archives in os.walk(path):
+            for images in archives:
+                pipeline_list = []
+                path_images = f"{dir}/" + images
+                pipeline_list.append(path_images)
+
+                pipeline = keras_ocr.pipeline.Pipeline()
+                pipeline_images = [keras_ocr.tools.read(img) for img in pipeline_list]
+                prediction_groups = pipeline.recognize(pipeline_images)
+
+                for content in prediction_groups:
+                    print(f"\n --#-- Analysing {images} --#--\n")
+                    for text, box in content:
+                        df_keras.append((images, text))
+
+        df_aux = pd.DataFrame(df_keras)
+        df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace=True)
+        df = df_aux.sort_values("Image").to_csv(
+            full_path + "/" + "keras_results.csv", index=False
         )
 
         return df
