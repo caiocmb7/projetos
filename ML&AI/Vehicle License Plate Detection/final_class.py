@@ -177,3 +177,5 @@ class Car:
 # To run the class above, do:
 
 # Car().plateDetection(path = "/content/samples", folder_name = "detection", show_steps = True) -- example
+# Car().YOLOeasy(path = "/content/samples", folder_name = "detection") -- example
+# Car().YOLOkeras(path = "/content/samples", folder_name = "detection") -- example
