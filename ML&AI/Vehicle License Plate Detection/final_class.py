@@ -7,9 +7,9 @@ import cv2
 import easyocr
 import imutils
 import keras_ocr
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
 
 warnings.filterwarnings("ignore")
 
@@ -75,6 +75,12 @@ class Car:
 
         return fig
 
+    def __resize_images(self, img):
+        widht, height = img.shape[:2]
+        if widht <= 40 & height <= 40:
+            resized_img = cv2.resize(img, (widht * 4, height * 4))
+        return resized_img
+
     # Sample Method
     def plateDetection(self, path, folder_name, show_steps=False):
         self.path = path
@@ -87,6 +93,7 @@ class Car:
             for path_imagem in archives:
                 try:
                     img = cv2.imread(path + "/" + str(path_imagem))
+                    img = self.__resize_images(img)
                     gray, bfilter, edged = self.__filters(img)
                     new_image, approx, cropped_image = self.__search_plate_and_crop(
                         img, edged, gray
@@ -126,7 +133,9 @@ class Car:
 
         df_aux = pd.DataFrame(df_lista)
         df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace=True)
-        df = df_aux.to_csv(full_path + "/" + "results.csv", index=False)
+        df = df_aux.sort_values("Image").to_csv(
+            full_path + "/" + "results.csv", index=False
+        )
 
         if show_steps == True:
             self.__plot_images(img, gray, title1="original", title2="gray")
@@ -149,7 +158,8 @@ class Car:
             for path_imagem in archives:
                 try:
                     img = cv2.imread(path + "/" + str(path_imagem))
-                    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+                    img = self.__resize_images(img)
+                    img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
                     reader = easyocr.Reader(["en"])
                     result = reader.readtext(img)
                     text = result[0][-2]
@@ -174,12 +184,13 @@ class Car:
 
         return df
 
-    def YOLOkeras(self, path, folder_name):
+    def YOLOkeras(self, path, folder_name, annotations=False):
         self.path = path
         self.folder_name = folder_name
 
         full_path = self.__create_new_folder(path, folder_name)
 
+        pipeline_list = []
         df_keras = []
         for dir, subarch, archives in os.walk(path):
             for images in archives:
@@ -201,6 +212,15 @@ class Car:
         df = df_aux.sort_values("Image").to_csv(
             full_path + "/" + "keras_results.csv", index=False
         )
+
+        if annotations == True:
+            # Plot the predictions
+            fig, axs = plt.subplots(nrows=len(pipeline_images), figsize=(20, 20))
+            for ax, image, predictions in zip(axs, pipeline_images, prediction_groups):
+                keras_ocr.tools.drawAnnotations(
+                    image=image, predictions=predictions, ax=ax
+                )
+                plt.show()
 
         return df
 
