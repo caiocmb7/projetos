@@ -184,7 +184,7 @@ class Car:
 
         return df
 
-    def YOLOkeras(self, path, folder_name, annotations=False):
+    def YOLOkeras(self, path, folder_name, show_annotations=False):
         self.path = path
         self.folder_name = folder_name
 
@@ -200,6 +200,7 @@ class Car:
 
                 pipeline = keras_ocr.pipeline.Pipeline()
                 pipeline_images = [keras_ocr.tools.read(img) for img in pipeline_list]
+                plt.imshow(pipeline_images[0])
                 prediction_groups = pipeline.recognize(pipeline_images)
 
                 for content in prediction_groups:
@@ -213,14 +214,10 @@ class Car:
             full_path + "/" + "keras_results.csv", index=False
         )
 
-        if annotations == True:
-            # Plot the predictions
-            fig, axs = plt.subplots(nrows=len(pipeline_images), figsize=(20, 20))
-            for ax, image, predictions in zip(axs, pipeline_images, prediction_groups):
-                keras_ocr.tools.drawAnnotations(
-                    image=image, predictions=predictions, ax=ax
-                )
-                plt.show()
+        if show_annotations == True:
+            for image, pred in zip(pipeline_images, prediction_groups):
+                fig, ax = plt.subplots(1, 1, figsize=(10, 10))
+                keras_ocr.tools.drawAnnotations(image=image, predictions=pred, ax=ax)
 
         return df
 
@@ -229,4 +226,4 @@ class Car:
 
 # Car().plateDetection(path = "/content/samples", folder_name = "detection", show_steps = True) -- example
 # Car().YOLOeasy(path = "/content/samples", folder_name = "detection") -- example
-# Car().YOLOkeras(path = "/content/samples", folder_name = "detection") -- example
+# Car().YOLOkeras(path = "/content/samples", folder_name = "detection", show_annotations = True) -- example
