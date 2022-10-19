@@ -13,14 +13,14 @@ import pandas as pd
 
 warnings.filterwarnings("ignore")
 
-# A Sample class with init method
 class Car:
 
-    # init method or constructor
     def __init__(self):
         pass
 
     def __filters(self, img):
+        #pre-processing steps for the first method (plateDetection)
+
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         bfilter = cv2.bilateralFilter(gray, 11, 17, 17)  # Noise reduction
         edged = cv2.Canny(bfilter, 30, 200)  # Edge detection
@@ -84,7 +84,7 @@ class Car:
     # Sample Method
     def plateDetection(self, path, folder_name, show_steps=False):
         """
-        Use threshold, edge detection for car plate detection and easyOCR for text recognition.
+        Use threshold, edge detection to find countours for car plate detection. EasyOCR for image to text recognition.
 
         Args:
             path: directory path which contains the images
