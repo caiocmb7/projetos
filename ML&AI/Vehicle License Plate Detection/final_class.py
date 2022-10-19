@@ -83,6 +83,17 @@ class Car:
 
     # Sample Method
     def plateDetection(self, path, folder_name, show_steps=False):
+        """
+        Use threshold, edge detection for car plate detection and easyOCR for text recognition.
+
+        Args:
+            path: directory path which contains the images
+            folder_name: directory path which will contain the results
+            show_steps: to show the steps of the preprocessing images
+
+        Return:
+            DataFrame.csv with the labeled plate of each car (image)
+        """
         self.path = path
         self.folder_name = folder_name
         df_lista = []
@@ -148,6 +159,16 @@ class Car:
         return df
 
     def YOLOeasy(self, path, folder_name):
+        """
+        Use yolov5 to crop the image to exclusively the plate. EasyOCR to transform the plate into text.
+
+        Args:
+            path: directory path which contains the images
+            folder_name: directory path which will contain the results
+
+        Return:
+            DataFrame.csv with the labeled plate of each car (image)
+        """
         self.path = path
         self.folder_name = folder_name
         df_lista_yolo = []
@@ -185,6 +206,16 @@ class Car:
         return df
 
     def YOLOkeras(self, path, folder_name, show_annotations=False):
+        """
+        Use yolov5 to crop the image to exclusively the plate. KerasOCR to transform the plate into text.
+
+        Args:
+            path: directory path which contains the images
+            folder_name: directory path which will contain the results
+
+        Return:
+            DataFrame.csv with the labeled plate of each car (image)
+        """
         self.path = path
         self.folder_name = folder_name
 
