@@ -231,7 +231,6 @@ class Car:
 
                 pipeline = keras_ocr.pipeline.Pipeline()
                 pipeline_images = [keras_ocr.tools.read(img) for img in pipeline_list]
-                plt.imshow(pipeline_images[0])
                 prediction_groups = pipeline.recognize(pipeline_images)
 
                 for content in prediction_groups:
