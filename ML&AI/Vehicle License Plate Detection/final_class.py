@@ -13,13 +13,13 @@ import pandas as pd
 
 warnings.filterwarnings("ignore")
 
-class Car:
 
+class Car:
     def __init__(self):
         pass
 
     def __filters(self, img):
-        #pre-processing steps for the first method (plateDetection)
+        # pre-processing steps for the first method (plateDetection)
 
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         bfilter = cv2.bilateralFilter(gray, 11, 17, 17)  # Noise reduction
@@ -237,13 +237,12 @@ class Car:
                 for content in prediction_groups:
                     print(f"\n --#-- Analysing {images} --#--\n")
                     for text, box in content:
-                        df_keras.append((images, text))
+                        df_keras.append((images, text.upper()))
 
         df_aux = pd.DataFrame(df_keras)
         df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace=True)
-        df = df_aux.sort_values("Image").to_csv(
-            full_path + "/" + "keras_results.csv", index=False
-        )
+        df = df_aux.sort_values("Image")
+        df = df.groupby("Image").sum().to_csv(full_path + "/" + "keras_results.csv")
 
         if show_annotations == True:
             for image, pred in zip(pipeline_images, prediction_groups):
