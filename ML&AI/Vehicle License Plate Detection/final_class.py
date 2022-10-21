@@ -5,6 +5,7 @@ import warnings
 
 import cv2
 import easyocr
+import pytesseract
 import imutils
 import keras_ocr
 import matplotlib.pyplot as plt
@@ -78,8 +79,8 @@ class Car:
     def __resize_images(self, img):
         widht, height = img.shape[:2]
         if widht <= 40 & height <= 40:
-            resized_img = cv2.resize(img, (widht * 4, height * 4))
-        return resized_img
+            img = cv2.resize(img, (widht * 4, height * 4))
+        return img
 
     # Sample Method
     def plateDetection(self, path, folder_name, show_steps=False):
