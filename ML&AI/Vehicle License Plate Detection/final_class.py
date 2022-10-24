@@ -5,13 +5,14 @@ import warnings
 
 import cv2
 import easyocr
-import pytesseract
 import imutils
 import keras_ocr
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import pytesseract
 
+pytesseract.pytesseract.tesseract_cmd = r"/usr/bin/tesseract"
 warnings.filterwarnings("ignore")
 
 
@@ -201,36 +202,43 @@ class Car:
         df_aux = pd.DataFrame(df_lista_yolo)
         df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace=True)
         df = df_aux.sort_values("Image").to_csv(
-            full_path + "/" + "yolo_results.csv", index=False
+            full_path + "/" + "easy_results.csv", index=False
         )
 
         return df
-    
+
     def YOLOpytesseract(self, path, folder_name):
         self.path = path
         self.folder_name = folder_name
         df_lista_yolo = []
 
         full_path = self.__create_new_folder(path, folder_name)
+        custom_config = r'--psm 6'
 
         for dir, subarch, archives in os.walk(path):
             for path_imagem in archives:
                 try:
                     img = cv2.imread(path + "/" + str(path_imagem))
                     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-                    text = pytesseract.image_to_string(img)
+                    text = pytesseract.image_to_string(img, config = custom_config)
                     df_lista_yolo.append((path_imagem, text.upper()))
 
                 except IndexError as IE:
-                    print(f"\n\nOcorreu um erro de Index na imagem: {path_imagem}, porém continuando para a proxima imagem")
+                    print(
+                        f"\n\nOcorreu um erro de Index na imagem: {path_imagem}, porém continuando para a proxima imagem"
+                    )
                     continue
                 except Exception as error:
-                    print(f"\n\nOcorreu um erro na imagem: {path_imagem}, porém continuando para a proxima imagem")
+                    print(
+                        f"\n\nOcorreu um erro na imagem: {path_imagem}, porém continuando para a proxima imagem"
+                    )
                     continue
 
         df_aux = pd.DataFrame(df_lista_yolo)
-        df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace = True)
-        df = df_aux.sort_values("Image").to_csv(full_path + "/" + "pytesseract_results.csv", index = False)
+        df_aux.rename(columns={0: "Image", 1: "Plate"}, inplace=True)
+        df = df_aux.sort_values("Image").to_csv(
+            full_path + "/" + "pytesseract_results.csv", index=False
+        )
 
         return df
 
