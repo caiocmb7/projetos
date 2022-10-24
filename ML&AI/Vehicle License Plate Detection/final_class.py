@@ -21,14 +21,32 @@ class Car:
         pass
 
     def __filters(self, img):
-        # pre-processing steps for the first method (plateDetection)
+        """
+        Preprocessing images for the OpenCV method.
 
+        Args:
+            img: image that will be preprocessed
+
+        Return:
+            preprocessed image with some new features -> gray, bilateralfilter and edged
+        """
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         bfilter = cv2.bilateralFilter(gray, 11, 17, 17)  # Noise reduction
         edged = cv2.Canny(bfilter, 30, 200)  # Edge detection
         return gray, bfilter, edged
 
     def __search_plate_and_crop(self, img, edged, gray):
+        """
+        Use the preprocessed images to find countours and consequently crop the images
+
+        Args:
+            img: real image
+            edged: edged image (_filters method)
+            gray: gray image (_filters method)
+
+        Return:
+            image with the contours, his coordinates and the cropped.
+        """
         keypoints = cv2.findContours(
             edged.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE
         )
@@ -52,6 +70,16 @@ class Car:
         return new_image, approx, cropped_image
 
     def __create_new_folder(self, path, folder_name):
+        """
+        Create a new folder based on the args.
+
+        Args:
+            path: path that will be created the new folder
+            folder_name: the name of the folder that will be created in this path.
+
+        Return:
+            path of the new folder.
+        """
         try:
             current_path = os.getcwd()
             os.chdir(".")
@@ -78,13 +106,22 @@ class Car:
         return fig
 
     def __resize_images(self, img):
+        """
+        Increase the image size if it is too small
+
+        Args:
+            img: real image
+
+        Return:
+            image with four times bigger.
+        """
         widht, height = img.shape[:2]
         if widht <= 40 & height <= 40:
             img = cv2.resize(img, (widht * 4, height * 4))
         return img
 
     # Sample Method
-    def plateDetection(self, path, folder_name, show_steps=False):
+    def OpenCVeasy(self, path, folder_name, show_steps=False):
         """
         Use threshold, edge detection to find countours for car plate detection. EasyOCR for image to text recognition.
 
@@ -162,10 +199,10 @@ class Car:
 
     def YOLOeasy(self, path, folder_name):
         """
-        Use yolov5 to crop the image to exclusively the plate. EasyOCR to transform the plate into text.
+        Use yolov5 to crop the image to exclusively the plate (yolov5_crop_images.ipynb). EasyOCR to transform the plate into text.
 
         Args:
-            path: directory path which contains the images
+            path: directory path which contains the images (cropped images)
             folder_name: directory path which will contain the results
 
         Return:
@@ -208,6 +245,16 @@ class Car:
         return df
 
     def YOLOpytesseract(self, path, folder_name):
+        """
+        Use yolov5 to crop the image to exclusively the plate (yolov5_crop_images.ipynb). PytesseractOCR to transform the plate into text.
+
+        Args:
+            path: directory path which contains the images (cropped images)
+            folder_name: directory path which will contain the results
+
+        Return:
+            DataFrame.csv with the labeled plate of each car (image)
+        """
         self.path = path
         self.folder_name = folder_name
         df_lista_yolo = []
@@ -244,7 +291,7 @@ class Car:
 
     def YOLOkeras(self, path, folder_name, show_annotations=False):
         """
-        Use yolov5 to crop the image to exclusively the plate. KerasOCR to transform the plate into text.
+        Use yolov5 to crop the image to exclusively the plate (yolov5_crop_images.ipynb). KerasOCR to transform the plate into text.
 
         Args:
             path: directory path which contains the images
@@ -287,9 +334,12 @@ class Car:
 
         return df
 
+"""
+To run the class above, do:
 
-# To run the class above, do:
+Car().OpenCVeasy(path = "/content/samples", folder_name = "opencv_detection") 
+Car().YOLOeasy(path = "/content/samples", folder_name = "yolo_easy_detection")
+Car().YOLOpytesseract(path = "/content/samples", folder_name = "pytesseract_detection")  
+Car().YOLOkeras(path = "/content/samples", folder_name = "keras_detection") 
+"""
 
-# Car().plateDetection(path = "/content/samples", folder_name = "detection", show_steps = True) -- example
-# Car().YOLOeasy(path = "/content/samples", folder_name = "detection") -- example
-# Car().YOLOkeras(path = "/content/samples", folder_name = "detection", show_annotations = True) -- example
