@@ -120,7 +120,6 @@ class Car:
             img = cv2.resize(img, (widht * 4, height * 4))
         return img
 
-    # Sample Method
     def OpenCVeasy(self, path, folder_name, show_steps=False):
         """
         Use threshold, edge detection to find countours for car plate detection. EasyOCR for image to text recognition.
