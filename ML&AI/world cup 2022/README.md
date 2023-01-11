@@ -5,3 +5,4 @@ Credits to Marco Carujo for the [Dataset](https://www.kaggle.com/datasets/mcaruj
 ### Problems Faced
 
 * Columns with list of dictionary, we had to manipulate the csv to transform into new columns
+    - this columns with a list of dictionary, have values like " Messi ", so we have to split this to be a correct value
