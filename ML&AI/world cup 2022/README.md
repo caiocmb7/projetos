@@ -2,11 +2,19 @@
 
 Credits to my team partner Marco Carujo for creating the [Dataset](https://www.kaggle.com/datasets/mcarujo/fifa-world-cup-2022-catar)
 
-|     Event    | Total |
-|:------------:|:-----:|
-| Substitution |   2   |
-|  Yellow card |   4   |
-|     Goal     |   5   |
+| **Global statistics of the 2022 World Cup in Qatar** |
+|        Event       | Total |
+|:------------------:|:-----:|
+|    Substitution    |  587  |
+|     Yellow card    |  224  |
+|        Goal        |  153  |
+|         PK         |   41  |
+|       Penalty      |   17  |
+|   Disallowed goal  |   9   |
+|   Missed penalty   |   6   |
+| Second yellow card |   3   |
+|      Own goal      |   2   |
+|      Red card      |   1   |
 
 
 ### Activities
