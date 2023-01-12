@@ -6,12 +6,13 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 - Data cleaning
 
-- Feature engineering for data manipulation (transformation)
+- Feature engineering for data manipulation (data transformation)
 
 - Perform data analysis (EDA)
     1. SQL
-    2. Pandas/Seaborn/Matplotlib/etc
+    2. Pandas/Seaborn/Matplotlib/yellowbricks/etc
     3. That tool I saw on LinkedIn for building charts
+
 - Perform data clustering using k-means
 
 - Use a machine learning algorithm for prediction or something similar
@@ -21,7 +22,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 - Create a general statistics of each team in the World Cup
 
-### Problems Faced
+### Problems
 
 * Columns with list of dictionary, we had to manipulate the csv to transform into new columns
     - this columns with a list of dictionary, have values like " Messi ", so we have to split this to be a correct value
@@ -29,5 +30,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - based on the column "events_list", we created a new dataset that will be insume to create the "statistic dataset", which will contains values about yellow cards, goals, etc.
     
 * Generated dataframes -> event_list statistics, global statistics, top scorer, top assists
+
+### Conclusion
 
 ### Next Steps
