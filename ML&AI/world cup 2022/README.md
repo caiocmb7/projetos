@@ -3,7 +3,6 @@
 Credits to my team partner Marco Carujo for creating the [Dataset](https://www.kaggle.com/datasets/mcarujo/fifa-world-cup-2022-catar)
 
 ### Statistics of the 2022 World Cup in Qatar
-|:------------------|-------:|
 |        Event       | Total |
 |-------------------|-------:|
 |    Substitution    |  587  |
