@@ -2,7 +2,6 @@
 
 Credits to my team partner Marco Carujo for creating the [Dataset](https://www.kaggle.com/datasets/mcarujo/fifa-world-cup-2022-catar)
 
-<div align="center">
 | **Global statistics of the 2022 World Cup in Qatar** |
 |------------|-------|
 |Substitution| 587   |
@@ -15,7 +14,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 |Second yellow card|3|
 |Own goal    | 2     |
 |Red card    | 1     |
-</div>
+
 
 ### Activities
 
