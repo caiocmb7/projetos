@@ -50,6 +50,10 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 * Ball possession for the 2022 World Cup was not a decisive factor in whether a team will win the match, as out of the 54 games that resulted in a win or loss for a team, only half (27) were determined by equality (ball possession and victory).
     - To perform the analysis of ball possession, it was necessary to change the type of format for that column, as it is of "object" type and we need to compare values, so it needs to be changed to float and a method was used to convert all the "percentage" columns to this.
 
+* Identified which players have the biggest impact on matches (games versus win percentage)
+
+* Relationship between the number of goals scored and the number of shots on goal 
+
 ### Conclusion
 
 ### Next Steps
