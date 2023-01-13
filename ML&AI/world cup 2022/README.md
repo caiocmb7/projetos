@@ -54,6 +54,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 * Relationship between the number of goals scored and the number of shots on goal 
 
+* Predictions columns were analyzed to indicate if there was a upset case in the games.
 ### Conclusion
 
 ### Next Steps
