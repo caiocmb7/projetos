@@ -62,7 +62,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 * Clustering using k-means to realize new insights
 
-* Build RandomForestRegressor ML Algorithm using k-fold and gridsearch to predict new games
+* Build ML Algorithms using k-fold and gridsearch to predict home team winning, drawing or away team winning
+    - Compare results using SVM, LogisticRegression and RandomForestClassifier
 
 ### Conclusion
 
