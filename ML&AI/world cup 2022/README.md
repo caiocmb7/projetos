@@ -32,6 +32,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 - Use a machine learning algorithm for prediction or something similar
     1. Train/test environment
     2. Prediction
+
 - Predict the number of yellow cards, substitutions, etc in a game
 
 - Create a general statistics of each team in the World Cup
@@ -54,10 +55,14 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 * Identified which players have the biggest impact on matches (games versus win percentage)
 
-* Relationship between the number of goals scored and the number of shots on goal 
+* Relationship between the number of goals scored and the number of shots on goal (Which teams were most effective in goal kicks)
 
 * Predictions columns were analyzed to indicate if there was a upset case in the games.
     - In 64 games, we had 25 upset games (prediction not equals to the real winner of the game)
+
+* Clustering using k-means to realize new insights
+
+* Build RandomForestRegressor ML Algorithm using k-fold and gridsearch to predict new games
 
 ### Conclusion
 
