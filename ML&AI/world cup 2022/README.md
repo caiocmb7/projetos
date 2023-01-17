@@ -1,4 +1,4 @@
-## World Cup 2022 Catar Project
+## 🏆 World Cup 2022 Catar Project 
 
 Credits to my team partner Marco Carujo for creating the [Dataset](https://www.kaggle.com/datasets/mcarujo/fifa-world-cup-2022-catar)
 
