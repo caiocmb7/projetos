@@ -2,7 +2,16 @@
 
 Credits to my team partner Marco Carujo for creating the [Dataset](https://www.kaggle.com/datasets/mcarujo/fifa-world-cup-2022-catar)
 
-### Statistics of the 2022 World Cup in Qatar
+## Table of Contents
+1. [Statistics of the 2022 World Cup in Qatar](#statistics)
+2. [Activities](#activities)
+3. [Problems](#problems)
+4. [Views](#views)
+5. [Conclusion](#conclusion)
+6. [Next Steps](#next-steps)
+
+<a name="statistics"></a>
+### 📊 Statistics of the 2022 World Cup in Qatar
 |        Event       | Total |
 |-------------------|-------:|
 |    Substitution    |  587  |
@@ -16,7 +25,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 |      Own goal      |   2   |
 |      Red card      |   1   |
 
-### Activities
+<a name="activities"></a>
+### 🔧 Activities
 
 - Data cleaning
 
@@ -37,7 +47,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 - Create a general statistics of each team in the World Cup
 
-### Problems
+<a name="problems"></a>
+### 🤔 Problems
 
 * Columns with list of dictionary, we had to manipulate the csv to transform into new columns
     - this columns with a list of dictionary, have values like " Messi ", so we have to split this to be a correct value
@@ -46,7 +57,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     
 * Generated dataframes -> event_list statistics, global statistics, top scorer, top assists
 
-### Views
+<a name="views"></a>
+### 📈 Views
 
 * Global statistics, total of goals (top scorers), total of assists (top assistances), total team goals, etc;
 
@@ -65,6 +77,9 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 * Build ML Algorithms using k-fold and gridsearch to predict home team winning, drawing or away team winning
     - Compare results using SVM, LogisticRegression and RandomForestClassifier
 
-### Conclusion
+<a name="conclusion"></a>
+### 🏁 Conclusion
 
-### Next Steps
+<a name="next-steps"></a>
+### 🚀 Next Steps
+
