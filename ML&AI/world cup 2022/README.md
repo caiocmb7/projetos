@@ -55,7 +55,9 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - based on the columns "lineup_home" and "lineup_away", we created 2 new columns for each columns to get the data from those columns, that will be better to understand.
     - based on the column "events_list", we created a new dataset that will be insume to create the "statistic dataset", which will contains values about yellow cards, goals, etc.
     
-* Generated dataframes -> event_list statistics, global statistics, top scorer, top assists
+* Generated dataframes -> event_list statistics, global statistics, top scorer, top assists;
+
+* As the dataset is relatively small, with only 64 rows, when we conduct a prediction analysis using RandomForestClassifier, LogisticRegression, and SVM, we observe that the values of precision, accuracy, and recall remain consistent, regardless of whether we use grid search or k-fold cross-validation.
 
 <a name="views"></a>
 ## 📈 Views
