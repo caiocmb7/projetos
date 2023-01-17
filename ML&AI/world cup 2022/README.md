@@ -11,7 +11,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 6. [Next Steps](#next-steps)
 
 <a name="statistics"></a>
-### 📊 Statistics of the 2022 World Cup in Qatar
+## 📊 Statistics of the 2022 World Cup in Qatar
 |        Event       | Total |
 |-------------------|-------:|
 |    Substitution    |  587  |
@@ -26,7 +26,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 |      Red card      |   1   |
 
 <a name="activities"></a>
-### 🔧 Activities
+## 🔧 Activities
 
 - Data cleaning
 
@@ -48,7 +48,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 - Create a general statistics of each team in the World Cup
 
 <a name="problems"></a>
-### 🤔 Problems
+## 🤔 Problems
 
 * Columns with list of dictionary, we had to manipulate the csv to transform into new columns
     - this columns with a list of dictionary, have values like " Messi ", so we have to split this to be a correct value
@@ -58,7 +58,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 * Generated dataframes -> event_list statistics, global statistics, top scorer, top assists
 
 <a name="views"></a>
-### 📈 Views
+## 📈 Views
 
 * Global statistics, total of goals (top scorers), total of assists (top assistances), total team goals, etc;
 
@@ -78,8 +78,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - Compare results using SVM, LogisticRegression and RandomForestClassifier
 
 <a name="conclusion"></a>
-### 🏁 Conclusion
+## 🏁 Conclusion
 
 <a name="next-steps"></a>
-### 🚀 Next Steps
+## 🚀 Next Steps
 
