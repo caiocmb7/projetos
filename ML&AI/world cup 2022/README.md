@@ -12,6 +12,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 <a name="statistics"></a>
 ## 📊 Statistics of the 2022 World Cup in Qatar
+<div align="center">
 |        Event       | Total |
 |-------------------|-------:|
 |    Substitution    |  587  |
@@ -24,6 +25,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 | Second yellow card |   3   |
 |      Own goal      |   2   |
 |      Red card      |   1   |
+</div>
 
 <a name="activities"></a>
 ## 🔧 Activities
