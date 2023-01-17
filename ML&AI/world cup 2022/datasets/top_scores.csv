@@ -1,173 +1,119 @@
-team,event_team,event_time,event_type,action_player_1,action_player_2
-Argentina,home, 23' ,Penalty, Lionel Messi , Penalty 
-Argentina,home, 36' ,Goal, Ángel Di María , Alexis Mac Allister 
-France,away, 80' ,Penalty, Kylian Mbappé , Penalty 
-France,away, 81' ,Goal, Kylian Mbappé , Marcus Thuram 
-Argentina,home, 108' ,Goal, Lionel Messi ,
-France,away, 118' ,Penalty, Kylian Mbappé , Penalty 
-Croatia,home, 7' ,Goal, Joško Gvardiol , Ivan Perišić 
-Morocco,away, 9' ,Goal, Achraf Dari ,
-Croatia,home, 42' ,Goal, Mislav Oršić , Marko Livaja 
-France,home, 5' ,Goal, Theo Hernandez ,
-France,home, 79' ,Goal, Randal Kolo Muani ,
-Argentina,home, 34' ,Penalty, Lionel Messi , Penalty 
-Argentina,home, 39' ,Goal, Julián Álvarez ,
-Argentina,home, 69' ,Goal, Julián Álvarez , Lionel Messi 
-France,away, 17' ,Goal, Aurélien Tchouaméni , Antoine Griezmann 
-England,home, 54' ,Penalty, Harry Kane , Penalty 
-France,away, 78' ,Goal, Olivier Giroud , Antoine Griezmann 
-Morocco,home, 42' ,Goal, Youssef En-Nesyri , Yahia Attiyat Allah 
-Argentina,away, 35' ,Goal, Nahuel Molina , Lionel Messi 
-Argentina,away, 73' ,Penalty, Lionel Messi , Penalty 
-Netherlands,home, 83' ,Goal, Wout Weghorst , Steven Berghuis 
-Netherlands,home, 101' ,Goal, Wout Weghorst , Teun Koopmeiners 
-Brazil,away, 106' ,Goal, Neymar , Lucas Paquetá 
-Croatia,home, 117' ,Goal, Bruno Petković , Mislav Oršić 
-Portugal,home, 17' ,Goal, Gonçalo Ramos , João Félix 
-Portugal,home, 33' ,Goal, Pepe , Bruno Fernandes 
-Portugal,home, 51' ,Goal, Gonçalo Ramos ,
-Portugal,home, 55' ,Goal, Raphaël Guerreiro , Gonçalo Ramos 
-Switzerland,away, 58' ,Goal, Manuel Akanji ,
-Portugal,home, 67' ,Goal, Gonçalo Ramos , João Félix 
-Portugal,home, 92' ,Goal, Rafael Leão , Raphaël Guerreiro 
-Brazil,home, 7' ,Goal, Vinícius Júnior , Neymar 
-Brazil,home, 13' ,Penalty, Neymar , Penalty 
-Brazil,home, 29' ,Goal, Richarlison , Thiago Silva 
-Brazil,home, 36' ,Goal, Lucas Paquetá , Vinícius Júnior 
-South Korea,away, 76' ,Goal, Paik Seung-ho ,
-Japan,home, 43' ,Goal, Daizen Maeda , Maya Yoshida 
-Croatia,away, 55' ,Goal, Ivan Perišić , Dejan Lovren 
-England,home, 39' ,Goal, Jordan Henderson , Jude Bellingham 
-England,home, 48' ,Goal, Harry Kane , Phil Foden 
-England,home, 57' ,Goal, Bukayo Saka , Phil Foden 
-France,home, 44' ,Goal, Olivier Giroud , Kylian Mbappé 
-France,home, 74' ,Goal, Kylian Mbappé , Ousmane Dembélé 
-France,home, 91' ,Goal, Kylian Mbappé , Marcus Thuram 
-Poland,away, 99' ,Penalty, Robert Lewandowski , Penalty 
-Argentina,home, 35' ,Goal, Lionel Messi , Nicolás Otamendi 
-Argentina,home, 57' ,Goal, Julián Álvarez ,
-Australia,away, 77' ,Own goal, Enzo Fernández , Own goal 
-Netherlands,home, 10' ,Goal, Memphis , Denzel Dumfries 
-Netherlands,home, 46' ,Goal, Daley Blind , Denzel Dumfries 
-USA,away, 76' ,Goal, Haji Wright , Christian Pulisic 
-Netherlands,home, 81' ,Goal, Denzel Dumfries , Daley Blind 
-Switzerland,away, 20' ,Goal, Xherdan Shaqiri , Djibril Sow 
-Serbia,home, 26' ,Goal, Aleksandar Mitrović , Dušan Tadić 
-Serbia,home, 35' ,Goal, Dušan Vlahović ,
-Switzerland,away, 44' ,Goal, Breel Embolo , Silvan Widmer 
-Switzerland,away, 48' ,Goal, Remo Freuler , Ruben Vargas 
-Cameroon,home, 92' ,Goal, Vincent Aboubakar , Jerome Ngom Mbekeli 
-Uruguay,away, 26' ,Goal, Giorgian de Arrascaeta ,
-Uruguay,away, 32' ,Goal, Giorgian de Arrascaeta , Luis Suárez 
-Portugal,away, 5' ,Goal, Ricardo Horta , Diogo Dalot 
-South Korea,home, 27' ,Goal, Kim Young-gwon ,
-South Korea,home, 91' ,Goal, Hwang Hee-chan , Son Heung-min 
-Spain,away, 11' ,Goal, Álvaro Morata , César Azpilicueta 
-Japan,home, 48' ,Goal, Ritsu Dōan , Junya Ito 
-Japan,home, 51' ,Goal, Ao Tanaka , Kaoru Mitoma 
-Germany,away, 10' ,Goal, Serge Gnabry , David Raum 
-Costa Rica,home, 58' ,Goal, Yeltsin Tejeda ,
-Costa Rica,home, 70' ,Goal, Juan Pablo Vargas ,
-Germany,away, 73' ,Goal, Kai Havertz , Niclas Füllkrug 
-Germany,away, 85' ,Goal, Kai Havertz , Serge Gnabry 
-Germany,away, 89' ,Goal, Niclas Füllkrug , Leroy Sané 
-Morocco,away, 4' ,Goal, Hakim Ziyech ,
-Morocco,away, 23' ,Goal, Youssef En-Nesyri , Achraf Hakimi 
-Canada,home, 40' ,Own goal, Nayef Aguerd , Own goal 
-Mexico,away, 47' ,Goal, Henry Martín , César Montes 
-Mexico,away, 52' ,Goal, Luis Chávez ,
-Saudi Arabia,home, 95' ,Goal, Salem Al-Dawsari , Hattan Bahebri 
-Argentina,away, 46' ,Goal, Alexis Mac Allister , Nahuel Molina 
-Argentina,away, 67' ,Goal, Julián Álvarez , Enzo Fernández 
-Tunisia,home, 58' ,Goal, Wahbi Khazri , Aïssa Laïdouni 
-Australia,home, 60' ,Goal, Mathew Leckie , Riley McGree 
-USA,away, 38' ,Goal, Christian Pulisic , Sergiño Dest 
-England,away, 50' ,Goal, Marcus Rashford ,
-England,away, 51' ,Goal, Phil Foden , Harry Kane 
-England,away, 68' ,Goal, Marcus Rashford , Kalvin Phillips 
-Netherlands,home, 26' ,Goal, Cody Gakpo , Davy Klaassen 
-Netherlands,home, 49' ,Goal, Frenkie de Jong ,
-Senegal,away, 44' ,Penalty, Ismaïla Sarr , Penalty 
-Ecuador,home, 67' ,Goal, Moisés Caicedo , Félix Torres 
-Senegal,away, 70' ,Goal, Kalidou Koulibaly ,
-Portugal,home, 54' ,Goal, Bruno Fernandes , Raphaël Guerreiro 
-Portugal,home, 93' ,Penalty, Bruno Fernandes , Penalty 
-Brazil,home, 83' ,Goal, Casemiro , Rodrygo 
-Ghana,away, 24' ,Goal, Mohammed Salisu ,
-Ghana,away, 34' ,Goal, Mohammed Kudus , Jordan Ayew 
-South Korea,home, 58' ,Goal, Cho Gue-sung , Lee Kang-in 
-South Korea,home, 61' ,Goal, Cho Gue-sung , Kim Jin-su 
-Ghana,away, 68' ,Goal, Mohammed Kudus , Iñaki Williams 
-Cameroon,home, 29' ,Goal, Jean-Charles Castelletto ,
-Serbia,away, 46' ,Goal, Strahinja Pavlović , Dušan Tadić 
-Serbia,away, 48' ,Goal, Sergej Milinković-Savić , Andrija Živković 
-Serbia,away, 53' ,Goal, Aleksandar Mitrović , Andrija Živković 
-Cameroon,home, 63' ,Goal, Vincent Aboubakar , Jean-Charles Castelletto 
-Cameroon,home, 66' ,Goal, Eric Maxim Choupo-Moting , Vincent Aboubakar 
-Spain,home, 62' ,Goal, Álvaro Morata , Jordi Alba 
-Germany,away, 83' ,Goal, Niclas Füllkrug , Jamal Musiala 
-Canada,away, 2' ,Goal, Alphonso Davies , Tajon Buchanan 
-Croatia,home, 36' ,Goal, Andrej Kramarić , Ivan Perišić 
-Croatia,home, 44' ,Goal, Marko Livaja , Josip Juranović 
-Croatia,home, 70' ,Goal, Andrej Kramarić , Ivan Perišić 
-Croatia,home, 94' ,Goal, Lovro Majer , Mislav Oršić 
-Morocco,away, 73' ,Goal, Romain Saïss , Abdelhamid Sabiri 
-Morocco,away, 92' ,Goal, Zakaria Aboukhlal , Hakim Ziyech 
-Costa Rica,away, 81' ,Goal, Keysher Fuller , Yeltsin Tejeda 
-Argentina,home, 64' ,Goal, Lionel Messi , Ángel Di María 
-Argentina,home, 87' ,Goal, Enzo Fernández , Lionel Messi 
-France,home, 61' ,Goal, Kylian Mbappé , Theo Hernandez 
-Denmark,away, 68' ,Goal, Andreas Christensen , Joachim Andersen 
-France,home, 86' ,Goal, Kylian Mbappé , Antoine Griezmann 
-Poland,home, 39' ,Goal, Piotr Zieliński , Robert Lewandowski 
-Poland,home, 82' ,Goal, Robert Lewandowski ,
-Australia,away, 23' ,Goal, Mitchell Duke ,
-Netherlands,home, 6' ,Goal, Cody Gakpo , Davy Klaassen 
-Ecuador,away, 49' ,Goal, Enner Valencia ,
-Senegal,away, 41' ,Goal, Boulaye Dia ,
-Senegal,away, 48' ,Goal, Famara Diédhiou , Ismail Jakobs 
-Qatar,home, 78' ,Goal, Mohammed Muntari , Ismail Mohammad 
-Senegal,away, 84' ,Goal, Bamba Dieng , Iliman Ndiaye 
-Iran,away, 98' ,Goal, Roozbeh Cheshmi ,
-Iran,away, 101' ,Goal, Ramin Rezaeian , Mehdi Taremi 
-Brazil,home, 62' ,Goal, Richarlison ,
-Brazil,home, 73' ,Goal, Richarlison , Vinícius Júnior 
-Portugal,home, 65' ,Penalty, Cristiano Ronaldo , Penalty 
-Ghana,away, 73' ,Goal, André Ayew ,
-Portugal,home, 78' ,Goal, João Félix , Bruno Fernandes 
-Portugal,home, 80' ,Goal, Rafael Leão , Bruno Fernandes 
-Ghana,away, 89' ,Goal, Osman Bukari ,
-Switzerland,home, 48' ,Goal, Breel Embolo , Xherdan Shaqiri 
-Belgium,home, 44' ,Goal, Michy Batshuayi , Toby Alderweireld 
-Spain,home, 11' ,Goal, Dani Olmo ,
-Spain,home, 21' ,Goal, Marco Asensio , Jordi Alba 
-Spain,home, 31' ,Penalty, Ferran Torres , Penalty 
-Spain,home, 54' ,Goal, Ferran Torres ,
-Spain,home, 74' ,Goal, Gavi , Álvaro Morata 
-Spain,home, 90' ,Goal, Carlos Soler ,
-Spain,home, 92' ,Goal, Álvaro Morata , Dani Olmo 
-Germany,home, 33' ,Penalty, Ilkay Gündoğan , Penalty 
-Japan,away, 75' ,Goal, Ritsu Dōan ,
-Japan,away, 83' ,Goal, Takuma Asano , Ko Itakura 
-Australia,away, 9' ,Goal, Craig Goodwin , Mathew Leckie 
-France,home, 27' ,Goal, Adrien Rabiot , Theo Hernandez 
-France,home, 32' ,Goal, Olivier Giroud , Adrien Rabiot 
-France,home, 68' ,Goal, Kylian Mbappé , Ousmane Dembélé 
-France,home, 71' ,Goal, Olivier Giroud , Kylian Mbappé 
-Argentina,home, 10' ,Penalty, Lionel Messi , Penalty 
-Saudi Arabia,away, 48' ,Goal, Saleh Al-Shehri , Firas Al-Buraikan 
-Saudi Arabia,away, 53' ,Goal, Salem Al-Dawsari ,
-USA,home, 36' ,Goal, Tim Weah , Christian Pulisic 
-Wales,away, 82' ,Penalty, Gareth Bale , Penalty 
-Netherlands,away, 84' ,Goal, Cody Gakpo , Frenkie de Jong 
-Netherlands,away, 99' ,Goal, Davy Klaassen ,
-England,home, 35' ,Goal, Jude Bellingham , Luke Shaw 
-England,home, 43' ,Goal, Bukayo Saka , Harry Maguire 
-England,home, 46' ,Goal, Raheem Sterling , Harry Kane 
-England,home, 62' ,Goal, Bukayo Saka , Raheem Sterling 
-Iran,away, 65' ,Goal, Mehdi Taremi , Ali Gholizadeh 
-England,home, 71' ,Goal, Marcus Rashford , Harry Kane 
-England,home, 90' ,Goal, Jack Grealish , Callum Wilson 
-Iran,away, 103' ,Penalty, Mehdi Taremi , Penalty 
-Ecuador,away, 16' ,Penalty, Enner Valencia , Penalty 
-Ecuador,away, 31' ,Goal, Enner Valencia , Ángelo Preciado 
+player_name,total_goals
+ Kylian Mbappé ,8
+ Lionel Messi ,7
+ Julián Álvarez ,4
+ Olivier Giroud ,4
+ Richarlison ,3
+ Gonçalo Ramos ,3
+ Álvaro Morata ,3
+ Enner Valencia ,3
+ Bukayo Saka ,3
+ Marcus Rashford ,3
+ Cody Gakpo ,3
+ Salem Al-Dawsari ,2
+ Niclas Füllkrug ,2
+ Andrej Kramarić ,2
+ Ferran Torres ,2
+ Ritsu Dōan ,2
+ Giorgian de Arrascaeta ,2
+ Cho Gue-sung ,2
+ Vincent Aboubakar ,2
+ Breel Embolo ,2
+ Aleksandar Mitrović ,2
+ Enzo Fernández ,2
+ Robert Lewandowski ,2
+ Mohammed Kudus ,2
+ Kai Havertz ,2
+ Bruno Fernandes ,2
+ Mehdi Taremi ,2
+ Youssef En-Nesyri ,2
+ Wout Weghorst ,2
+ Rafael Leão ,2
+ Neymar ,2
+ Harry Kane ,2
+ Marco Asensio ,1
+ Marko Livaja ,1
+ Keysher Fuller ,1
+ Zakaria Aboukhlal ,1
+ Romain Saïss ,1
+ Lovro Majer ,1
+ Tim Weah ,1
+ Gareth Bale ,1
+ Piotr Zieliński ,1
+ Alphonso Davies ,1
+ Eric Maxim Choupo-Moting ,1
+ Davy Klaassen ,1
+ Sergej Milinković-Savić ,1
+ Jude Bellingham ,1
+ Strahinja Pavlović ,1
+ Jean-Charles Castelletto ,1
+ Raheem Sterling ,1
+ Andreas Christensen ,1
+ Saleh Al-Shehri ,1
+ Mitchell Duke ,1
+ Dani Olmo ,1
+ Michy Batshuayi ,1
+ Gavi ,1
+ Carlos Soler ,1
+ Osman Bukari ,1
+ João Félix ,1
+ André Ayew ,1
+ Mohammed Salisu ,1
+ Ramin Rezaeian ,1
+ Ilkay Gündoğan ,1
+ Roozbeh Cheshmi ,1
+ Takuma Asano ,1
+ Bamba Dieng ,1
+ Craig Goodwin ,1
+ Adrien Rabiot ,1
+ Mohammed Muntari ,1
+ Famara Diédhiou ,1
+ Boulaye Dia ,1
+ Cristiano Ronaldo ,1
+ Alexis Mac Allister ,1
+ Casemiro ,1
+ Manuel Akanji ,1
+ Haji Wright ,1
+ Daley Blind ,1
+ Memphis ,1
+ Jordan Henderson ,1
+ Ivan Perišić ,1
+ Daizen Maeda ,1
+ Paik Seung-ho ,1
+ Lucas Paquetá ,1
+ Vinícius Júnior ,1
+ Raphaël Guerreiro ,1
+ Kalidou Koulibaly ,1
+ Pepe ,1
+ Bruno Petković ,1
+ Nahuel Molina ,1
+ Aurélien Tchouaméni ,1
+ Randal Kolo Muani ,1
+ Theo Hernandez ,1
+ Mislav Oršić ,1
+ Achraf Dari ,1
+ Joško Gvardiol ,1
+ Denzel Dumfries ,1
+ Xherdan Shaqiri ,1
+ Dušan Vlahović ,1
+ Remo Freuler ,1
+ Moisés Caicedo ,1
+ Ismaïla Sarr ,1
+ Frenkie de Jong ,1
+ Phil Foden ,1
+ Christian Pulisic ,1
+ Mathew Leckie ,1
+ Wahbi Khazri ,1
+ Ángel Di María ,1
+ Luis Chávez ,1
+ Henry Martín ,1
+ Nayef Aguerd ,1
+ Hakim Ziyech ,1
+ Juan Pablo Vargas ,1
+ Yeltsin Tejeda ,1
+ Serge Gnabry ,1
+ Ao Tanaka ,1
+ Hwang Hee-chan ,1
+ Kim Young-gwon ,1
+ Ricardo Horta ,1
+ Jack Grealish ,1
