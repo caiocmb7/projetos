@@ -62,6 +62,11 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 <a name="views"></a>
 ## 📈 Views
 
+* Feature Engineering
+    - Percentage dtype manipulation;
+    - Transforming lineup_home and lineup_away columns which contains list of dictionaries into new columns;
+    - Transforming events_list column into a new dataframe that will be use for global statistics.
+
 * Global statistics from each team, total of goals (top scorers), total of assists (top assistances), total team goals, etc;
 
 * Ball possession for the 2022 World Cup was not a decisive factor in whether a team will win the match, as out of the 54 games that resulted in a win or loss for a team, only half (27) were determined by equality (ball possession and victory).
