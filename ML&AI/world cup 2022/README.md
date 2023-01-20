@@ -83,7 +83,9 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 * Predictions columns were analyzed to indicate if there was a upset case in the games.
     - In 64 games, we had 25 upset games (prediction not equals to the real winner of the game)
 
-* Clustering using k-means to realize new insights
+* Clustering to realize new insights
+    - K-means
+    - DBScan
 
 * Build ML Algorithms using k-fold and gridsearch to predict home team winning, drawing or away team winning
     - Compare results using SVM, LogisticRegression and RandomForestClassifier
