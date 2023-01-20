@@ -1,1044 +1,1044 @@
-team,event_team,event_time,event_type,action_player_1,action_player_2
-Argentina,home, 23' ,Penalty, Lionel Messi , Penalty 
-Argentina,home, 36' ,Goal, Ángel Di María , Alexis Mac Allister 
-France,away, 41' ,Substitution, Randal Kolo Muani , Ousmane Dembélé 
-France,away, 41' ,Substitution, Marcus Thuram , Olivier Giroud 
-Argentina,home, 52' ,Yellow card, Enzo Fernández ,
-France,away, 55' ,Yellow card, Adrien Rabiot ,
-Argentina,home, 64' ,Substitution, Marcos Acuña , Ángel Di María 
-France,away, 71' ,Substitution, Eduardo Camavinga , Theo Hernandez 
-France,away, 71' ,Substitution, Kingsley Coman , Antoine Griezmann 
-France,away, 80' ,Penalty, Kylian Mbappé , Penalty 
-France,away, 81' ,Goal, Kylian Mbappé , Marcus Thuram 
-France,away, 87' ,Yellow card, Marcus Thuram ,
-France,away, 95' ,Yellow card, Olivier Giroud ,
-Argentina,home, 98' ,Yellow card, Marcos Acuña ,
-Argentina,home, 90' ,Substitution, Gonzalo Montiel , Nahuel Molina 
-France,away, 96' ,Substitution, Youssouf Fofana , Adrien Rabiot 
-Argentina,home, 102' ,Substitution, Leandro Paredes , Rodrigo De Paul 
-Argentina,home, 103' ,Substitution, Lautaro Martínez , Julián Álvarez 
-Argentina,home, 108' ,Goal, Lionel Messi ,
-France,away, 113' ,Substitution, Ibrahima Konaté , Raphaël Varane 
-Argentina,home, 114' ,Yellow card, Leandro Paredes ,
-Argentina,home, 116' ,Yellow card, Gonzalo Montiel ,
-Argentina,home, 116' ,Substitution, Germán Pezzella , Alexis Mac Allister 
-France,away, 118' ,Penalty, Kylian Mbappé , Penalty 
-Argentina,home, 121' ,Substitution, Paulo Dybala , Nicolás Tagliafico 
-France,away, 121' ,Substitution, Axel Disasi , Jules Koundé 
-France,away,False,PK,,
-Argentina,home,False,PK,,
-France,away,False,PK,,
-Argentina,home,False,PK,,
-France,away,False,PK,,
-Argentina,home,False,PK,,
-France,away,False,PK,,
-Argentina,home,False,PK,,
-Argentina,home, 126' ,Yellow card, Emiliano Martínez ,
-Croatia,home, 7' ,Goal, Joško Gvardiol , Ivan Perišić 
-Morocco,away, 9' ,Goal, Achraf Dari ,
-Croatia,home, 42' ,Goal, Mislav Oršić , Marko Livaja 
-Morocco,away, 45' ,Substitution, Ilias Chair , Abdelhamid Sabiri 
-Morocco,away, 56' ,Substitution, Azzedine Ounahi , Bilal El Khannous 
-Croatia,home, 61' ,Substitution, Nikola Vlašić , Andrej Kramarić 
-Morocco,away, 64' ,Substitution, Badr Benoun , Achraf Dari 
-Morocco,away, 64' ,Substitution, Anass Zaroury , Sofiane Boufal 
-Croatia,home, 66' ,Substitution, Bruno Petković , Marko Livaja 
-Croatia,home, 67' ,Substitution, Mario Pašalić , Lovro Majer 
-Morocco,away, 67' ,Substitution, Selim Amallah , Jawad El Yamiq 
-Morocco,away, 69' ,Yellow card, Azzedine Ounahi ,
-Morocco,away, 84' ,Yellow card, Selim Amallah ,
-Croatia,home, 95' ,Substitution, Kristijan Jakić , Mislav Oršić 
-France,home, 5' ,Goal, Theo Hernandez ,
-Morocco,away, 21' ,Substitution, Selim Amallah , Romain Saïss 
-Morocco,away, 27' ,Yellow card, Sofiane Boufal ,
-Morocco,away, 45' ,Substitution, Yahia Attiyat Allah , Noussair Mazraoui 
-France,home, 65' ,Substitution, Marcus Thuram , Olivier Giroud 
-Morocco,away, 66' ,Substitution, Abderrazak Hamdallah , Youssef En-Nesyri 
-Morocco,away, 67' ,Substitution, Zakaria Aboukhlal , Sofiane Boufal 
-Morocco,away, 78' ,Substitution, Abdessamad Ezzalzouli , Selim Amallah 
-France,home, 79' ,Substitution, Randal Kolo Muani , Ousmane Dembélé 
-France,home, 79' ,Goal, Randal Kolo Muani ,
-Croatia,away, 32' ,Yellow card, Dominik Livaković ,
-Croatia,away, 32' ,Yellow card, Mateo Kovačić ,
-Argentina,home, 34' ,Penalty, Lionel Messi , Penalty 
-Argentina,home, 39' ,Goal, Julián Álvarez ,
-Croatia,away, 45' ,Substitution, Mislav Oršić , Borna Sosa 
-Croatia,away, 45' ,Substitution, Nikola Vlašić , Mario Pašalić 
-Croatia,away, 50' ,Substitution, Bruno Petković , Marcelo Brozović 
-Argentina,home, 62' ,Substitution, Lisandro Martínez , Leandro Paredes 
-Argentina,home, 68' ,Yellow card, Cristian Romero ,
-Argentina,home, 69' ,Goal, Julián Álvarez , Lionel Messi 
-Argentina,home, 71' ,Yellow card, Nicolás Otamendi ,
-Croatia,away, 72' ,Substitution, Marko Livaja , Andrej Kramarić 
-Argentina,home, 74' ,Substitution, Exequiel Palacios , Rodrigo De Paul 
-Argentina,home, 74' ,Substitution, Paulo Dybala , Julián Álvarez 
-Croatia,away, 81' ,Substitution, Lovro Majer , Luka Modrić 
-Argentina,home, 86' ,Substitution, Ángel Correa , Alexis Mac Allister 
-Argentina,home, 86' ,Substitution, Juan Foyth , Nahuel Molina 
-France,away, 17' ,Goal, Aurélien Tchouaméni , Antoine Griezmann 
-France,away, 43' ,Yellow card, Antoine Griezmann ,
-France,away, 46' ,Yellow card, Ousmane Dembélé ,
-England,home, 54' ,Penalty, Harry Kane , Penalty 
-France,away, 78' ,Goal, Olivier Giroud , Antoine Griezmann 
-England,home, 79' ,Substitution, Mason Mount , Jordan Henderson 
-France,away, 79' ,Substitution, Kingsley Coman , Ousmane Dembélé 
-England,home, 79' ,Substitution, Raheem Sterling , Bukayo Saka 
-France,away, 82' ,Yellow card, Theo Hernandez ,
-England,home, 84' ,Missed penalty, Harry Kane , Missed penalty 
-England,home, 85' ,Substitution, Marcus Rashford , Phil Foden 
-England,home, 90' ,Yellow card, Harry Maguire ,
-England,home, 98' ,Substitution, Jack Grealish , John Stones 
-Morocco,home, 42' ,Goal, Youssef En-Nesyri , Yahia Attiyat Allah 
-Portugal,away, 51' ,Substitution, João Cancelo , Raphaël Guerreiro 
-Portugal,away, 51' ,Substitution, Cristiano Ronaldo , Rúben Neves 
-Morocco,home, 57' ,Substitution, Achraf Dari , Romain Saïss 
-Morocco,home, 65' ,Substitution, Walid Cheddira , Selim Amallah 
-Morocco,home, 65' ,Substitution, Badr Benoun , Youssef En-Nesyri 
-Portugal,away, 69' ,Substitution, Rafael Leão , Gonçalo Ramos 
-Portugal,away, 69' ,Substitution, Vitinha , Otávio 
-Morocco,home, 70' ,Yellow card, Achraf Dari ,
-Portugal,away, 79' ,Substitution, Ricardo Horta , Diogo Dalot 
-Morocco,home, 82' ,Substitution, Zakaria Aboukhlal , Hakim Ziyech 
-Morocco,home, 82' ,Substitution, Yahya Jabrane , Sofiane Boufal 
-Portugal,away, 87' ,Yellow card, Vitinha ,
-Morocco,home, 91' ,Yellow card, Walid Cheddira ,
-Morocco,home, 93' ,Second yellow card, Walid Cheddira ,
-Argentina,away, 35' ,Goal, Nahuel Molina , Lionel Messi 
-Netherlands,home, 43' ,Yellow card, Jurriën Timber ,
-Argentina,away, 43' ,Yellow card, Marcos Acuña ,
-Argentina,away, 45' ,Yellow card, Cristian Romero ,
-Netherlands,home, 47' ,Yellow card, Wout Weghorst ,
-Netherlands,home, 45' ,Substitution, Steven Berghuis , Steven Bergwijn 
-Netherlands,home, 45' ,Substitution, Teun Koopmeiners , Marten de Roon 
-Netherlands,home, 64' ,Substitution, Luuk de Jong , Daley Blind 
-Argentina,away, 66' ,Substitution, Leandro Paredes , Rodrigo De Paul 
-Argentina,away, 73' ,Penalty, Lionel Messi , Penalty 
-Netherlands,home, 76' ,Yellow card, Memphis ,
-Argentina,away, 76' ,Yellow card, Lisandro Martínez ,
-Argentina,away, 78' ,Substitution, Nicolás Tagliafico , Marcos Acuña 
-Argentina,away, 78' ,Substitution, Germán Pezzella , Cristian Romero 
-Netherlands,home, 78' ,Substitution, Wout Weghorst , Memphis 
-Argentina,away, 82' ,Substitution, Lautaro Martínez , Julián Álvarez 
-Netherlands,home, 83' ,Goal, Wout Weghorst , Steven Berghuis 
-Netherlands,home, 88' ,Yellow card, Steven Berghuis ,
-Argentina,away, 89' ,Yellow card, Leandro Paredes ,
-Argentina,away, 100' ,Yellow card, Lionel Messi ,
-Netherlands,home, 101' ,Goal, Wout Weghorst , Teun Koopmeiners 
-Argentina,away, 101' ,Yellow card, Nicolás Otamendi ,
-Netherlands,home, 104' ,Yellow card, Steven Bergwijn ,
-Argentina,away, 105' ,Substitution, Gonzalo Montiel , Nahuel Molina 
-Argentina,away, 109' ,Yellow card, Gonzalo Montiel ,
-Argentina,away, 112' ,Substitution, Ángel Di María , Lisandro Martínez 
-Argentina,away, 112' ,Yellow card, Germán Pezzella ,
-Netherlands,home, 113' ,Substitution, Noa Lang , Cody Gakpo 
-Netherlands,home,False,PK,,
-Argentina,away,False,PK,,
-Netherlands,home,False,PK,,
-Argentina,away,False,PK,,
-Netherlands,home,False,PK,,
-Argentina,away,False,PK,,
-Netherlands,home,False,PK,,
-Argentina,away,False,PK,,
-Netherlands,home,False,PK,,
-Argentina,away,False,PK,,
-Netherlands,home, 128' ,Yellow card, Denzel Dumfries ,
-Netherlands,home, 128' ,Yellow card, Noa Lang ,
-Netherlands,home, 128' ,Second yellow card, Denzel Dumfries ,
-Brazil,away, 25' ,Yellow card, Danilo ,
-Croatia,home, 31' ,Yellow card, Marcelo Brozović ,
-Brazil,away, 56' ,Substitution, Antony , Raphinha 
-Brazil,away, 64' ,Substitution, Rodrygo , Vinícius Júnior 
-Brazil,away, 68' ,Yellow card, Casemiro ,
-Croatia,home, 72' ,Substitution, Nikola Vlašić , Mario Pašalić 
-Croatia,home, 72' ,Substitution, Bruno Petković , Andrej Kramarić 
-Brazil,away, 77' ,Yellow card, Marquinhos ,
-Brazil,away, 84' ,Substitution, Pedro , Richarlison 
-Brazil,away, 106' ,Goal, Neymar , Lucas Paquetá 
-Croatia,home, 105' ,Substitution, Lovro Majer , Mateo Kovačić 
-Brazil,away, 105' ,Substitution, Alex Sandro , Éder Militão 
-Brazil,away, 105' ,Substitution, Fred , Lucas Paquetá 
-Croatia,home, 110' ,Substitution, Ante Budimir , Borna Sosa 
-Croatia,home, 114' ,Substitution, Mislav Oršić , Marcelo Brozović 
-Croatia,home, 117' ,Goal, Bruno Petković , Mislav Oršić 
-Croatia,home, 117' ,Yellow card, Bruno Petković ,
-Croatia,home,False,PK,,
-Brazil,away,False,PK,,
-Croatia,home,False,PK,,
-Brazil,away,False,PK,,
-Croatia,home,False,PK,,
-Brazil,away,False,PK,,
-Croatia,home,False,PK,,
-Brazil,away,False,PK,,
-Portugal,home, 17' ,Goal, Gonçalo Ramos , João Félix 
-Portugal,home, 33' ,Goal, Pepe , Bruno Fernandes 
-Switzerland,away, 43' ,Yellow card, Fabian Schär ,
-Switzerland,away, 45' ,Substitution, Eray Cömert , Fabian Schär 
-Portugal,home, 51' ,Goal, Gonçalo Ramos ,
-Switzerland,away, 54' ,Substitution, Denis Zakaria , Remo Freuler 
-Switzerland,away, 54' ,Substitution, Haris Seferovic , Djibril Sow 
-Portugal,home, 55' ,Goal, Raphaël Guerreiro , Gonçalo Ramos 
-Switzerland,away, 58' ,Goal, Manuel Akanji ,
-Switzerland,away, 59' ,Yellow card, Eray Cömert ,
-Switzerland,away, 66' ,Substitution, Noah Okafor , Ruben Vargas 
-Portugal,home, 67' ,Goal, Gonçalo Ramos , João Félix 
-Portugal,home, 73' ,Substitution, Cristiano Ronaldo , João Félix 
-Portugal,home, 74' ,Substitution, Ricardo Horta , Gonçalo Ramos 
-Portugal,home, 74' ,Substitution, Vitinha , Otávio 
-Portugal,home, 81' ,Substitution, Rúben Neves , Bernardo Silva 
-Portugal,home, 87' ,Substitution, Rafael Leão , Bruno Fernandes 
-Switzerland,away, 89' ,Substitution, Ardon Jashari , Breel Embolo 
-Portugal,home, 92' ,Goal, Rafael Leão , Raphaël Guerreiro 
-Spain,away, 63' ,Substitution, Álvaro Morata , Marco Asensio 
-Spain,away, 63' ,Substitution, Carlos Soler , Gavi 
-Morocco,home, 66' ,Substitution, Abdessamad Ezzalzouli , Sofiane Boufal 
-Spain,away, 75' ,Substitution, Nico Williams , Ferran Torres 
-Spain,away, 76' ,Yellow card, Aymeric Laporte ,
-Morocco,home, 82' ,Substitution, Walid Cheddira , Selim Amallah 
-Morocco,home, 82' ,Substitution, Abdelhamid Sabiri , Youssef En-Nesyri 
-Morocco,home, 82' ,Substitution, Yahia Attiyat Allah , Noussair Mazraoui 
-Morocco,home, 84' ,Substitution, Jawad El Yamiq , Nayef Aguerd 
-Morocco,home, 90' ,Yellow card, Romain Saïss ,
-Spain,away, 98' ,Substitution, Ansu Fati , Dani Olmo 
-Spain,away, 98' ,Substitution, Alejandro Baldé , Jordi Alba 
-Spain,away, 118' ,Substitution, Pablo Sarabia , Nico Williams 
-Morocco,home, 120' ,Substitution, Badr Benoun , Azzedine Ounahi 
-Morocco,home,False,PK,,
-Spain,away,False,PK,,
-Morocco,home,False,PK,,
-Spain,away,False,PK,,
-Morocco,home,False,PK,,
-Spain,away,False,PK,,
-Morocco,home,False,PK,,
-Brazil,home, 7' ,Goal, Vinícius Júnior , Neymar 
-Brazil,home, 13' ,Penalty, Neymar , Penalty 
-Brazil,home, 29' ,Goal, Richarlison , Thiago Silva 
-Brazil,home, 36' ,Goal, Lucas Paquetá , Vinícius Júnior 
-South Korea,away, 44' ,Yellow card, Jung Woo-young ,
-South Korea,away, 45' ,Substitution, Hong Chul , Kim Jin-su 
-South Korea,away, 45' ,Substitution, Son Jun-ho , Jung Woo-young 
-Brazil,home, 63' ,Substitution, Dani Alves , Éder Militão 
-South Korea,away, 65' ,Substitution, Paik Seung-ho , Hwang In-beom 
-Brazil,home, 72' ,Substitution, Bremer , Danilo 
-Brazil,home, 72' ,Substitution, Gabriel Martinelli , Vinícius Júnior 
-South Korea,away, 74' ,Substitution, Lee Kang-in , Lee Jae-sung 
-South Korea,away, 76' ,Goal, Paik Seung-ho ,
-Brazil,home, 80' ,Substitution, Weverton , Alisson 
-South Korea,away, 80' ,Substitution, Hwang Ui-jo , Cho Gue-sung 
-Brazil,home, 81' ,Substitution, Rodrygo , Neymar 
-Japan,home, 43' ,Goal, Daizen Maeda , Maya Yoshida 
-Croatia,away, 55' ,Goal, Ivan Perišić , Dejan Lovren 
-Croatia,away, 62' ,Substitution, Ante Budimir , Bruno Petković 
-Japan,home, 64' ,Substitution, Kaoru Mitoma , Yuto Nagatomo 
-Japan,home, 64' ,Substitution, Takuma Asano , Daizen Maeda 
-Croatia,away, 68' ,Substitution, Mario Pašalić , Andrej Kramarić 
-Japan,home, 75' ,Substitution, Hiroki Sakai , Daichi Kamada 
-Japan,home, 87' ,Substitution, Takumi Minamino , Ritsu Dōan 
-Croatia,away, 90' ,Yellow card, Mateo Kovačić ,
-Croatia,away, 99' ,Substitution, Lovro Majer , Luka Modrić 
-Croatia,away, 99' ,Substitution, Nikola Vlašić , Mateo Kovačić 
-Japan,home, 105' ,Substitution, Ao Tanaka , Hidemasa Morita 
-Croatia,away, 105' ,Substitution, Marko Livaja , Ante Budimir 
-Croatia,away, 105' ,Substitution, Mislav Oršić , Ivan Perišić 
-Croatia,away, 116' ,Yellow card, Borna Barišić ,
-Japan,home,False,PK,,
-Croatia,away,False,PK,,
-Japan,home,False,PK,,
-Croatia,away,False,PK,,
-Japan,home,False,PK,,
-Croatia,away,False,PK,,
-Japan,home,False,PK,,
-Croatia,away,False,PK,,
-England,home, 39' ,Goal, Jordan Henderson , Jude Bellingham 
-England,home, 48' ,Goal, Harry Kane , Phil Foden 
-Senegal,away, 45' ,Substitution, Pape Gueye , Pathé Ciss 
-Senegal,away, 45' ,Substitution, Bamba Dieng , Iliman Ndiaye 
-Senegal,away, 45' ,Substitution, Pape Matar Sarr , Krépin Diatta 
-England,home, 57' ,Goal, Bukayo Saka , Phil Foden 
-England,home, 65' ,Substitution, Marcus Rashford , Bukayo Saka 
-England,home, 65' ,Substitution, Jack Grealish , Phil Foden 
-Senegal,away, 72' ,Substitution, Famara Diédhiou , Boulaye Dia 
-Senegal,away, 76' ,Yellow card, Kalidou Koulibaly ,
-England,home, 76' ,Substitution, Mason Mount , Jude Bellingham 
-England,home, 77' ,Substitution, Eric Dier , John Stones 
-England,home, 82' ,Substitution, Kalvin Phillips , Jordan Henderson 
-Senegal,away, 84' ,Substitution, Fodé Ballo-Touré , Ismail Jakobs 
-France,home, 31' ,Yellow card, Aurélien Tchouaméni ,
-France,home, 44' ,Goal, Olivier Giroud , Kylian Mbappé 
-Poland,away, 47' ,Yellow card, Bartosz Bereszyński ,
-Poland,away, 64' ,Substitution, Arek Milik , Sebastian Szymański 
-France,home, 66' ,Substitution, Youssouf Fofana , Aurélien Tchouaméni 
-Poland,away, 71' ,Substitution, Nicola Zalewski , Jakub Kamiński 
-Poland,away, 71' ,Substitution, Krystian Bielik , Grzegorz Krychowiak 
-France,home, 74' ,Goal, Kylian Mbappé , Ousmane Dembélé 
-France,home, 76' ,Substitution, Marcus Thuram , Olivier Giroud 
-France,home, 76' ,Substitution, Kingsley Coman , Ousmane Dembélé 
-Poland,away, 86' ,Substitution, Jan Bednarek , Jakub Kiwior 
-Poland,away, 87' ,Substitution, Kamil Grosicki , Przemysław Frankowski 
-Poland,away, 88' ,Yellow card, Matty Cash ,
-France,home, 91' ,Goal, Kylian Mbappé , Marcus Thuram 
-France,home, 92' ,Substitution, Axel Disasi , Jules Koundé 
-Poland,away, 99' ,Penalty, Robert Lewandowski , Penalty 
-Australia,away, 15' ,Yellow card, Jackson Irvine ,
-Argentina,home, 35' ,Goal, Lionel Messi , Nicolás Otamendi 
-Australia,away, 38' ,Yellow card, Miloš Degenek ,
-Argentina,home, 50' ,Substitution, Lisandro Martínez , Papu Gómez 
-Argentina,home, 57' ,Goal, Julián Álvarez ,
-Australia,away, 58' ,Substitution, Ajdin Hrustić , Keanu Baccus 
-Australia,away, 58' ,Substitution, Craig Goodwin , Riley McGree 
-Argentina,home, 71' ,Substitution, Lautaro Martínez , Julián Álvarez 
-Argentina,home, 72' ,Substitution, Nicolás Tagliafico , Marcos Acuña 
-Australia,away, 72' ,Substitution, Jamie Maclaren , Mitchell Duke 
-Australia,away, 72' ,Substitution, Garang Kuol , Mathew Leckie 
-Australia,away, 72' ,Substitution, Fran Karačić , Miloš Degenek 
-Australia,away, 77' ,Own goal, Enzo Fernández , Own goal 
-Argentina,home, 80' ,Substitution, Gonzalo Montiel , Alexis Mac Allister 
-Argentina,home, 80' ,Substitution, Exequiel Palacios , Nahuel Molina 
-Netherlands,home, 10' ,Goal, Memphis , Denzel Dumfries 
-Netherlands,home, 46' ,Goal, Daley Blind , Denzel Dumfries 
-Netherlands,home, 45' ,Substitution, Teun Koopmeiners , Davy Klaassen 
-USA,away, 45' ,Substitution, Giovanni Reyna , Jesús Ferreira 
-Netherlands,home, 45' ,Substitution, Steven Bergwijn , Marten de Roon 
-Netherlands,home, 60' ,Yellow card, Teun Koopmeiners ,
-USA,away, 67' ,Substitution, Brenden Aaronson , Tim Weah 
-USA,away, 67' ,Substitution, Haji Wright , Weston McKennie 
-USA,away, 75' ,Substitution, DeAndre Yedlin , Sergiño Dest 
-USA,away, 76' ,Goal, Haji Wright , Christian Pulisic 
-Netherlands,home, 81' ,Goal, Denzel Dumfries , Daley Blind 
-Netherlands,home, 83' ,Substitution, Xavi Simons , Memphis 
-Netherlands,home, 87' ,Yellow card, Frenkie de Jong ,
-USA,away, 92' ,Substitution, Jordan Morris , Antonee Robinson 
-Netherlands,home, 93' ,Substitution, Matthijs de Ligt , Nathan Aké 
-Netherlands,home, 93' ,Substitution, Wout Weghorst , Cody Gakpo 
-Switzerland,away, 15' ,Yellow card, Silvan Widmer ,
-Switzerland,away, 20' ,Goal, Xherdan Shaqiri , Djibril Sow 
-Serbia,home, 26' ,Goal, Aleksandar Mitrović , Dušan Tadić 
-Switzerland,away, 34' ,Yellow card, Ruben Vargas ,
-Serbia,home, 35' ,Goal, Dušan Vlahović ,
-Switzerland,away, 44' ,Goal, Breel Embolo , Silvan Widmer 
-Serbia,home, 47' ,Yellow card, Sergej Milinković-Savić ,
-Switzerland,away, 48' ,Goal, Remo Freuler , Ruben Vargas 
-Serbia,home, 55' ,Substitution, Nemanja Gudelj , Milos Veljkovic 
-Serbia,home, 55' ,Substitution, Luka Jović , Dušan Vlahović 
-Serbia,home, 56' ,Yellow card, Strahinja Pavlović ,
-Serbia,home, 66' ,Yellow card, Predrag Rajković ,
-Serbia,home, 67' ,Substitution, Nemanja Maksimović , Sergej Milinković-Savić 
-Switzerland,away, 68' ,Substitution, Edimilson Fernandes , Djibril Sow 
-Switzerland,away, 69' ,Substitution, Denis Zakaria , Xherdan Shaqiri 
-Serbia,home, 78' ,Substitution, Filip Đuričić , Dušan Tadić 
-Serbia,home, 78' ,Substitution, Nemanja Radonjić , Andrija Živković 
-Serbia,home, 81' ,Yellow card, Nemanja Gudelj ,
-Serbia,home, 82' ,Yellow card, Aleksandar Mitrović ,
-Switzerland,away, 83' ,Substitution, Christian Fassnacht , Ruben Vargas 
-Switzerland,away, 95' ,Yellow card, Granit Xhaka ,
-Serbia,home, 95' ,Yellow card, Nikola Milenković ,
-Switzerland,away, 96' ,Substitution, Noah Okafor , Breel Embolo 
-Switzerland,away, 99' ,Yellow card, Fabian Schär ,
-Serbia,home, 100' ,Yellow card, Saša Lukić ,
-Cameroon,home, 6' ,Yellow card, Nouhou Tolo ,
-Brazil,away, 7' ,Yellow card, Éder Militão ,
-Cameroon,home, 28' ,Yellow card, Pierre Kunde ,
-Cameroon,home, 32' ,Yellow card, Collins Fai ,
-Brazil,away, 54' ,Substitution, Marquinhos , Alex Telles 
-Brazil,away, 55' ,Substitution, Éverton Ribeiro , Rodrygo 
-Brazil,away, 55' ,Substitution, Bruno Guimarães , Fred 
-Cameroon,home, 64' ,Substitution, Karl Toko Ekambi , Bryan Mbeumo 
-Brazil,away, 64' ,Substitution, Pedro , Gabriel Jesus 
-Cameroon,home, 68' ,Substitution, Olivier Ntcham , Pierre Kunde 
-Brazil,away, 79' ,Substitution, Raphinha , Antony 
-Cameroon,home, 81' ,Yellow card, Vincent Aboubakar ,
-Brazil,away, 85' ,Yellow card, Bruno Guimarães ,
-Cameroon,home, 86' ,Substitution, Jerome Ngom Mbekeli , Moumi Ngamaleu 
-Cameroon,home, 92' ,Goal, Vincent Aboubakar , Jerome Ngom Mbekeli 
-Cameroon,home, 93' ,Second yellow card, Vincent Aboubakar ,
-Uruguay,away, 19' ,Yellow card, Darwin Núñez ,
-Ghana,home, 21' ,Missed penalty, André Ayew , Missed penalty 
-Uruguay,away, 26' ,Goal, Giorgian de Arrascaeta ,
-Uruguay,away, 32' ,Goal, Giorgian de Arrascaeta , Luis Suárez 
-Uruguay,away, 34' ,Substitution, Matías Vecino , Rodrigo Bentancur 
-Ghana,home, 45' ,Substitution, Kamaldeen Sulemana , Jordan Ayew 
-Ghana,home, 45' ,Substitution, Osman Bukari , André Ayew 
-Uruguay,away, 60' ,Yellow card, Luis Suárez ,
-Uruguay,away, 66' ,Substitution, Nicolás de la Cruz , Facundo Pellistri 
-Uruguay,away, 66' ,Substitution, Edinson Cavani , Luis Suárez 
-Ghana,home, 72' ,Substitution, Antoine Semenyo , Iñaki Williams 
-Ghana,home, 72' ,Substitution, Daniel-Kofi Kyereh , Salis Abdul Samed 
-Uruguay,away, 80' ,Substitution, Maxi Gómez , Darwin Núñez 
-Uruguay,away, 80' ,Substitution, Agustín Canobbio , Giorgian de Arrascaeta 
-Ghana,home, 86' ,Yellow card, Kamaldeen Sulemana ,
-Uruguay,away, 87' ,Yellow card, Sebastián Coates ,
-Ghana,home, 98' ,Substitution, Abdul Fatawu Issahaku , Mohammed Kudus 
-Ghana,home, 99' ,Yellow card, Alidu Seidu ,
-Uruguay,away, 100' ,Yellow card, Edinson Cavani ,
-Uruguay,away, 100' ,Yellow card, José Giménez ,
-Portugal,away, 5' ,Goal, Ricardo Horta , Diogo Dalot 
-South Korea,home, 27' ,Goal, Kim Young-gwon ,
-South Korea,home, 36' ,Yellow card, Lee Kang-in ,
-Portugal,away, 65' ,Substitution, João Palhinha , Matheus Nunes 
-Portugal,away, 65' ,Substitution, Rafael Leão , Rúben Neves 
-Portugal,away, 65' ,Substitution, André Silva , Cristiano Ronaldo 
-South Korea,home, 66' ,Substitution, Hwang Hee-chan , Lee Jae-sung 
-South Korea,home, 81' ,Substitution, Son Jun-ho , Kim Young-gwon 
-South Korea,home, 81' ,Substitution, Hwang Ui-jo , Lee Kang-in 
-Portugal,away, 81' ,Substitution, Bernardo Silva , Vitinha 
-Portugal,away, 82' ,Substitution, William Carvalho , João Mário 
-South Korea,home, 91' ,Goal, Hwang Hee-chan , Son Heung-min 
-South Korea,home, 92' ,Yellow card, Hwang Hee-chan ,
-South Korea,home, 93' ,Substitution, Cho Yu-min , Cho Gue-sung 
-Spain,away, 11' ,Goal, Álvaro Morata , César Azpilicueta 
-Japan,home, 39' ,Yellow card, Ko Itakura ,
-Japan,home, 44' ,Yellow card, Shogo Taniguchi ,
-Japan,home, 45' ,Yellow card, Maya Yoshida ,
-Japan,home, 45' ,Substitution, Ritsu Dōan , Takefusa Kubo 
-Spain,away, 45' ,Substitution, Dani Carvajal , César Azpilicueta 
-Japan,home, 45' ,Substitution, Kaoru Mitoma , Yuto Nagatomo 
-Japan,home, 48' ,Goal, Ritsu Dōan , Junya Ito 
-Japan,home, 51' ,Goal, Ao Tanaka , Kaoru Mitoma 
-Spain,away, 57' ,Substitution, Ferran Torres , Nico Williams 
-Spain,away, 57' ,Substitution, Marco Asensio , Álvaro Morata 
-Japan,home, 62' ,Substitution, Takuma Asano , Daizen Maeda 
-Spain,away, 68' ,Substitution, Ansu Fati , Gavi 
-Spain,away, 68' ,Substitution, Jordi Alba , Alejandro Baldé 
-Japan,home, 69' ,Substitution, Takehiro Tomiyasu , Daichi Kamada 
-Japan,home, 87' ,Substitution, Wataru Endo , Ao Tanaka 
-Germany,away, 10' ,Goal, Serge Gnabry , David Raum 
-Costa Rica,home, 45' ,Substitution, Youstin Salas , Brandon Aguilera 
-Germany,away, 45' ,Substitution, Lukas Klostermann , Leon Goretzka 
-Germany,away, 55' ,Substitution, Niclas Füllkrug , Ilkay Gündoğan 
-Costa Rica,home, 58' ,Goal, Yeltsin Tejeda ,
-Germany,away, 66' ,Substitution, Kai Havertz , Thomas Müller 
-Germany,away, 67' ,Substitution, Mario Götze , David Raum 
-Costa Rica,home, 70' ,Goal, Juan Pablo Vargas ,
-Germany,away, 73' ,Goal, Kai Havertz , Niclas Füllkrug 
-Costa Rica,home, 74' ,Substitution, Rónald Matarrita , Johan Venegas 
-Costa Rica,home, 74' ,Substitution, Jewison Bennette , Keysher Fuller 
-Costa Rica,home, 76' ,Yellow card, Óscar Duarte ,
-Germany,away, 85' ,Goal, Kai Havertz , Serge Gnabry 
-Germany,away, 89' ,Goal, Niclas Füllkrug , Leroy Sané 
-Costa Rica,home, 93' ,Substitution, Anthony Contreras , Bryan Oviedo 
-Costa Rica,home, 93' ,Substitution, Roan Wilson , Yeltsin Tejeda 
-Germany,away, 93' ,Substitution, Matthias Ginter , Niklas Süle 
-Belgium,away, 45' ,Substitution, Romelu Lukaku , Dries Mertens 
-Belgium,away, 59' ,Substitution, Thorgan Hazard , Leandro Trossard 
-Croatia,home, 64' ,Substitution, Bruno Petković , Marko Livaja 
-Croatia,home, 64' ,Substitution, Mario Pašalić , Andrej Kramarić 
-Belgium,away, 66' ,Yellow card, Leander Dendoncker ,
-Belgium,away, 72' ,Substitution, Jérémy Doku , Yannick Carrasco 
-Belgium,away, 72' ,Substitution, Youri Tielemans , Leander Dendoncker 
-Belgium,away, 87' ,Substitution, Eden Hazard , Thomas Meunier 
-Croatia,home, 92' ,Substitution, Lovro Majer , Mateo Kovačić 
-Morocco,away, 4' ,Goal, Hakim Ziyech ,
-Canada,home, 7' ,Yellow card, Junior Hoilett ,
-Morocco,away, 23' ,Goal, Youssef En-Nesyri , Achraf Hakimi 
-Canada,home, 26' ,Yellow card, Jonathan Osorio ,
-Canada,home, 40' ,Own goal, Nayef Aguerd , Own goal 
-Canada,home, 47' ,Yellow card, Sam Adekugbe ,
-Canada,home, 60' ,Substitution, Atiba Hutchinson , Mark-Anthony Kaye 
-Canada,home, 60' ,Substitution, Jonathan David , Cyle Larin 
-Canada,home, 61' ,Substitution, Ismaël Koné , Sam Adekugbe 
-Morocco,away, 65' ,Substitution, Zakaria Aboukhlal , Sofiane Boufal 
-Morocco,away, 65' ,Substitution, Selim Amallah , Abdelhamid Sabiri 
-Canada,home, 65' ,Substitution, Richie Laryea , Jonathan Osorio 
-Morocco,away, 76' ,Substitution, Abderrazak Hamdallah , Hakim Ziyech 
-Canada,home, 76' ,Substitution, David Wotherspoon , Junior Hoilett 
-Morocco,away, 77' ,Substitution, Jawad El Yamiq , Azzedine Ounahi 
-Canada,home, 84' ,Yellow card, Steven Vitória ,
-Morocco,away, 85' ,Substitution, Yahya Jabrane , Achraf Hakimi 
-Mexico,away, 16' ,Yellow card, Edson Álvarez ,
-Saudi Arabia,home, 28' ,Yellow card, Saleh Al-Shehri ,
-Saudi Arabia,home, 34' ,Yellow card, Ali Al-Hassan ,
-Saudi Arabia,home, 37' ,Substitution, Riyadh Sharahili , Ali Al-Bulaihi 
-Mexico,away, 45' ,Substitution, Uriel Antuna , Alexis Vega 
-Saudi Arabia,home, 45' ,Substitution, Abdullah Madu , Ali Al-Hassan 
-Mexico,away, 47' ,Goal, Henry Martín , César Montes 
-Mexico,away, 52' ,Goal, Luis Chávez ,
-Saudi Arabia,home, 52' ,Yellow card, Hassan Al-Tambakti ,
-Saudi Arabia,home, 62' ,Substitution, Abdulrahman Al-Aboud , Saleh Al-Shehri 
-Mexico,away, 77' ,Substitution, Carlos Rodríguez , Orbelín Pineda 
-Mexico,away, 77' ,Substitution, Raúl Jiménez , Henry Martín 
-Saudi Arabia,home, 81' ,Yellow card, Abdullah Madu ,
-Mexico,away, 86' ,Substitution, Kevin Álvarez , Jorge Sánchez 
-Mexico,away, 86' ,Substitution, Rogelio Funes Mori , Edson Álvarez 
-Saudi Arabia,home, 88' ,Substitution, Hattan Bahebri , Sultan Al-Ghanam 
-Saudi Arabia,home, 91' ,Yellow card, Abdulelah Al-Amri ,
-Saudi Arabia,home, 95' ,Goal, Salem Al-Dawsari , Hattan Bahebri 
-Saudi Arabia,home, 97' ,Yellow card, Hattan Bahebri ,
-Argentina,away, 39' ,Missed penalty, Lionel Messi , Missed penalty 
-Poland,home, 45' ,Substitution, Michał Skóraś , Karol Świderski 
-Poland,home, 45' ,Substitution, Jakub Kamiński , Przemysław Frankowski 
-Argentina,away, 46' ,Goal, Alexis Mac Allister , Nahuel Molina 
-Argentina,away, 49' ,Yellow card, Marcos Acuña ,
-Argentina,away, 59' ,Substitution, Leandro Paredes , Ángel Di María 
-Argentina,away, 59' ,Substitution, Nicolás Tagliafico , Marcos Acuña 
-Poland,home, 62' ,Substitution, Damian Szymański , Krystian Bielik 
-Argentina,away, 67' ,Goal, Julián Álvarez , Enzo Fernández 
-Poland,home, 72' ,Substitution, Artur Jędrzejczyk , Bartosz Bereszyński 
-Poland,home, 78' ,Yellow card, Grzegorz Krychowiak ,
-Argentina,away, 79' ,Substitution, Lautaro Martínez , Julián Álvarez 
-Argentina,away, 79' ,Substitution, Germán Pezzella , Enzo Fernández 
-Poland,home, 83' ,Substitution, Krzysztof Piątek , Grzegorz Krychowiak 
-Argentina,away, 84' ,Substitution, Thiago Almada , Alexis Mac Allister 
-Tunisia,home, 28' ,Yellow card, Wajdi Kechrida ,
-Tunisia,home, 58' ,Goal, Wahbi Khazri , Aïssa Laïdouni 
-Tunisia,home, 60' ,Substitution, Issam Jebali , Wahbi Khazri 
-France,away, 63' ,Substitution, William Saliba , Raphaël Varane 
-France,away, 63' ,Substitution, Kylian Mbappé , Kingsley Coman 
-France,away, 63' ,Substitution, Adrien Rabiot , Jordan Veretout 
-France,away, 73' ,Substitution, Antoine Griezmann , Youssouf Fofana 
-Tunisia,home, 74' ,Substitution, Ghailene Chaalali , Mohamed Ali Ben Romdhane 
-France,away, 79' ,Substitution, Ousmane Dembélé , Matteo Guendouzi 
-Tunisia,home, 83' ,Substitution, Ali Abdi , Anis Ben Slimane 
-France,away, 100' ,Disallowed goal,Disallowed goal,
-Australia,home, 4' ,Yellow card, Aziz Behich ,
-Australia,home, 45' ,Substitution, Keanu Baccus , Craig Goodwin 
-Denmark,away, 45' ,Substitution, Alexander Bah , Rasmus Kristensen 
-Australia,home, 57' ,Yellow card, Miloš Degenek ,
-Denmark,away, 59' ,Substitution, Kasper Dolberg , Martin Braithwaite 
-Denmark,away, 59' ,Substitution, Mikkel Damsgaard , Mathias Jensen 
-Australia,home, 60' ,Goal, Mathew Leckie , Riley McGree 
-Denmark,away, 69' ,Substitution, Robert Skov , Andreas Skov Olsen 
-Denmark,away, 70' ,Substitution, Andreas Cornelius , Joakim Mæhle 
-Australia,home, 74' ,Substitution, Bailey Wright , Riley McGree 
-Denmark,away, 75' ,Yellow card, Robert Skov ,
-Australia,home, 82' ,Substitution, Jamie Maclaren , Mitchell Duke 
-Australia,home, 89' ,Substitution, Ajdin Hrustić , Mathew Leckie 
-USA,away, 38' ,Goal, Christian Pulisic , Sergiño Dest 
-USA,away, 43' ,Yellow card, Tyler Adams ,
-Iran,home, 48' ,Substitution, Ali Karimi , Milad Mohammadi 
-USA,away, 45' ,Substitution, Brenden Aaronson , Christian Pulisic 
-Iran,home, 45' ,Substitution, Saman Ghoddos , Sardar Azmoun 
-USA,away, 65' ,Substitution, Kellyn Acosta , Weston McKennie 
-Iran,home, 71' ,Substitution, Mehdi Torabi , Ahmad Nourollahi 
-Iran,home, 72' ,Substitution, Abolfazl Jalali , Ehsan Hajsafi 
-Iran,home, 77' ,Yellow card, Majid Hosseini ,
-USA,away, 77' ,Substitution, Haji Wright , Josh Sargent 
-Iran,home, 78' ,Substitution, Karim Ansarifard , Ali Gholizadeh 
-USA,away, 82' ,Substitution, Shaq Moore , Sergiño Dest 
-USA,away, 82' ,Substitution, Walker Zimmerman , Tim Weah 
-Iran,home, 83' ,Yellow card, Hossein Kanani ,
-Iran,home, 96' ,Yellow card, Abolfazl Jalali ,
-Wales,home, 29' ,Yellow card, Daniel James ,
-Wales,home, 36' ,Substitution, Connor Roberts , Neco Williams 
-Wales,home, 45' ,Substitution, Brennan Johnson , Gareth Bale 
-England,away, 50' ,Goal, Marcus Rashford ,
-England,away, 51' ,Goal, Phil Foden , Harry Kane 
-England,away, 57' ,Substitution, Trent Alexander-Arnold , Kyle Walker 
-England,away, 58' ,Substitution, Callum Wilson , Harry Kane 
-England,away, 58' ,Substitution, Kalvin Phillips , Declan Rice 
-Wales,home, 59' ,Substitution, Joe Morrell , Ben Davies 
-Wales,home, 61' ,Yellow card, Aaron Ramsey ,
-England,away, 65' ,Substitution, Kieran Trippier , Luke Shaw 
-England,away, 68' ,Goal, Marcus Rashford , Kalvin Phillips 
-England,away, 76' ,Substitution, Jack Grealish , Marcus Rashford 
-Wales,home, 77' ,Substitution, Harry Wilson , Daniel James 
-Wales,home, 81' ,Substitution, Rubin Colwill , Joe Allen 
-Netherlands,home, 26' ,Goal, Cody Gakpo , Davy Klaassen 
-Netherlands,home, 49' ,Goal, Frenkie de Jong ,
-Netherlands,home, 52' ,Yellow card, Nathan Aké ,
-Qatar,away, 64' ,Substitution, Karim Boudiaf , Assim Madibo 
-Qatar,away, 64' ,Substitution, Mohammed Muntari , Almoez Ali 
-Qatar,away, 64' ,Substitution, Ali Assadalla , Hassan Al Haydos 
-Netherlands,home, 66' ,Substitution, Steven Berghuis , Davy Klaassen 
-Netherlands,home, 66' ,Substitution, Vincent Janssen , Memphis 
-Netherlands,home, 68' ,Disallowed goal,Disallowed goal,
-Netherlands,home, 83' ,Substitution, Teun Koopmeiners , Marten de Roon 
-Netherlands,home, 83' ,Substitution, Wout Weghorst , Cody Gakpo 
-Qatar,away, 85' ,Substitution, Ahmed Alaaeldin , Abdulaziz Hatem 
-Qatar,away, 85' ,Substitution, Musaab Khidir , Ismail Mohammad 
-Netherlands,home, 86' ,Substitution, Kenneth Taylor , Frenkie de Jong 
-Senegal,away, 44' ,Penalty, Ismaïla Sarr , Penalty 
-Ecuador,home, 45' ,Substitution, Jeremy Sarmiento , Alan Franco 
-Ecuador,home, 45' ,Substitution, José Cifuentes , Carlos Gruezo 
-Ecuador,home, 64' ,Substitution, Djorkaeff Reasco , Michael Estrada 
-Senegal,away, 66' ,Yellow card, Idrissa Gueye ,
-Ecuador,home, 67' ,Goal, Moisés Caicedo , Félix Torres 
-Senegal,away, 70' ,Goal, Kalidou Koulibaly ,
-Senegal,away, 74' ,Substitution, Nampalys Mendy , Pathé Ciss 
-Senegal,away, 75' ,Substitution, Bamba Dieng , Iliman Ndiaye 
-Ecuador,home, 85' ,Substitution, Jackson Porozo , Ángelo Preciado 
-Senegal,away, 95' ,Substitution, Pape Abou Cissé , Boulaye Dia 
-Uruguay,away, 6' ,Yellow card, Rodrigo Bentancur ,
-Portugal,home, 38' ,Yellow card, Rúben Neves ,
-Portugal,home, 42' ,Substitution, Raphaël Guerreiro , Nuno Mendes 
-Uruguay,away, 44' ,Yellow card, Mathías Olivera ,
-Portugal,home, 54' ,Goal, Bruno Fernandes , Raphaël Guerreiro 
-Uruguay,away, 62' ,Substitution, Giorgian de Arrascaeta , Matías Vecino 
-Uruguay,away, 62' ,Substitution, Facundo Pellistri , Diego Godín 
-Portugal,home, 69' ,Substitution, Rafael Leão , Rúben Neves 
-Uruguay,away, 72' ,Substitution, Maxi Gómez , Darwin Núñez 
-Uruguay,away, 73' ,Substitution, Luis Suárez , Edinson Cavani 
-Portugal,home, 77' ,Yellow card, João Félix ,
-Portugal,home, 82' ,Substitution, Matheus Nunes , João Félix 
-Portugal,home, 82' ,Substitution, Gonçalo Ramos , Cristiano Ronaldo 
-Portugal,home, 82' ,Substitution, João Palhinha , William Carvalho 
-Uruguay,away, 86' ,Substitution, Matías Viña , Mathías Olivera 
-Portugal,home, 89' ,Yellow card, Rúben Dias ,
-Portugal,home, 93' ,Penalty, Bruno Fernandes , Penalty 
-Brazil,home, 45' ,Substitution, Rodrygo , Lucas Paquetá 
-Switzerland,away, 50' ,Yellow card, Fabian Rieder ,
-Brazil,home, 52' ,Yellow card, Fred ,
-Brazil,home, 58' ,Substitution, Bruno Guimarães , Fred 
-Switzerland,away, 59' ,Substitution, Edimilson Fernandes , Ruben Vargas 
-Switzerland,away, 59' ,Substitution, Renato Steffen , Fabian Rieder 
-Brazil,home, 65' ,Disallowed goal,Disallowed goal,
-Brazil,home, 73' ,Substitution, Gabriel Jesus , Richarlison 
-Brazil,home, 73' ,Substitution, Antony , Raphinha 
-Switzerland,away, 76' ,Substitution, Michel Aebischer , Djibril Sow 
-Switzerland,away, 76' ,Substitution, Haris Seferovic , Breel Embolo 
-Brazil,home, 83' ,Goal, Casemiro , Rodrygo 
-Switzerland,away, 86' ,Substitution, Fabian Frei , Silvan Widmer 
-Brazil,home, 86' ,Substitution, Alex Telles , Alex Sandro 
-Ghana,away, 21' ,Yellow card, Daniel Amartey ,
-Ghana,away, 24' ,Goal, Mohammed Salisu ,
-South Korea,home, 27' ,Yellow card, Jung Woo-young ,
-Ghana,away, 34' ,Goal, Mohammed Kudus , Jordan Ayew 
-South Korea,home, 45' ,Substitution, Na Sang-ho , Jeong Woo-yeong 
-South Korea,home, 57' ,Substitution, Lee Kang-in , Kwon Chang-hoon 
-South Korea,home, 58' ,Goal, Cho Gue-sung , Lee Kang-in 
-South Korea,home, 61' ,Goal, Cho Gue-sung , Kim Jin-su 
-Ghana,away, 68' ,Goal, Mohammed Kudus , Iñaki Williams 
-Ghana,away, 73' ,Yellow card, Tariq Lamptey ,
-South Korea,home, 77' ,Yellow card, Kim Young-gwon ,
-Ghana,away, 78' ,Substitution, Daniel-Kofi Kyereh , André Ayew 
-Ghana,away, 78' ,Substitution, Denis Odoi , Tariq Lamptey 
-Ghana,away, 78' ,Substitution, Kamaldeen Sulemana , Jordan Ayew 
-South Korea,home, 79' ,Substitution, Hwang Ui-jo , Jung Woo-young 
-Ghana,away, 83' ,Substitution, Alexander Djiku , Mohammed Kudus 
-Ghana,away, 88' ,Substitution, Baba Rahman , Gideon Mensah 
-South Korea,home, 92' ,Substitution, Kwon Kyung-won , Kim Min-jae 
-Cameroon,home, 24' ,Yellow card, Nicolas Nkoulou ,
-Cameroon,home, 29' ,Goal, Jean-Charles Castelletto ,
-Cameroon,home, 30' ,Yellow card, Christian Bassogog ,
-Serbia,away, 46' ,Goal, Strahinja Pavlović , Dušan Tadić 
-Serbia,away, 48' ,Goal, Sergej Milinković-Savić , Andrija Živković 
-Serbia,away, 49' ,Yellow card, Luka Jović ,
-Serbia,away, 53' ,Goal, Aleksandar Mitrović , Andrija Živković 
-Cameroon,home, 55' ,Substitution, Vincent Aboubakar , Martin Hongla 
-Serbia,away, 56' ,Substitution, Stefan Mitrović , Strahinja Pavlović 
-Cameroon,home, 63' ,Goal, Vincent Aboubakar , Jean-Charles Castelletto 
-Cameroon,home, 66' ,Goal, Eric Maxim Choupo-Moting , Vincent Aboubakar 
-Cameroon,home, 67' ,Substitution, Gaël Ondoua , Pierre Kunde 
-Cameroon,home, 67' ,Substitution, Christian Bassogog , Karl Toko Ekambi 
-Serbia,away, 78' ,Substitution, Srđan Babić , Milos Veljkovic 
-Serbia,away, 78' ,Substitution, Nemanja Radonjić , Andrija Živković 
-Serbia,away, 79' ,Substitution, Marko Grujić , Sergej Milinković-Savić 
-Cameroon,home, 81' ,Substitution, Samuel Oum Gouet , André-Frank Zambo Anguissa 
-Cameroon,home, 81' ,Substitution, Georges-Kévin Nkoudou , Bryan Mbeumo 
-Serbia,away, 92' ,Substitution, Filip Đuričić , Filip Kostić 
-Serbia,away, 93' ,Yellow card, Nikola Milenković ,
-Germany,away, 37' ,Yellow card, Thilo Kehrer ,
-Germany,away, 39' ,Disallowed goal,Disallowed goal,
-Spain,home, 44' ,Yellow card, Sergio Busquets ,
-Spain,home, 54' ,Substitution, Álvaro Morata , Ferran Torres 
-Germany,away, 58' ,Yellow card, Leon Goretzka ,
-Germany,away, 60' ,Yellow card, Joshua Kimmich ,
-Spain,home, 62' ,Goal, Álvaro Morata , Jordi Alba 
-Spain,home, 66' ,Substitution, Koke , Marco Asensio 
-Spain,home, 66' ,Substitution, Nico Williams , Gavi 
-Germany,away, 70' ,Substitution, Leroy Sané , Ilkay Gündoğan 
-Germany,away, 70' ,Substitution, Niclas Füllkrug , Thomas Müller 
-Germany,away, 70' ,Substitution, Lukas Klostermann , Thilo Kehrer 
-Spain,home, 82' ,Substitution, Alejandro Baldé , Jordi Alba 
-Germany,away, 83' ,Goal, Niclas Füllkrug , Jamal Musiala 
-Germany,away, 85' ,Substitution, Jonas Hofmann , Serge Gnabry 
-Germany,away, 87' ,Substitution, Nico Schlotterbeck , David Raum 
-Canada,away, 2' ,Goal, Alphonso Davies , Tajon Buchanan 
-Croatia,home, 36' ,Goal, Andrej Kramarić , Ivan Perišić 
-Croatia,home, 44' ,Goal, Marko Livaja , Josip Juranović 
-Canada,away, 45' ,Substitution, Ismaël Koné , Stephen Eustáquio 
-Canada,away, 45' ,Substitution, Jonathan Osorio , Cyle Larin 
-Canada,away, 52' ,Yellow card, Tajon Buchanan ,
-Croatia,home, 56' ,Yellow card, Dejan Lovren ,
-Croatia,home, 60' ,Substitution, Bruno Petković , Marko Livaja 
-Canada,away, 62' ,Substitution, Junior Hoilett , Richie Laryea 
-Croatia,home, 70' ,Goal, Andrej Kramarić , Ivan Perišić 
-Canada,away, 72' ,Substitution, Lucas Cavallini , Jonathan David 
-Croatia,home, 73' ,Substitution, Nikola Vlašić , Andrej Kramarić 
-Canada,away, 73' ,Substitution, Sam Adekugbe , Atiba Hutchinson 
-Canada,away, 85' ,Yellow card, Kamal Miller ,
-Croatia,home, 85' ,Yellow card, Luka Modrić ,
-Croatia,home, 86' ,Substitution, Mislav Oršić , Ivan Perišić 
-Croatia,home, 86' ,Substitution, Mario Pašalić , Luka Modrić 
-Croatia,home, 86' ,Substitution, Lovro Majer , Mateo Kovačić 
-Croatia,home, 94' ,Goal, Lovro Majer , Mislav Oršić 
-Belgium,home, 28' ,Yellow card, Amadou Onana ,
-Morocco,away, 47' ,Disallowed goal,Disallowed goal,
-Belgium,home, 60' ,Substitution, Youri Tielemans , Amadou Onana 
-Belgium,home, 60' ,Substitution, Dries Mertens , Eden Hazard 
-Morocco,away, 67' ,Substitution, Yahia Attiyat Allah , Selim Amallah 
-Morocco,away, 68' ,Substitution, Abdelhamid Sabiri , Achraf Hakimi 
-Morocco,away, 73' ,Goal, Romain Saïss , Abdelhamid Sabiri 
-Morocco,away, 73' ,Substitution, Zakaria Aboukhlal , Sofiane Boufal 
-Morocco,away, 73' ,Substitution, Abderrazak Hamdallah , Youssef En-Nesyri 
-Belgium,home, 75' ,Substitution, Leandro Trossard , Thorgan Hazard 
-Belgium,home, 75' ,Substitution, Charles De Ketelaere , Michy Batshuayi 
-Morocco,away, 78' ,Substitution, Jawad El Yamiq , Azzedine Ounahi 
-Belgium,home, 81' ,Substitution, Romelu Lukaku , Thomas Meunier 
-Morocco,away, 92' ,Goal, Zakaria Aboukhlal , Hakim Ziyech 
-Morocco,away, 95' ,Yellow card, Abdelhamid Sabiri ,
-Costa Rica,away, 41' ,Yellow card, Anthony Contreras ,
-Japan,home, 44' ,Yellow card, Miki Yamane ,
-Japan,home, 45' ,Substitution, Hiroki Ito , Yuto Nagatomo 
-Japan,home, 45' ,Substitution, Takuma Asano , Ayase Ueda 
-Costa Rica,away, 61' ,Yellow card, Celso Borges ,
-Japan,home, 62' ,Substitution, Kaoru Mitoma , Miki Yamane 
-Costa Rica,away, 65' ,Substitution, Brandon Aguilera , Gerson Torres 
-Costa Rica,away, 65' ,Substitution, Jewison Bennette , Anthony Contreras 
-Japan,home, 67' ,Substitution, Junya Ito , Ritsu Dōan 
-Costa Rica,away, 70' ,Yellow card, Francisco Calvo ,
-Costa Rica,away, 81' ,Goal, Keysher Fuller , Yeltsin Tejeda 
-Japan,home, 82' ,Substitution, Takumi Minamino , Yuki Soma 
-Japan,home, 84' ,Yellow card, Ko Itakura ,
-Costa Rica,away, 89' ,Substitution, Youstin Salas , Celso Borges 
-Japan,home, 93' ,Yellow card, Wataru Endo ,
-Costa Rica,away, 95' ,Substitution, Daniel Chacón , Joel Campbell 
-Mexico,away, 22' ,Yellow card, Néstor Araujo ,
-Mexico,away, 42' ,Substitution, Érick Gutiérrez , Andrés Guardado 
-Argentina,home, 43' ,Yellow card, Gonzalo Montiel ,
-Mexico,away, 50' ,Yellow card, Érick Gutiérrez ,
-Argentina,home, 57' ,Substitution, Enzo Fernández , Guido Rodríguez 
-Argentina,home, 63' ,Substitution, Julián Álvarez , Lautaro Martínez 
-Argentina,home, 63' ,Substitution, Nahuel Molina , Gonzalo Montiel 
-Argentina,home, 64' ,Goal, Lionel Messi , Ángel Di María 
-Mexico,away, 66' ,Substitution, Uriel Antuna , Alexis Vega 
-Mexico,away, 66' ,Yellow card, Héctor Herrera ,
-Mexico,away, 66' ,Substitution, Raúl Jiménez , Kevin Álvarez 
-Argentina,home, 69' ,Substitution, Cristian Romero , Ángel Di María 
-Argentina,home, 69' ,Substitution, Exequiel Palacios , Alexis Mac Allister 
-Mexico,away, 73' ,Substitution, Roberto Alvarado , Hirving Lozano 
-Argentina,home, 87' ,Goal, Enzo Fernández , Lionel Messi 
-Mexico,away, 89' ,Yellow card, Roberto Alvarado ,
-Denmark,away, 20' ,Yellow card, Andreas Christensen ,
-Denmark,away, 23' ,Yellow card, Andreas Cornelius ,
-France,home, 43' ,Yellow card, Jules Koundé ,
-Denmark,away, 45' ,Substitution, Martin Braithwaite , Andreas Cornelius 
-France,home, 61' ,Goal, Kylian Mbappé , Theo Hernandez 
-France,home, 62' ,Substitution, Marcus Thuram , Olivier Giroud 
-Denmark,away, 68' ,Goal, Andreas Christensen , Joachim Andersen 
-Denmark,away, 73' ,Substitution, Kasper Dolberg , Mikkel Damsgaard 
-France,home, 75' ,Substitution, Ibrahima Konaté , Raphaël Varane 
-France,home, 75' ,Substitution, Kingsley Coman , Ousmane Dembélé 
-Denmark,away, 85' ,Substitution, Christian Nørgaard , Jesper Lindstrøm 
-France,home, 86' ,Goal, Kylian Mbappé , Antoine Griezmann 
-Denmark,away, 92' ,Substitution, Alexander Bah , Rasmus Kristensen 
-France,home, 93' ,Substitution, Youssouf Fofana , Antoine Griezmann 
-Poland,home, 15' ,Yellow card, Jakub Kiwior ,
-Poland,home, 16' ,Yellow card, Matty Cash ,
-Poland,home, 19' ,Yellow card, Arek Milik ,
-Saudi Arabia,away, 20' ,Yellow card, Abdulellah Al-Malki ,
-Poland,home, 39' ,Goal, Piotr Zieliński , Robert Lewandowski 
-Saudi Arabia,away, 46' ,Missed penalty, Salem Al-Dawsari , Missed penalty 
-Saudi Arabia,away, 49' ,Yellow card, Abdulelah Al-Amri ,
-Saudi Arabia,away, 45' ,Substitution, Nawaf Al-Abed , Sami Al-Najei 
-Poland,home, 63' ,Substitution, Jakub Kamiński , Piotr Zieliński 
-Saudi Arabia,away, 65' ,Substitution, Sultan Al-Ghanam , Mohammed Al-Breik 
-Poland,home, 71' ,Substitution, Krzysztof Piątek , Arek Milik 
-Poland,home, 82' ,Goal, Robert Lewandowski ,
-Saudi Arabia,away, 85' ,Substitution, Abdulrahman Al-Aboud , Abdulellah Al-Malki 
-Saudi Arabia,away, 86' ,Substitution, Nasser Al-Dawsari , Saleh Al-Shehri 
-Saudi Arabia,away, 95' ,Substitution, Hattan Bahebri , Nawaf Al-Abed 
-Australia,away, 23' ,Goal, Mitchell Duke ,
-Tunisia,home, 26' ,Yellow card, Aïssa Laïdouni ,
-Tunisia,home, 45' ,Substitution, Ferjani Sassi , Mohamed Dräger 
-Australia,away, 64' ,Substitution, Jamie Maclaren , Mitchell Duke 
-Australia,away, 64' ,Substitution, Ajdin Hrustić , Riley McGree 
-Tunisia,home, 64' ,Yellow card, Ali Abdi ,
-Tunisia,home, 67' ,Substitution, Wahbi Khazri , Aïssa Laïdouni 
-Tunisia,home, 73' ,Substitution, Taha Yassine Khenissi , Issam Jebali 
-Tunisia,home, 73' ,Substitution, Wajdi Kechrida , Dylan Bronn 
-Australia,away, 75' ,Substitution, Miloš Degenek , Fran Karačić 
-Australia,away, 85' ,Substitution, Awer Mabil , Craig Goodwin 
-Australia,away, 85' ,Substitution, Keanu Baccus , Mathew Leckie 
-Tunisia,home, 93' ,Yellow card, Ferjani Sassi ,
-England,home, 68' ,Substitution, Jack Grealish , Raheem Sterling 
-England,home, 69' ,Substitution, Jordan Henderson , Jude Bellingham 
-USA,away, 77' ,Substitution, Brenden Aaronson , Weston McKennie 
-USA,away, 78' ,Substitution, Shaq Moore , Sergiño Dest 
-England,home, 78' ,Substitution, Marcus Rashford , Bukayo Saka 
-USA,away, 83' ,Substitution, Giovanni Reyna , Tim Weah 
-USA,away, 83' ,Substitution, Josh Sargent , Haji Wright 
-Netherlands,home, 6' ,Goal, Cody Gakpo , Davy Klaassen 
-Netherlands,home, 45' ,Substitution, Memphis , Steven Bergwijn 
-Ecuador,away, 49' ,Goal, Enner Valencia ,
-Ecuador,away, 57' ,Yellow card, Jhegson Méndez ,
-Netherlands,home, 69' ,Substitution, Steven Berghuis , Davy Klaassen 
-Ecuador,away, 74' ,Substitution, Jeremy Sarmiento , Michael Estrada 
-Netherlands,home, 79' ,Substitution, Marten de Roon , Teun Koopmeiners 
-Netherlands,home, 80' ,Substitution, Wout Weghorst , Cody Gakpo 
-Ecuador,away, 90' ,Substitution, Kevin Rodríguez , Enner Valencia 
-Ecuador,away, 90' ,Substitution, Romario Ibarra , Gonzalo Plata 
-Qatar,home, 20' ,Yellow card, Ismail Mohammad ,
-Senegal,away, 30' ,Yellow card, Boulaye Dia ,
-Senegal,away, 41' ,Goal, Boulaye Dia ,
-Qatar,home, 47' ,Yellow card, Homam Ahmed ,
-Senegal,away, 48' ,Goal, Famara Diédhiou , Ismail Jakobs 
-Senegal,away, 52' ,Yellow card, Ismail Jakobs ,
-Senegal,away, 64' ,Substitution, Pathé Ciss , Krépin Diatta 
-Qatar,home, 69' ,Substitution, Abdulaziz Hatem , Karim Boudiaf 
-Senegal,away, 74' ,Substitution, Bamba Dieng , Famara Diédhiou 
-Qatar,home, 74' ,Substitution, Mohammed Muntari , Hassan Al Haydos 
-Senegal,away, 74' ,Substitution, Iliman Ndiaye , Ismaïla Sarr 
-Senegal,away, 77' ,Substitution, Pape Abou Cissé , Ismail Jakobs 
-Senegal,away, 77' ,Substitution, Pape Matar Sarr , Nampalys Mendy 
-Qatar,home, 78' ,Goal, Mohammed Muntari , Ismail Mohammad 
-Qatar,home, 83' ,Substitution, Tarek Salman , Homam Ahmed 
-Qatar,home, 83' ,Substitution, Mohammed Waad , Pedro Miguel 
-Senegal,away, 84' ,Goal, Bamba Dieng , Iliman Ndiaye 
-Senegal,away, 87' ,Yellow card, Pathé Ciss ,
-Qatar,home, 91' ,Yellow card, Assim Madibo ,
-Iran,away, 15' ,Disallowed goal,Disallowed goal,
-Wales,home, 48' ,Yellow card, Joe Rodon ,
-Wales,home, 57' ,Substitution, Brennan Johnson , Connor Roberts 
-Wales,home, 58' ,Substitution, Daniel James , Harry Wilson 
-Iran,away, 68' ,Substitution, Karim Ansarifard , Sardar Azmoun 
-Iran,away, 77' ,Substitution, Alireza Jahanbakhsh , Ali Gholizadeh 
-Iran,away, 77' ,Substitution, Mehdi Torabi , Ehsan Hajsafi 
-Wales,home, 77' ,Substitution, Joe Allen , Ethan Ampadu 
-Iran,away, 78' ,Substitution, Roozbeh Cheshmi , Ahmad Nourollahi 
-Iran,away, 83' ,Substitution, Ali Karimi , Saeid Ezatolahi 
-Wales,home, 86' ,Red card, Wayne Hennessey ,
-Wales,home, 87' ,Substitution, Danny Ward , Aaron Ramsey 
-Iran,away, 94' ,Yellow card, Ramin Rezaeian ,
-Iran,away, 95' ,Yellow card, Alireza Jahanbakhsh ,
-Iran,away, 98' ,Goal, Roozbeh Cheshmi ,
-Iran,away, 101' ,Goal, Ramin Rezaeian , Mehdi Taremi 
-Serbia,away, 7' ,Yellow card, Strahinja Pavlović ,
-Serbia,away, 49' ,Yellow card, Nemanja Gudelj ,
-Serbia,away, 57' ,Substitution, Ivan Ilić , Nemanja Gudelj 
-Serbia,away, 57' ,Substitution, Nemanja Radonjić , Andrija Živković 
-Brazil,home, 62' ,Goal, Richarlison ,
-Serbia,away, 64' ,Yellow card, Saša Lukić ,
-Serbia,away, 66' ,Substitution, Darko Lazović , Saša Lukić 
-Serbia,away, 66' ,Substitution, Dušan Vlahović , Filip Mladenović 
-Brazil,home, 73' ,Goal, Richarlison , Vinícius Júnior 
-Brazil,home, 75' ,Substitution, Fred , Lucas Paquetá 
-Brazil,home, 76' ,Substitution, Rodrygo , Vinícius Júnior 
-Brazil,home, 79' ,Substitution, Gabriel Jesus , Richarlison 
-Brazil,home, 80' ,Substitution, Antony , Neymar 
-Serbia,away, 83' ,Substitution, Nemanja Maksimović , Aleksandar Mitrović 
-Brazil,home, 87' ,Substitution, Gabriel Martinelli , Raphinha 
-Ghana,away, 45' ,Yellow card, Mohammed Kudus ,
-Ghana,away, 49' ,Yellow card, André Ayew ,
-Portugal,home, 56' ,Substitution, William Carvalho , Otávio 
-Ghana,away, 57' ,Yellow card, Alidu Seidu ,
-Portugal,home, 65' ,Penalty, Cristiano Ronaldo , Penalty 
-Ghana,away, 66' ,Substitution, Tariq Lamptey , Alidu Seidu 
-Ghana,away, 73' ,Goal, André Ayew ,
-Ghana,away, 77' ,Substitution, Osman Bukari , Mohammed Kudus 
-Portugal,home, 77' ,Substitution, Rafael Leão , Rúben Neves 
-Ghana,away, 77' ,Substitution, Jordan Ayew , André Ayew 
-Portugal,home, 78' ,Goal, João Félix , Bruno Fernandes 
-Portugal,home, 80' ,Goal, Rafael Leão , Bruno Fernandes 
-Portugal,home, 88' ,Substitution, João Palhinha , Bernardo Silva 
-Portugal,home, 88' ,Substitution, João Mário , João Félix 
-Portugal,home, 88' ,Substitution, Gonçalo Ramos , Cristiano Ronaldo 
-Ghana,away, 89' ,Goal, Osman Bukari ,
-Portugal,home, 91' ,Yellow card, Danilo Pereira ,
-Ghana,away, 91' ,Yellow card, Iñaki Williams ,
-Ghana,away, 92' ,Substitution, Daniel-Kofi Kyereh , Alexander Djiku 
-Ghana,away, 92' ,Substitution, Antoine Semenyo , Salis Abdul Samed 
-Portugal,home, 95' ,Yellow card, Bruno Fernandes ,
-Uruguay,home, 57' ,Yellow card, Martín Cáceres ,
-Uruguay,home, 64' ,Substitution, Edinson Cavani , Luis Suárez 
-South Korea,away, 74' ,Substitution, Cho Gue-sung , Hwang Ui-jo 
-South Korea,away, 74' ,Substitution, Son Jun-ho , Lee Jae-sung 
-South Korea,away, 75' ,Substitution, Lee Kang-in , Na Sang-ho 
-Uruguay,home, 78' ,Substitution, Nicolás de la Cruz , Matías Vecino 
-Uruguay,home, 79' ,Substitution, Matías Viña , Mathías Olivera 
-South Korea,away, 88' ,Yellow card, Cho Gue-sung ,
-Uruguay,home, 88' ,Substitution, Guillermo Varela , Facundo Pellistri 
-Cameroon,away, 36' ,Yellow card, Collins Fai ,
-Switzerland,home, 48' ,Goal, Breel Embolo , Xherdan Shaqiri 
-Switzerland,home, 64' ,Yellow card, Nico Elvedi ,
-Cameroon,away, 68' ,Substitution, Gaël Ondoua , Martin Hongla 
-Switzerland,home, 71' ,Substitution, Fabian Frei , Djibril Sow 
-Switzerland,home, 72' ,Substitution, Noah Okafor , Xherdan Shaqiri 
-Switzerland,home, 72' ,Substitution, Haris Seferovic , Breel Embolo 
-Cameroon,away, 74' ,Substitution, Vincent Aboubakar , Eric Maxim Choupo-Moting 
-Cameroon,away, 74' ,Substitution, Georges-Kévin Nkoudou , Karl Toko Ekambi 
-Switzerland,home, 81' ,Substitution, Fabian Rieder , Ruben Vargas 
-Cameroon,away, 81' ,Substitution, Moumi Ngamaleu , Bryan Mbeumo 
-Switzerland,home, 83' ,Yellow card, Manuel Akanji ,
-Switzerland,home, 90' ,Substitution, Eray Cömert , Ricardo Rodríguez 
-Belgium,home, 9' ,Yellow card, Yannick Carrasco ,
-Canada,away, 10' ,Missed penalty, Alphonso Davies , Missed penalty 
-Belgium,home, 44' ,Goal, Michy Batshuayi , Toby Alderweireld 
-Belgium,home, 45' ,Substitution, Thomas Meunier , Yannick Carrasco 
-Belgium,home, 45' ,Substitution, Amadou Onana , Youri Tielemans 
-Belgium,home, 53' ,Yellow card, Thomas Meunier ,
-Belgium,home, 56' ,Yellow card, Amadou Onana ,
-Canada,away, 58' ,Substitution, Cyle Larin , Junior Hoilett 
-Canada,away, 58' ,Substitution, Ismaël Koné , Atiba Hutchinson 
-Belgium,home, 62' ,Substitution, Leandro Trossard , Eden Hazard 
-Canada,away, 74' ,Substitution, Sam Adekugbe , Richie Laryea 
-Belgium,home, 78' ,Substitution, Loïs Openda , Michy Batshuayi 
-Canada,away, 81' ,Yellow card, Alphonso Davies ,
-Canada,away, 81' ,Substitution, Jonathan Osorio , Stephen Eustáquio 
-Canada,away, 81' ,Substitution, Liam Millar , Tajon Buchanan 
-Canada,away, 83' ,Yellow card, Alistair Johnston ,
-Spain,home, 11' ,Goal, Dani Olmo ,
-Spain,home, 21' ,Goal, Marco Asensio , Jordi Alba 
-Spain,home, 31' ,Penalty, Ferran Torres , Penalty 
-Costa Rica,away, 45' ,Substitution, Kendall Waston , Carlos Martínez 
-Spain,home, 54' ,Goal, Ferran Torres ,
-Spain,home, 57' ,Substitution, Álvaro Morata , Ferran Torres 
-Spain,home, 57' ,Substitution, Carlos Soler , Pedri 
-Costa Rica,away, 61' ,Substitution, Álvaro Zamora , Anthony Contreras 
-Costa Rica,away, 61' ,Substitution, Bryan Ruiz , Jewison Bennette 
-Spain,home, 64' ,Substitution, Alejandro Baldé , Jordi Alba 
-Spain,home, 64' ,Substitution, Koke , Sergio Busquets 
-Costa Rica,away, 68' ,Yellow card, Francisco Calvo ,
-Spain,home, 69' ,Substitution, Nico Williams , Marco Asensio 
-Costa Rica,away, 72' ,Substitution, Brandon Aguilera , Celso Borges 
-Spain,home, 74' ,Goal, Gavi , Álvaro Morata 
-Costa Rica,away, 82' ,Substitution, Rónald Matarrita , Bryan Oviedo 
-Spain,home, 90' ,Goal, Carlos Soler ,
-Spain,home, 92' ,Goal, Álvaro Morata , Dani Olmo 
-Costa Rica,away, 97' ,Yellow card, Joel Campbell ,
-Germany,home, 33' ,Penalty, Ilkay Gündoğan , Penalty 
-Germany,home, 49' ,Disallowed goal,Disallowed goal,
-Japan,away, 45' ,Substitution, Takehiro Tomiyasu , Takefusa Kubo 
-Japan,away, 57' ,Substitution, Kaoru Mitoma , Yuto Nagatomo 
-Japan,away, 57' ,Substitution, Takuma Asano , Daizen Maeda 
-Germany,home, 67' ,Substitution, Jonas Hofmann , Thomas Müller 
-Germany,home, 67' ,Substitution, Leon Goretzka , Ilkay Gündoğan 
-Japan,away, 71' ,Substitution, Ritsu Dōan , Ao Tanaka 
-Japan,away, 74' ,Substitution, Takumi Minamino , Hiroki Sakai 
-Japan,away, 75' ,Goal, Ritsu Dōan ,
-Germany,home, 79' ,Substitution, Mario Götze , Jamal Musiala 
-Germany,home, 79' ,Substitution, Niclas Füllkrug , Kai Havertz 
-Japan,away, 83' ,Goal, Takuma Asano , Ko Itakura 
-Germany,home, 90' ,Substitution, Youssoufa Moukoko , Serge Gnabry 
-Croatia,away, 45' ,Substitution, Mario Pašalić , Nikola Vlašić 
-Morocco,home, 60' ,Substitution, Yahia Attiyat Allah , Noussair Mazraoui 
-Morocco,home, 65' ,Substitution, Abdessamad Ezzalzouli , Sofiane Boufal 
-Croatia,away, 71' ,Substitution, Marko Livaja , Andrej Kramarić 
-Morocco,home, 78' ,Yellow card, Sofyan Amrabat ,
-Croatia,away, 79' ,Substitution, Lovro Majer , Mateo Kovačić 
-Morocco,home, 81' ,Substitution, Abderrazak Hamdallah , Youssef En-Nesyri 
-Morocco,home, 82' ,Substitution, Abdelhamid Sabiri , Azzedine Ounahi 
-Croatia,away, 90' ,Substitution, Mislav Oršić , Ivan Perišić 
-Australia,away, 9' ,Goal, Craig Goodwin , Mathew Leckie 
-France,home, 13' ,Substitution, Theo Hernandez , Lucas Hernandez 
-France,home, 27' ,Goal, Adrien Rabiot , Theo Hernandez 
-France,home, 32' ,Goal, Olivier Giroud , Adrien Rabiot 
-Australia,away, 55' ,Yellow card, Mitchell Duke ,
-Australia,away, 56' ,Substitution, Jason Cummings , Mitchell Duke 
-France,home, 68' ,Goal, Kylian Mbappé , Ousmane Dembélé 
-France,home, 71' ,Goal, Olivier Giroud , Kylian Mbappé 
-Australia,away, 73' ,Substitution, Awer Mabil , Riley McGree 
-Australia,away, 73' ,Substitution, Garang Kuol , Craig Goodwin 
-France,home, 77' ,Substitution, Youssouf Fofana , Aurélien Tchouaméni 
-France,home, 77' ,Substitution, Kingsley Coman , Ousmane Dembélé 
-Australia,away, 80' ,Yellow card, Jackson Irvine ,
-Australia,away, 85' ,Substitution, Keanu Baccus , Jackson Irvine 
-Australia,away, 85' ,Substitution, Miloš Degenek , Nathaniel Atkinson 
-France,home, 89' ,Substitution, Jules Koundé , Benjamin Pavard 
-France,home, 89' ,Substitution, Marcus Thuram , Olivier Giroud 
-Australia,away, 94' ,Yellow card, Aaron Mooy ,
-Mexico,home, 29' ,Yellow card, Jorge Sánchez ,
-Poland,away, 45' ,Substitution, Krystian Bielik , Nicola Zalewski 
-Mexico,home, 56' ,Yellow card, Héctor Moreno ,
-Poland,away, 58' ,Missed penalty, Robert Lewandowski , Missed penalty 
-Mexico,home, 71' ,Substitution, Carlos Rodríguez , Héctor Herrera 
-Mexico,home, 71' ,Substitution, Raúl Jiménez , Henry Martín 
-Poland,away, 72' ,Substitution, Przemysław Frankowski , Sebastian Szymański 
-Poland,away, 76' ,Yellow card, Przemysław Frankowski ,
-Mexico,home, 84' ,Substitution, Uriel Antuna , Alexis Vega 
-Poland,away, 87' ,Substitution, Arek Milik , Piotr Zieliński 
-Denmark,home, 24' ,Yellow card, Rasmus Kristensen ,
-Denmark,home, 46' ,Substitution, Mikkel Damsgaard , Thomas Delaney 
-Denmark,home, 65' ,Substitution, Mathias Jensen , Simon Kjær 
-Denmark,home, 65' ,Substitution, Jesper Lindstrøm , Andreas Skov Olsen 
-Denmark,home, 65' ,Substitution, Andreas Cornelius , Kasper Dolberg 
-Tunisia,away, 67' ,Substitution, Naïm Sliti , Anis Ben Slimane 
-Denmark,home, 78' ,Yellow card, Mathias Jensen ,
-Tunisia,away, 80' ,Substitution, Hannibal Mejbri , Youssef Msakni 
-Tunisia,away, 80' ,Substitution, Taha Yassine Khenissi , Issam Jebali 
-Tunisia,away, 86' ,Yellow card, Taha Yassine Khenissi ,
-Tunisia,away, 88' ,Substitution, Wajdi Kechrida , Mohamed Dräger 
-Tunisia,away, 88' ,Substitution, Ferjani Sassi , Aïssa Laïdouni 
-Argentina,home, 10' ,Penalty, Lionel Messi , Penalty 
-Argentina,home, 28' ,Disallowed goal,Disallowed goal,
-Saudi Arabia,away, 49' ,Substitution, Nawaf Al-Abed , Salman Al-Faraj 
-Saudi Arabia,away, 48' ,Goal, Saleh Al-Shehri , Firas Al-Buraikan 
-Saudi Arabia,away, 53' ,Goal, Salem Al-Dawsari ,
-Argentina,home, 59' ,Substitution, Lisandro Martínez , Cristian Romero 
-Argentina,home, 59' ,Substitution, Julián Álvarez , Papu Gómez 
-Argentina,home, 59' ,Substitution, Enzo Fernández , Leandro Paredes 
-Saudi Arabia,away, 67' ,Yellow card, Abdulellah Al-Malki ,
-Argentina,home, 71' ,Substitution, Marcos Acuña , Nicolás Tagliafico 
-Saudi Arabia,away, 75' ,Yellow card, Ali Al-Bulaihi ,
-Saudi Arabia,away, 78' ,Substitution, Sultan Al-Ghanam , Saleh Al-Shehri 
-Saudi Arabia,away, 79' ,Yellow card, Salem Al-Dawsari ,
-Saudi Arabia,away, 82' ,Yellow card, Saud Abdulhamid ,
-Saudi Arabia,away, 88' ,Substitution, Abdulelah Al-Amri , Nawaf Al-Abed 
-Saudi Arabia,away, 88' ,Yellow card, Nawaf Al-Abed ,
-Saudi Arabia,away, 89' ,Substitution, Haitham Asiri , Firas Al-Buraikan 
-Saudi Arabia,away, 92' ,Yellow card, Mohammed Al-Owais ,
-Saudi Arabia,away, 99' ,Substitution, Mohammed Al-Breik , Yasser Al-Shahrani 
-USA,home, 11' ,Yellow card, Sergiño Dest ,
-USA,home, 13' ,Yellow card, Weston McKennie ,
-USA,home, 36' ,Goal, Tim Weah , Christian Pulisic 
-Wales,away, 40' ,Yellow card, Gareth Bale ,
-Wales,away, 48' ,Yellow card, Chris Mepham ,
-Wales,away, 45' ,Substitution, Kieffer Moore , Daniel James 
-USA,home, 51' ,Yellow card, Tim Ream ,
-USA,home, 66' ,Substitution, Brenden Aaronson , Weston McKennie 
-USA,home, 74' ,Substitution, Haji Wright , Josh Sargent 
-USA,home, 74' ,Substitution, DeAndre Yedlin , Sergiño Dest 
-USA,home, 75' ,Substitution, Kellyn Acosta , Yunus Musah 
-Wales,away, 79' ,Substitution, Brennan Johnson , Neco Williams 
-Wales,away, 82' ,Penalty, Gareth Bale , Penalty 
-USA,home, 88' ,Substitution, Jordan Morris , Tim Weah 
-Wales,away, 93' ,Substitution, Sorba Thomas , Harry Wilson 
-Wales,away, 95' ,Substitution, Joe Morrell , Ethan Ampadu 
-USA,home, 100' ,Yellow card, Kellyn Acosta ,
-Netherlands,away, 56' ,Yellow card, Matthijs de Ligt ,
-Netherlands,away, 62' ,Substitution, Memphis , Vincent Janssen 
-Senegal,home, 62' ,Substitution, Ismail Jakobs , Abdou Diallo 
-Senegal,home, 69' ,Substitution, Bamba Dieng , Boulaye Dia 
-Senegal,home, 73' ,Substitution, Nicolas Jackson , Krépin Diatta 
-Senegal,home, 73' ,Substitution, Pape Gueye , Cheikhou Kouyaté 
-Netherlands,away, 79' ,Substitution, Davy Klaassen , Steven Bergwijn 
-Netherlands,away, 79' ,Substitution, Teun Koopmeiners , Steven Berghuis 
-Netherlands,away, 84' ,Goal, Cody Gakpo , Frenkie de Jong 
-Senegal,home, 94' ,Yellow card, Nampalys Mendy ,
-Netherlands,away, 94' ,Substitution, Marten de Roon , Cody Gakpo 
-Senegal,home, 96' ,Yellow card, Idrissa Gueye ,
-Netherlands,away, 99' ,Goal, Davy Klaassen ,
-Iran,away, 20' ,Substitution, Hossein Hosseini , Alireza Beiranvand 
-Iran,away, 25' ,Yellow card, Alireza Jahanbakhsh ,
-England,home, 35' ,Goal, Jude Bellingham , Luke Shaw 
-England,home, 43' ,Goal, Bukayo Saka , Harry Maguire 
-England,home, 46' ,Goal, Raheem Sterling , Harry Kane 
-Iran,away, 45' ,Substitution, Saeid Ezatolahi , Ali Karimi 
-Iran,away, 45' ,Substitution, Ali Gholizadeh , Alireza Jahanbakhsh 
-Iran,away, 45' ,Substitution, Hossein Kanani , Roozbeh Cheshmi 
-Iran,away, 48' ,Yellow card, Morteza Pouraliganji ,
-England,home, 62' ,Goal, Bukayo Saka , Raheem Sterling 
-Iran,away, 63' ,Substitution, Mehdi Torabi , Milad Mohammadi 
-Iran,away, 65' ,Goal, Mehdi Taremi , Ali Gholizadeh 
-England,home, 70' ,Substitution, Eric Dier , Harry Maguire 
-England,home, 71' ,Substitution, Marcus Rashford , Bukayo Saka 
-England,home, 71' ,Substitution, Jack Grealish , Raheem Sterling 
-England,home, 71' ,Substitution, Phil Foden , Mason Mount 
-England,home, 71' ,Goal, Marcus Rashford , Harry Kane 
-England,home, 76' ,Substitution, Callum Wilson , Harry Kane 
-Iran,away, 77' ,Substitution, Sardar Azmoun , Ahmad Nourollahi 
-England,home, 90' ,Goal, Jack Grealish , Callum Wilson 
-Iran,away, 103' ,Penalty, Mehdi Taremi , Penalty 
-Ecuador,away, 4' ,Disallowed goal,Disallowed goal,
-Qatar,home, 15' ,Yellow card, Saad Al Sheeb ,
-Ecuador,away, 16' ,Penalty, Enner Valencia , Penalty 
-Qatar,home, 22' ,Yellow card, Almoez Ali ,
-Ecuador,away, 29' ,Yellow card, Moisés Caicedo ,
-Ecuador,away, 31' ,Goal, Enner Valencia , Ángelo Preciado 
-Qatar,home, 36' ,Yellow card, Karim Boudiaf ,
-Ecuador,away, 56' ,Yellow card, Jhegson Méndez ,
-Ecuador,away, 68' ,Substitution, Jeremy Sarmiento , Romario Ibarra 
-Qatar,home, 71' ,Substitution, Mohammed Waad , Hassan Al Haydos 
-Qatar,home, 72' ,Substitution, Mohammed Muntari , Almoez Ali 
-Ecuador,away, 77' ,Substitution, José Cifuentes , Enner Valencia 
-Qatar,home, 78' ,Yellow card, Akram Afif ,
-Ecuador,away, 90' ,Substitution, Kevin Rodríguez , Michael Estrada 
-Ecuador,away, 90' ,Substitution, Alan Franco , Moisés Caicedo 
+event_id,match_id,team,event_team,event_time,event_type,action_player_1,action_player_2
+1,1,Argentina,home, 23' ,Penalty, Lionel Messi , Penalty 
+2,1,Argentina,home, 36' ,Goal, Ángel Di María , Alexis Mac Allister 
+3,1,France,away, 41' ,Substitution, Randal Kolo Muani , Ousmane Dembélé 
+4,1,France,away, 41' ,Substitution, Marcus Thuram , Olivier Giroud 
+5,1,Argentina,home, 52' ,Yellow card, Enzo Fernández ,
+6,1,France,away, 55' ,Yellow card, Adrien Rabiot ,
+7,1,Argentina,home, 64' ,Substitution, Marcos Acuña , Ángel Di María 
+8,1,France,away, 71' ,Substitution, Eduardo Camavinga , Theo Hernandez 
+9,1,France,away, 71' ,Substitution, Kingsley Coman , Antoine Griezmann 
+10,1,France,away, 80' ,Penalty, Kylian Mbappé , Penalty 
+11,1,France,away, 81' ,Goal, Kylian Mbappé , Marcus Thuram 
+12,1,France,away, 87' ,Yellow card, Marcus Thuram ,
+13,1,France,away, 95' ,Yellow card, Olivier Giroud ,
+14,1,Argentina,home, 98' ,Yellow card, Marcos Acuña ,
+15,1,Argentina,home, 90' ,Substitution, Gonzalo Montiel , Nahuel Molina 
+16,1,France,away, 96' ,Substitution, Youssouf Fofana , Adrien Rabiot 
+17,1,Argentina,home, 102' ,Substitution, Leandro Paredes , Rodrigo De Paul 
+18,1,Argentina,home, 103' ,Substitution, Lautaro Martínez , Julián Álvarez 
+19,1,Argentina,home, 108' ,Goal, Lionel Messi ,
+20,1,France,away, 113' ,Substitution, Ibrahima Konaté , Raphaël Varane 
+21,1,Argentina,home, 114' ,Yellow card, Leandro Paredes ,
+22,1,Argentina,home, 116' ,Yellow card, Gonzalo Montiel ,
+23,1,Argentina,home, 116' ,Substitution, Germán Pezzella , Alexis Mac Allister 
+24,1,France,away, 118' ,Penalty, Kylian Mbappé , Penalty 
+25,1,Argentina,home, 121' ,Substitution, Paulo Dybala , Nicolás Tagliafico 
+26,1,France,away, 121' ,Substitution, Axel Disasi , Jules Koundé 
+27,1,France,away,False,PK,,
+28,1,Argentina,home,False,PK,,
+29,1,France,away,False,PK,,
+30,1,Argentina,home,False,PK,,
+31,1,France,away,False,PK,,
+32,1,Argentina,home,False,PK,,
+33,1,France,away,False,PK,,
+34,1,Argentina,home,False,PK,,
+35,1,Argentina,home, 126' ,Yellow card, Emiliano Martínez ,
+36,1,Croatia,home, 7' ,Goal, Joško Gvardiol , Ivan Perišić 
+37,1,Morocco,away, 9' ,Goal, Achraf Dari ,
+38,1,Croatia,home, 42' ,Goal, Mislav Oršić , Marko Livaja 
+39,1,Morocco,away, 45' ,Substitution, Ilias Chair , Abdelhamid Sabiri 
+40,1,Morocco,away, 56' ,Substitution, Azzedine Ounahi , Bilal El Khannous 
+41,1,Croatia,home, 61' ,Substitution, Nikola Vlašić , Andrej Kramarić 
+42,1,Morocco,away, 64' ,Substitution, Badr Benoun , Achraf Dari 
+43,1,Morocco,away, 64' ,Substitution, Anass Zaroury , Sofiane Boufal 
+44,1,Croatia,home, 66' ,Substitution, Bruno Petković , Marko Livaja 
+45,1,Croatia,home, 67' ,Substitution, Mario Pašalić , Lovro Majer 
+46,1,Morocco,away, 67' ,Substitution, Selim Amallah , Jawad El Yamiq 
+47,1,Morocco,away, 69' ,Yellow card, Azzedine Ounahi ,
+48,1,Morocco,away, 84' ,Yellow card, Selim Amallah ,
+49,1,Croatia,home, 95' ,Substitution, Kristijan Jakić , Mislav Oršić 
+50,1,France,home, 5' ,Goal, Theo Hernandez ,
+51,1,Morocco,away, 21' ,Substitution, Selim Amallah , Romain Saïss 
+52,1,Morocco,away, 27' ,Yellow card, Sofiane Boufal ,
+53,1,Morocco,away, 45' ,Substitution, Yahia Attiyat Allah , Noussair Mazraoui 
+54,1,France,home, 65' ,Substitution, Marcus Thuram , Olivier Giroud 
+55,1,Morocco,away, 66' ,Substitution, Abderrazak Hamdallah , Youssef En-Nesyri 
+56,1,Morocco,away, 67' ,Substitution, Zakaria Aboukhlal , Sofiane Boufal 
+57,1,Morocco,away, 78' ,Substitution, Abdessamad Ezzalzouli , Selim Amallah 
+58,1,France,home, 79' ,Substitution, Randal Kolo Muani , Ousmane Dembélé 
+59,1,France,home, 79' ,Goal, Randal Kolo Muani ,
+60,1,Croatia,away, 32' ,Yellow card, Dominik Livaković ,
+61,1,Croatia,away, 32' ,Yellow card, Mateo Kovačić ,
+62,1,Argentina,home, 34' ,Penalty, Lionel Messi , Penalty 
+63,1,Argentina,home, 39' ,Goal, Julián Álvarez ,
+64,1,Croatia,away, 45' ,Substitution, Mislav Oršić , Borna Sosa 
+65,1,Croatia,away, 45' ,Substitution, Nikola Vlašić , Mario Pašalić 
+66,1,Croatia,away, 50' ,Substitution, Bruno Petković , Marcelo Brozović 
+67,1,Argentina,home, 62' ,Substitution, Lisandro Martínez , Leandro Paredes 
+68,1,Argentina,home, 68' ,Yellow card, Cristian Romero ,
+69,1,Argentina,home, 69' ,Goal, Julián Álvarez , Lionel Messi 
+70,1,Argentina,home, 71' ,Yellow card, Nicolás Otamendi ,
+71,1,Croatia,away, 72' ,Substitution, Marko Livaja , Andrej Kramarić 
+72,1,Argentina,home, 74' ,Substitution, Exequiel Palacios , Rodrigo De Paul 
+73,1,Argentina,home, 74' ,Substitution, Paulo Dybala , Julián Álvarez 
+74,1,Croatia,away, 81' ,Substitution, Lovro Majer , Luka Modrić 
+75,1,Argentina,home, 86' ,Substitution, Ángel Correa , Alexis Mac Allister 
+76,1,Argentina,home, 86' ,Substitution, Juan Foyth , Nahuel Molina 
+77,1,France,away, 17' ,Goal, Aurélien Tchouaméni , Antoine Griezmann 
+78,1,France,away, 43' ,Yellow card, Antoine Griezmann ,
+79,1,France,away, 46' ,Yellow card, Ousmane Dembélé ,
+80,1,England,home, 54' ,Penalty, Harry Kane , Penalty 
+81,1,France,away, 78' ,Goal, Olivier Giroud , Antoine Griezmann 
+82,1,England,home, 79' ,Substitution, Mason Mount , Jordan Henderson 
+83,1,France,away, 79' ,Substitution, Kingsley Coman , Ousmane Dembélé 
+84,1,England,home, 79' ,Substitution, Raheem Sterling , Bukayo Saka 
+85,1,France,away, 82' ,Yellow card, Theo Hernandez ,
+86,1,England,home, 84' ,Missed penalty, Harry Kane , Missed penalty 
+87,1,England,home, 85' ,Substitution, Marcus Rashford , Phil Foden 
+88,1,England,home, 90' ,Yellow card, Harry Maguire ,
+89,1,England,home, 98' ,Substitution, Jack Grealish , John Stones 
+90,1,Morocco,home, 42' ,Goal, Youssef En-Nesyri , Yahia Attiyat Allah 
+91,1,Portugal,away, 51' ,Substitution, João Cancelo , Raphaël Guerreiro 
+92,1,Portugal,away, 51' ,Substitution, Cristiano Ronaldo , Rúben Neves 
+93,1,Morocco,home, 57' ,Substitution, Achraf Dari , Romain Saïss 
+94,1,Morocco,home, 65' ,Substitution, Walid Cheddira , Selim Amallah 
+95,1,Morocco,home, 65' ,Substitution, Badr Benoun , Youssef En-Nesyri 
+96,1,Portugal,away, 69' ,Substitution, Rafael Leão , Gonçalo Ramos 
+97,1,Portugal,away, 69' ,Substitution, Vitinha , Otávio 
+98,1,Morocco,home, 70' ,Yellow card, Achraf Dari ,
+99,1,Portugal,away, 79' ,Substitution, Ricardo Horta , Diogo Dalot 
+100,1,Morocco,home, 82' ,Substitution, Zakaria Aboukhlal , Hakim Ziyech 
+101,1,Morocco,home, 82' ,Substitution, Yahya Jabrane , Sofiane Boufal 
+102,1,Portugal,away, 87' ,Yellow card, Vitinha ,
+103,1,Morocco,home, 91' ,Yellow card, Walid Cheddira ,
+104,1,Morocco,home, 93' ,Second yellow card, Walid Cheddira ,
+105,1,Argentina,away, 35' ,Goal, Nahuel Molina , Lionel Messi 
+106,1,Netherlands,home, 43' ,Yellow card, Jurriën Timber ,
+107,1,Argentina,away, 43' ,Yellow card, Marcos Acuña ,
+108,1,Argentina,away, 45' ,Yellow card, Cristian Romero ,
+109,1,Netherlands,home, 47' ,Yellow card, Wout Weghorst ,
+110,1,Netherlands,home, 45' ,Substitution, Steven Berghuis , Steven Bergwijn 
+111,1,Netherlands,home, 45' ,Substitution, Teun Koopmeiners , Marten de Roon 
+112,1,Netherlands,home, 64' ,Substitution, Luuk de Jong , Daley Blind 
+113,1,Argentina,away, 66' ,Substitution, Leandro Paredes , Rodrigo De Paul 
+114,1,Argentina,away, 73' ,Penalty, Lionel Messi , Penalty 
+115,1,Netherlands,home, 76' ,Yellow card, Memphis ,
+116,1,Argentina,away, 76' ,Yellow card, Lisandro Martínez ,
+117,1,Argentina,away, 78' ,Substitution, Nicolás Tagliafico , Marcos Acuña 
+118,1,Argentina,away, 78' ,Substitution, Germán Pezzella , Cristian Romero 
+119,1,Netherlands,home, 78' ,Substitution, Wout Weghorst , Memphis 
+120,1,Argentina,away, 82' ,Substitution, Lautaro Martínez , Julián Álvarez 
+121,1,Netherlands,home, 83' ,Goal, Wout Weghorst , Steven Berghuis 
+122,1,Netherlands,home, 88' ,Yellow card, Steven Berghuis ,
+123,1,Argentina,away, 89' ,Yellow card, Leandro Paredes ,
+124,1,Argentina,away, 100' ,Yellow card, Lionel Messi ,
+125,1,Netherlands,home, 101' ,Goal, Wout Weghorst , Teun Koopmeiners 
+126,1,Argentina,away, 101' ,Yellow card, Nicolás Otamendi ,
+127,1,Netherlands,home, 104' ,Yellow card, Steven Bergwijn ,
+128,1,Argentina,away, 105' ,Substitution, Gonzalo Montiel , Nahuel Molina 
+129,1,Argentina,away, 109' ,Yellow card, Gonzalo Montiel ,
+130,1,Argentina,away, 112' ,Substitution, Ángel Di María , Lisandro Martínez 
+131,1,Argentina,away, 112' ,Yellow card, Germán Pezzella ,
+132,1,Netherlands,home, 113' ,Substitution, Noa Lang , Cody Gakpo 
+133,1,Netherlands,home,False,PK,,
+134,1,Argentina,away,False,PK,,
+135,1,Netherlands,home,False,PK,,
+136,1,Argentina,away,False,PK,,
+137,1,Netherlands,home,False,PK,,
+138,1,Argentina,away,False,PK,,
+139,1,Netherlands,home,False,PK,,
+140,1,Argentina,away,False,PK,,
+141,1,Netherlands,home,False,PK,,
+142,1,Argentina,away,False,PK,,
+143,1,Netherlands,home, 128' ,Yellow card, Denzel Dumfries ,
+144,1,Netherlands,home, 128' ,Yellow card, Noa Lang ,
+145,1,Netherlands,home, 128' ,Second yellow card, Denzel Dumfries ,
+146,1,Brazil,away, 25' ,Yellow card, Danilo ,
+147,1,Croatia,home, 31' ,Yellow card, Marcelo Brozović ,
+148,1,Brazil,away, 56' ,Substitution, Antony , Raphinha 
+149,1,Brazil,away, 64' ,Substitution, Rodrygo , Vinícius Júnior 
+150,1,Brazil,away, 68' ,Yellow card, Casemiro ,
+151,1,Croatia,home, 72' ,Substitution, Nikola Vlašić , Mario Pašalić 
+152,1,Croatia,home, 72' ,Substitution, Bruno Petković , Andrej Kramarić 
+153,1,Brazil,away, 77' ,Yellow card, Marquinhos ,
+154,1,Brazil,away, 84' ,Substitution, Pedro , Richarlison 
+155,1,Brazil,away, 106' ,Goal, Neymar , Lucas Paquetá 
+156,1,Croatia,home, 105' ,Substitution, Lovro Majer , Mateo Kovačić 
+157,1,Brazil,away, 105' ,Substitution, Alex Sandro , Éder Militão 
+158,1,Brazil,away, 105' ,Substitution, Fred , Lucas Paquetá 
+159,1,Croatia,home, 110' ,Substitution, Ante Budimir , Borna Sosa 
+160,1,Croatia,home, 114' ,Substitution, Mislav Oršić , Marcelo Brozović 
+161,1,Croatia,home, 117' ,Goal, Bruno Petković , Mislav Oršić 
+162,1,Croatia,home, 117' ,Yellow card, Bruno Petković ,
+163,1,Croatia,home,False,PK,,
+164,1,Brazil,away,False,PK,,
+165,1,Croatia,home,False,PK,,
+166,1,Brazil,away,False,PK,,
+167,1,Croatia,home,False,PK,,
+168,1,Brazil,away,False,PK,,
+169,1,Croatia,home,False,PK,,
+170,1,Brazil,away,False,PK,,
+171,1,Portugal,home, 17' ,Goal, Gonçalo Ramos , João Félix 
+172,1,Portugal,home, 33' ,Goal, Pepe , Bruno Fernandes 
+173,1,Switzerland,away, 43' ,Yellow card, Fabian Schär ,
+174,1,Switzerland,away, 45' ,Substitution, Eray Cömert , Fabian Schär 
+175,1,Portugal,home, 51' ,Goal, Gonçalo Ramos ,
+176,1,Switzerland,away, 54' ,Substitution, Denis Zakaria , Remo Freuler 
+177,1,Switzerland,away, 54' ,Substitution, Haris Seferovic , Djibril Sow 
+178,1,Portugal,home, 55' ,Goal, Raphaël Guerreiro , Gonçalo Ramos 
+179,1,Switzerland,away, 58' ,Goal, Manuel Akanji ,
+180,1,Switzerland,away, 59' ,Yellow card, Eray Cömert ,
+181,1,Switzerland,away, 66' ,Substitution, Noah Okafor , Ruben Vargas 
+182,1,Portugal,home, 67' ,Goal, Gonçalo Ramos , João Félix 
+183,1,Portugal,home, 73' ,Substitution, Cristiano Ronaldo , João Félix 
+184,1,Portugal,home, 74' ,Substitution, Ricardo Horta , Gonçalo Ramos 
+185,1,Portugal,home, 74' ,Substitution, Vitinha , Otávio 
+186,1,Portugal,home, 81' ,Substitution, Rúben Neves , Bernardo Silva 
+187,1,Portugal,home, 87' ,Substitution, Rafael Leão , Bruno Fernandes 
+188,1,Switzerland,away, 89' ,Substitution, Ardon Jashari , Breel Embolo 
+189,1,Portugal,home, 92' ,Goal, Rafael Leão , Raphaël Guerreiro 
+190,1,Spain,away, 63' ,Substitution, Álvaro Morata , Marco Asensio 
+191,1,Spain,away, 63' ,Substitution, Carlos Soler , Gavi 
+192,1,Morocco,home, 66' ,Substitution, Abdessamad Ezzalzouli , Sofiane Boufal 
+193,1,Spain,away, 75' ,Substitution, Nico Williams , Ferran Torres 
+194,1,Spain,away, 76' ,Yellow card, Aymeric Laporte ,
+195,1,Morocco,home, 82' ,Substitution, Walid Cheddira , Selim Amallah 
+196,1,Morocco,home, 82' ,Substitution, Abdelhamid Sabiri , Youssef En-Nesyri 
+197,1,Morocco,home, 82' ,Substitution, Yahia Attiyat Allah , Noussair Mazraoui 
+198,1,Morocco,home, 84' ,Substitution, Jawad El Yamiq , Nayef Aguerd 
+199,1,Morocco,home, 90' ,Yellow card, Romain Saïss ,
+200,1,Spain,away, 98' ,Substitution, Ansu Fati , Dani Olmo 
+201,1,Spain,away, 98' ,Substitution, Alejandro Baldé , Jordi Alba 
+202,1,Spain,away, 118' ,Substitution, Pablo Sarabia , Nico Williams 
+203,1,Morocco,home, 120' ,Substitution, Badr Benoun , Azzedine Ounahi 
+204,1,Morocco,home,False,PK,,
+205,1,Spain,away,False,PK,,
+206,1,Morocco,home,False,PK,,
+207,1,Spain,away,False,PK,,
+208,1,Morocco,home,False,PK,,
+209,1,Spain,away,False,PK,,
+210,1,Morocco,home,False,PK,,
+211,1,Brazil,home, 7' ,Goal, Vinícius Júnior , Neymar 
+212,1,Brazil,home, 13' ,Penalty, Neymar , Penalty 
+213,1,Brazil,home, 29' ,Goal, Richarlison , Thiago Silva 
+214,1,Brazil,home, 36' ,Goal, Lucas Paquetá , Vinícius Júnior 
+215,1,South Korea,away, 44' ,Yellow card, Jung Woo-young ,
+216,1,South Korea,away, 45' ,Substitution, Hong Chul , Kim Jin-su 
+217,1,South Korea,away, 45' ,Substitution, Son Jun-ho , Jung Woo-young 
+218,1,Brazil,home, 63' ,Substitution, Dani Alves , Éder Militão 
+219,1,South Korea,away, 65' ,Substitution, Paik Seung-ho , Hwang In-beom 
+220,1,Brazil,home, 72' ,Substitution, Bremer , Danilo 
+221,1,Brazil,home, 72' ,Substitution, Gabriel Martinelli , Vinícius Júnior 
+222,1,South Korea,away, 74' ,Substitution, Lee Kang-in , Lee Jae-sung 
+223,1,South Korea,away, 76' ,Goal, Paik Seung-ho ,
+224,1,Brazil,home, 80' ,Substitution, Weverton , Alisson 
+225,1,South Korea,away, 80' ,Substitution, Hwang Ui-jo , Cho Gue-sung 
+226,1,Brazil,home, 81' ,Substitution, Rodrygo , Neymar 
+227,1,Japan,home, 43' ,Goal, Daizen Maeda , Maya Yoshida 
+228,1,Croatia,away, 55' ,Goal, Ivan Perišić , Dejan Lovren 
+229,1,Croatia,away, 62' ,Substitution, Ante Budimir , Bruno Petković 
+230,1,Japan,home, 64' ,Substitution, Kaoru Mitoma , Yuto Nagatomo 
+231,1,Japan,home, 64' ,Substitution, Takuma Asano , Daizen Maeda 
+232,1,Croatia,away, 68' ,Substitution, Mario Pašalić , Andrej Kramarić 
+233,1,Japan,home, 75' ,Substitution, Hiroki Sakai , Daichi Kamada 
+234,1,Japan,home, 87' ,Substitution, Takumi Minamino , Ritsu Dōan 
+235,1,Croatia,away, 90' ,Yellow card, Mateo Kovačić ,
+236,1,Croatia,away, 99' ,Substitution, Lovro Majer , Luka Modrić 
+237,1,Croatia,away, 99' ,Substitution, Nikola Vlašić , Mateo Kovačić 
+238,1,Japan,home, 105' ,Substitution, Ao Tanaka , Hidemasa Morita 
+239,1,Croatia,away, 105' ,Substitution, Marko Livaja , Ante Budimir 
+240,1,Croatia,away, 105' ,Substitution, Mislav Oršić , Ivan Perišić 
+241,1,Croatia,away, 116' ,Yellow card, Borna Barišić ,
+242,1,Japan,home,False,PK,,
+243,1,Croatia,away,False,PK,,
+244,1,Japan,home,False,PK,,
+245,1,Croatia,away,False,PK,,
+246,1,Japan,home,False,PK,,
+247,1,Croatia,away,False,PK,,
+248,1,Japan,home,False,PK,,
+249,1,Croatia,away,False,PK,,
+250,1,England,home, 39' ,Goal, Jordan Henderson , Jude Bellingham 
+251,1,England,home, 48' ,Goal, Harry Kane , Phil Foden 
+252,1,Senegal,away, 45' ,Substitution, Pape Gueye , Pathé Ciss 
+253,1,Senegal,away, 45' ,Substitution, Bamba Dieng , Iliman Ndiaye 
+254,1,Senegal,away, 45' ,Substitution, Pape Matar Sarr , Krépin Diatta 
+255,1,England,home, 57' ,Goal, Bukayo Saka , Phil Foden 
+256,1,England,home, 65' ,Substitution, Marcus Rashford , Bukayo Saka 
+257,1,England,home, 65' ,Substitution, Jack Grealish , Phil Foden 
+258,1,Senegal,away, 72' ,Substitution, Famara Diédhiou , Boulaye Dia 
+259,1,Senegal,away, 76' ,Yellow card, Kalidou Koulibaly ,
+260,1,England,home, 76' ,Substitution, Mason Mount , Jude Bellingham 
+261,1,England,home, 77' ,Substitution, Eric Dier , John Stones 
+262,1,England,home, 82' ,Substitution, Kalvin Phillips , Jordan Henderson 
+263,1,Senegal,away, 84' ,Substitution, Fodé Ballo-Touré , Ismail Jakobs 
+264,1,France,home, 31' ,Yellow card, Aurélien Tchouaméni ,
+265,1,France,home, 44' ,Goal, Olivier Giroud , Kylian Mbappé 
+266,1,Poland,away, 47' ,Yellow card, Bartosz Bereszyński ,
+267,1,Poland,away, 64' ,Substitution, Arek Milik , Sebastian Szymański 
+268,1,France,home, 66' ,Substitution, Youssouf Fofana , Aurélien Tchouaméni 
+269,1,Poland,away, 71' ,Substitution, Nicola Zalewski , Jakub Kamiński 
+270,1,Poland,away, 71' ,Substitution, Krystian Bielik , Grzegorz Krychowiak 
+271,1,France,home, 74' ,Goal, Kylian Mbappé , Ousmane Dembélé 
+272,1,France,home, 76' ,Substitution, Marcus Thuram , Olivier Giroud 
+273,1,France,home, 76' ,Substitution, Kingsley Coman , Ousmane Dembélé 
+274,1,Poland,away, 86' ,Substitution, Jan Bednarek , Jakub Kiwior 
+275,1,Poland,away, 87' ,Substitution, Kamil Grosicki , Przemysław Frankowski 
+276,1,Poland,away, 88' ,Yellow card, Matty Cash ,
+277,1,France,home, 91' ,Goal, Kylian Mbappé , Marcus Thuram 
+278,1,France,home, 92' ,Substitution, Axel Disasi , Jules Koundé 
+279,1,Poland,away, 99' ,Penalty, Robert Lewandowski , Penalty 
+280,1,Australia,away, 15' ,Yellow card, Jackson Irvine ,
+281,1,Argentina,home, 35' ,Goal, Lionel Messi , Nicolás Otamendi 
+282,1,Australia,away, 38' ,Yellow card, Miloš Degenek ,
+283,1,Argentina,home, 50' ,Substitution, Lisandro Martínez , Papu Gómez 
+284,1,Argentina,home, 57' ,Goal, Julián Álvarez ,
+285,1,Australia,away, 58' ,Substitution, Ajdin Hrustić , Keanu Baccus 
+286,1,Australia,away, 58' ,Substitution, Craig Goodwin , Riley McGree 
+287,1,Argentina,home, 71' ,Substitution, Lautaro Martínez , Julián Álvarez 
+288,1,Argentina,home, 72' ,Substitution, Nicolás Tagliafico , Marcos Acuña 
+289,1,Australia,away, 72' ,Substitution, Jamie Maclaren , Mitchell Duke 
+290,1,Australia,away, 72' ,Substitution, Garang Kuol , Mathew Leckie 
+291,1,Australia,away, 72' ,Substitution, Fran Karačić , Miloš Degenek 
+292,1,Australia,away, 77' ,Own goal, Enzo Fernández , Own goal 
+293,1,Argentina,home, 80' ,Substitution, Gonzalo Montiel , Alexis Mac Allister 
+294,1,Argentina,home, 80' ,Substitution, Exequiel Palacios , Nahuel Molina 
+295,1,Netherlands,home, 10' ,Goal, Memphis , Denzel Dumfries 
+296,1,Netherlands,home, 46' ,Goal, Daley Blind , Denzel Dumfries 
+297,1,Netherlands,home, 45' ,Substitution, Teun Koopmeiners , Davy Klaassen 
+298,1,USA,away, 45' ,Substitution, Giovanni Reyna , Jesús Ferreira 
+299,1,Netherlands,home, 45' ,Substitution, Steven Bergwijn , Marten de Roon 
+300,1,Netherlands,home, 60' ,Yellow card, Teun Koopmeiners ,
+301,1,USA,away, 67' ,Substitution, Brenden Aaronson , Tim Weah 
+302,1,USA,away, 67' ,Substitution, Haji Wright , Weston McKennie 
+303,1,USA,away, 75' ,Substitution, DeAndre Yedlin , Sergiño Dest 
+304,1,USA,away, 76' ,Goal, Haji Wright , Christian Pulisic 
+305,1,Netherlands,home, 81' ,Goal, Denzel Dumfries , Daley Blind 
+306,1,Netherlands,home, 83' ,Substitution, Xavi Simons , Memphis 
+307,1,Netherlands,home, 87' ,Yellow card, Frenkie de Jong ,
+308,1,USA,away, 92' ,Substitution, Jordan Morris , Antonee Robinson 
+309,1,Netherlands,home, 93' ,Substitution, Matthijs de Ligt , Nathan Aké 
+310,1,Netherlands,home, 93' ,Substitution, Wout Weghorst , Cody Gakpo 
+311,1,Switzerland,away, 15' ,Yellow card, Silvan Widmer ,
+312,1,Switzerland,away, 20' ,Goal, Xherdan Shaqiri , Djibril Sow 
+313,1,Serbia,home, 26' ,Goal, Aleksandar Mitrović , Dušan Tadić 
+314,1,Switzerland,away, 34' ,Yellow card, Ruben Vargas ,
+315,1,Serbia,home, 35' ,Goal, Dušan Vlahović ,
+316,1,Switzerland,away, 44' ,Goal, Breel Embolo , Silvan Widmer 
+317,1,Serbia,home, 47' ,Yellow card, Sergej Milinković-Savić ,
+318,1,Switzerland,away, 48' ,Goal, Remo Freuler , Ruben Vargas 
+319,1,Serbia,home, 55' ,Substitution, Nemanja Gudelj , Milos Veljkovic 
+320,1,Serbia,home, 55' ,Substitution, Luka Jović , Dušan Vlahović 
+321,1,Serbia,home, 56' ,Yellow card, Strahinja Pavlović ,
+322,1,Serbia,home, 66' ,Yellow card, Predrag Rajković ,
+323,1,Serbia,home, 67' ,Substitution, Nemanja Maksimović , Sergej Milinković-Savić 
+324,1,Switzerland,away, 68' ,Substitution, Edimilson Fernandes , Djibril Sow 
+325,1,Switzerland,away, 69' ,Substitution, Denis Zakaria , Xherdan Shaqiri 
+326,1,Serbia,home, 78' ,Substitution, Filip Đuričić , Dušan Tadić 
+327,1,Serbia,home, 78' ,Substitution, Nemanja Radonjić , Andrija Živković 
+328,1,Serbia,home, 81' ,Yellow card, Nemanja Gudelj ,
+329,1,Serbia,home, 82' ,Yellow card, Aleksandar Mitrović ,
+330,1,Switzerland,away, 83' ,Substitution, Christian Fassnacht , Ruben Vargas 
+331,1,Switzerland,away, 95' ,Yellow card, Granit Xhaka ,
+332,1,Serbia,home, 95' ,Yellow card, Nikola Milenković ,
+333,1,Switzerland,away, 96' ,Substitution, Noah Okafor , Breel Embolo 
+334,1,Switzerland,away, 99' ,Yellow card, Fabian Schär ,
+335,1,Serbia,home, 100' ,Yellow card, Saša Lukić ,
+336,1,Cameroon,home, 6' ,Yellow card, Nouhou Tolo ,
+337,1,Brazil,away, 7' ,Yellow card, Éder Militão ,
+338,1,Cameroon,home, 28' ,Yellow card, Pierre Kunde ,
+339,1,Cameroon,home, 32' ,Yellow card, Collins Fai ,
+340,1,Brazil,away, 54' ,Substitution, Marquinhos , Alex Telles 
+341,1,Brazil,away, 55' ,Substitution, Éverton Ribeiro , Rodrygo 
+342,1,Brazil,away, 55' ,Substitution, Bruno Guimarães , Fred 
+343,1,Cameroon,home, 64' ,Substitution, Karl Toko Ekambi , Bryan Mbeumo 
+344,1,Brazil,away, 64' ,Substitution, Pedro , Gabriel Jesus 
+345,1,Cameroon,home, 68' ,Substitution, Olivier Ntcham , Pierre Kunde 
+346,1,Brazil,away, 79' ,Substitution, Raphinha , Antony 
+347,1,Cameroon,home, 81' ,Yellow card, Vincent Aboubakar ,
+348,1,Brazil,away, 85' ,Yellow card, Bruno Guimarães ,
+349,1,Cameroon,home, 86' ,Substitution, Jerome Ngom Mbekeli , Moumi Ngamaleu 
+350,1,Cameroon,home, 92' ,Goal, Vincent Aboubakar , Jerome Ngom Mbekeli 
+351,1,Cameroon,home, 93' ,Second yellow card, Vincent Aboubakar ,
+352,1,Uruguay,away, 19' ,Yellow card, Darwin Núñez ,
+353,1,Ghana,home, 21' ,Missed penalty, André Ayew , Missed penalty 
+354,1,Uruguay,away, 26' ,Goal, Giorgian de Arrascaeta ,
+355,1,Uruguay,away, 32' ,Goal, Giorgian de Arrascaeta , Luis Suárez 
+356,1,Uruguay,away, 34' ,Substitution, Matías Vecino , Rodrigo Bentancur 
+357,1,Ghana,home, 45' ,Substitution, Kamaldeen Sulemana , Jordan Ayew 
+358,1,Ghana,home, 45' ,Substitution, Osman Bukari , André Ayew 
+359,1,Uruguay,away, 60' ,Yellow card, Luis Suárez ,
+360,1,Uruguay,away, 66' ,Substitution, Nicolás de la Cruz , Facundo Pellistri 
+361,1,Uruguay,away, 66' ,Substitution, Edinson Cavani , Luis Suárez 
+362,1,Ghana,home, 72' ,Substitution, Antoine Semenyo , Iñaki Williams 
+363,1,Ghana,home, 72' ,Substitution, Daniel-Kofi Kyereh , Salis Abdul Samed 
+364,1,Uruguay,away, 80' ,Substitution, Maxi Gómez , Darwin Núñez 
+365,1,Uruguay,away, 80' ,Substitution, Agustín Canobbio , Giorgian de Arrascaeta 
+366,1,Ghana,home, 86' ,Yellow card, Kamaldeen Sulemana ,
+367,1,Uruguay,away, 87' ,Yellow card, Sebastián Coates ,
+368,1,Ghana,home, 98' ,Substitution, Abdul Fatawu Issahaku , Mohammed Kudus 
+369,1,Ghana,home, 99' ,Yellow card, Alidu Seidu ,
+370,1,Uruguay,away, 100' ,Yellow card, Edinson Cavani ,
+371,1,Uruguay,away, 100' ,Yellow card, José Giménez ,
+372,1,Portugal,away, 5' ,Goal, Ricardo Horta , Diogo Dalot 
+373,1,South Korea,home, 27' ,Goal, Kim Young-gwon ,
+374,1,South Korea,home, 36' ,Yellow card, Lee Kang-in ,
+375,1,Portugal,away, 65' ,Substitution, João Palhinha , Matheus Nunes 
+376,1,Portugal,away, 65' ,Substitution, Rafael Leão , Rúben Neves 
+377,1,Portugal,away, 65' ,Substitution, André Silva , Cristiano Ronaldo 
+378,1,South Korea,home, 66' ,Substitution, Hwang Hee-chan , Lee Jae-sung 
+379,1,South Korea,home, 81' ,Substitution, Son Jun-ho , Kim Young-gwon 
+380,1,South Korea,home, 81' ,Substitution, Hwang Ui-jo , Lee Kang-in 
+381,1,Portugal,away, 81' ,Substitution, Bernardo Silva , Vitinha 
+382,1,Portugal,away, 82' ,Substitution, William Carvalho , João Mário 
+383,1,South Korea,home, 91' ,Goal, Hwang Hee-chan , Son Heung-min 
+384,1,South Korea,home, 92' ,Yellow card, Hwang Hee-chan ,
+385,1,South Korea,home, 93' ,Substitution, Cho Yu-min , Cho Gue-sung 
+386,1,Spain,away, 11' ,Goal, Álvaro Morata , César Azpilicueta 
+387,1,Japan,home, 39' ,Yellow card, Ko Itakura ,
+388,1,Japan,home, 44' ,Yellow card, Shogo Taniguchi ,
+389,1,Japan,home, 45' ,Yellow card, Maya Yoshida ,
+390,1,Japan,home, 45' ,Substitution, Ritsu Dōan , Takefusa Kubo 
+391,1,Spain,away, 45' ,Substitution, Dani Carvajal , César Azpilicueta 
+392,1,Japan,home, 45' ,Substitution, Kaoru Mitoma , Yuto Nagatomo 
+393,1,Japan,home, 48' ,Goal, Ritsu Dōan , Junya Ito 
+394,1,Japan,home, 51' ,Goal, Ao Tanaka , Kaoru Mitoma 
+395,1,Spain,away, 57' ,Substitution, Ferran Torres , Nico Williams 
+396,1,Spain,away, 57' ,Substitution, Marco Asensio , Álvaro Morata 
+397,1,Japan,home, 62' ,Substitution, Takuma Asano , Daizen Maeda 
+398,1,Spain,away, 68' ,Substitution, Ansu Fati , Gavi 
+399,1,Spain,away, 68' ,Substitution, Jordi Alba , Alejandro Baldé 
+400,1,Japan,home, 69' ,Substitution, Takehiro Tomiyasu , Daichi Kamada 
+401,1,Japan,home, 87' ,Substitution, Wataru Endo , Ao Tanaka 
+402,1,Germany,away, 10' ,Goal, Serge Gnabry , David Raum 
+403,1,Costa Rica,home, 45' ,Substitution, Youstin Salas , Brandon Aguilera 
+404,1,Germany,away, 45' ,Substitution, Lukas Klostermann , Leon Goretzka 
+405,1,Germany,away, 55' ,Substitution, Niclas Füllkrug , Ilkay Gündoğan 
+406,1,Costa Rica,home, 58' ,Goal, Yeltsin Tejeda ,
+407,1,Germany,away, 66' ,Substitution, Kai Havertz , Thomas Müller 
+408,1,Germany,away, 67' ,Substitution, Mario Götze , David Raum 
+409,1,Costa Rica,home, 70' ,Goal, Juan Pablo Vargas ,
+410,1,Germany,away, 73' ,Goal, Kai Havertz , Niclas Füllkrug 
+411,1,Costa Rica,home, 74' ,Substitution, Rónald Matarrita , Johan Venegas 
+412,1,Costa Rica,home, 74' ,Substitution, Jewison Bennette , Keysher Fuller 
+413,1,Costa Rica,home, 76' ,Yellow card, Óscar Duarte ,
+414,1,Germany,away, 85' ,Goal, Kai Havertz , Serge Gnabry 
+415,1,Germany,away, 89' ,Goal, Niclas Füllkrug , Leroy Sané 
+416,1,Costa Rica,home, 93' ,Substitution, Anthony Contreras , Bryan Oviedo 
+417,1,Costa Rica,home, 93' ,Substitution, Roan Wilson , Yeltsin Tejeda 
+418,1,Germany,away, 93' ,Substitution, Matthias Ginter , Niklas Süle 
+419,1,Belgium,away, 45' ,Substitution, Romelu Lukaku , Dries Mertens 
+420,1,Belgium,away, 59' ,Substitution, Thorgan Hazard , Leandro Trossard 
+421,1,Croatia,home, 64' ,Substitution, Bruno Petković , Marko Livaja 
+422,1,Croatia,home, 64' ,Substitution, Mario Pašalić , Andrej Kramarić 
+423,1,Belgium,away, 66' ,Yellow card, Leander Dendoncker ,
+424,1,Belgium,away, 72' ,Substitution, Jérémy Doku , Yannick Carrasco 
+425,1,Belgium,away, 72' ,Substitution, Youri Tielemans , Leander Dendoncker 
+426,1,Belgium,away, 87' ,Substitution, Eden Hazard , Thomas Meunier 
+427,1,Croatia,home, 92' ,Substitution, Lovro Majer , Mateo Kovačić 
+428,1,Morocco,away, 4' ,Goal, Hakim Ziyech ,
+429,1,Canada,home, 7' ,Yellow card, Junior Hoilett ,
+430,1,Morocco,away, 23' ,Goal, Youssef En-Nesyri , Achraf Hakimi 
+431,1,Canada,home, 26' ,Yellow card, Jonathan Osorio ,
+432,1,Canada,home, 40' ,Own goal, Nayef Aguerd , Own goal 
+433,1,Canada,home, 47' ,Yellow card, Sam Adekugbe ,
+434,1,Canada,home, 60' ,Substitution, Atiba Hutchinson , Mark-Anthony Kaye 
+435,1,Canada,home, 60' ,Substitution, Jonathan David , Cyle Larin 
+436,1,Canada,home, 61' ,Substitution, Ismaël Koné , Sam Adekugbe 
+437,1,Morocco,away, 65' ,Substitution, Zakaria Aboukhlal , Sofiane Boufal 
+438,1,Morocco,away, 65' ,Substitution, Selim Amallah , Abdelhamid Sabiri 
+439,1,Canada,home, 65' ,Substitution, Richie Laryea , Jonathan Osorio 
+440,1,Morocco,away, 76' ,Substitution, Abderrazak Hamdallah , Hakim Ziyech 
+441,1,Canada,home, 76' ,Substitution, David Wotherspoon , Junior Hoilett 
+442,1,Morocco,away, 77' ,Substitution, Jawad El Yamiq , Azzedine Ounahi 
+443,1,Canada,home, 84' ,Yellow card, Steven Vitória ,
+444,1,Morocco,away, 85' ,Substitution, Yahya Jabrane , Achraf Hakimi 
+445,1,Mexico,away, 16' ,Yellow card, Edson Álvarez ,
+446,1,Saudi Arabia,home, 28' ,Yellow card, Saleh Al-Shehri ,
+447,1,Saudi Arabia,home, 34' ,Yellow card, Ali Al-Hassan ,
+448,1,Saudi Arabia,home, 37' ,Substitution, Riyadh Sharahili , Ali Al-Bulaihi 
+449,1,Mexico,away, 45' ,Substitution, Uriel Antuna , Alexis Vega 
+450,1,Saudi Arabia,home, 45' ,Substitution, Abdullah Madu , Ali Al-Hassan 
+451,1,Mexico,away, 47' ,Goal, Henry Martín , César Montes 
+452,1,Mexico,away, 52' ,Goal, Luis Chávez ,
+453,1,Saudi Arabia,home, 52' ,Yellow card, Hassan Al-Tambakti ,
+454,1,Saudi Arabia,home, 62' ,Substitution, Abdulrahman Al-Aboud , Saleh Al-Shehri 
+455,1,Mexico,away, 77' ,Substitution, Carlos Rodríguez , Orbelín Pineda 
+456,1,Mexico,away, 77' ,Substitution, Raúl Jiménez , Henry Martín 
+457,1,Saudi Arabia,home, 81' ,Yellow card, Abdullah Madu ,
+458,1,Mexico,away, 86' ,Substitution, Kevin Álvarez , Jorge Sánchez 
+459,1,Mexico,away, 86' ,Substitution, Rogelio Funes Mori , Edson Álvarez 
+460,1,Saudi Arabia,home, 88' ,Substitution, Hattan Bahebri , Sultan Al-Ghanam 
+461,1,Saudi Arabia,home, 91' ,Yellow card, Abdulelah Al-Amri ,
+462,1,Saudi Arabia,home, 95' ,Goal, Salem Al-Dawsari , Hattan Bahebri 
+463,1,Saudi Arabia,home, 97' ,Yellow card, Hattan Bahebri ,
+464,1,Argentina,away, 39' ,Missed penalty, Lionel Messi , Missed penalty 
+465,1,Poland,home, 45' ,Substitution, Michał Skóraś , Karol Świderski 
+466,1,Poland,home, 45' ,Substitution, Jakub Kamiński , Przemysław Frankowski 
+467,1,Argentina,away, 46' ,Goal, Alexis Mac Allister , Nahuel Molina 
+468,1,Argentina,away, 49' ,Yellow card, Marcos Acuña ,
+469,1,Argentina,away, 59' ,Substitution, Leandro Paredes , Ángel Di María 
+470,1,Argentina,away, 59' ,Substitution, Nicolás Tagliafico , Marcos Acuña 
+471,1,Poland,home, 62' ,Substitution, Damian Szymański , Krystian Bielik 
+472,1,Argentina,away, 67' ,Goal, Julián Álvarez , Enzo Fernández 
+473,1,Poland,home, 72' ,Substitution, Artur Jędrzejczyk , Bartosz Bereszyński 
+474,1,Poland,home, 78' ,Yellow card, Grzegorz Krychowiak ,
+475,1,Argentina,away, 79' ,Substitution, Lautaro Martínez , Julián Álvarez 
+476,1,Argentina,away, 79' ,Substitution, Germán Pezzella , Enzo Fernández 
+477,1,Poland,home, 83' ,Substitution, Krzysztof Piątek , Grzegorz Krychowiak 
+478,1,Argentina,away, 84' ,Substitution, Thiago Almada , Alexis Mac Allister 
+479,1,Tunisia,home, 28' ,Yellow card, Wajdi Kechrida ,
+480,1,Tunisia,home, 58' ,Goal, Wahbi Khazri , Aïssa Laïdouni 
+481,1,Tunisia,home, 60' ,Substitution, Issam Jebali , Wahbi Khazri 
+482,1,France,away, 63' ,Substitution, William Saliba , Raphaël Varane 
+483,1,France,away, 63' ,Substitution, Kylian Mbappé , Kingsley Coman 
+484,1,France,away, 63' ,Substitution, Adrien Rabiot , Jordan Veretout 
+485,1,France,away, 73' ,Substitution, Antoine Griezmann , Youssouf Fofana 
+486,1,Tunisia,home, 74' ,Substitution, Ghailene Chaalali , Mohamed Ali Ben Romdhane 
+487,1,France,away, 79' ,Substitution, Ousmane Dembélé , Matteo Guendouzi 
+488,1,Tunisia,home, 83' ,Substitution, Ali Abdi , Anis Ben Slimane 
+489,1,France,away, 100' ,Disallowed goal,Disallowed goal,
+490,1,Australia,home, 4' ,Yellow card, Aziz Behich ,
+491,1,Australia,home, 45' ,Substitution, Keanu Baccus , Craig Goodwin 
+492,1,Denmark,away, 45' ,Substitution, Alexander Bah , Rasmus Kristensen 
+493,1,Australia,home, 57' ,Yellow card, Miloš Degenek ,
+494,1,Denmark,away, 59' ,Substitution, Kasper Dolberg , Martin Braithwaite 
+495,1,Denmark,away, 59' ,Substitution, Mikkel Damsgaard , Mathias Jensen 
+496,1,Australia,home, 60' ,Goal, Mathew Leckie , Riley McGree 
+497,1,Denmark,away, 69' ,Substitution, Robert Skov , Andreas Skov Olsen 
+498,1,Denmark,away, 70' ,Substitution, Andreas Cornelius , Joakim Mæhle 
+499,1,Australia,home, 74' ,Substitution, Bailey Wright , Riley McGree 
+500,1,Denmark,away, 75' ,Yellow card, Robert Skov ,
+501,1,Australia,home, 82' ,Substitution, Jamie Maclaren , Mitchell Duke 
+502,1,Australia,home, 89' ,Substitution, Ajdin Hrustić , Mathew Leckie 
+503,1,USA,away, 38' ,Goal, Christian Pulisic , Sergiño Dest 
+504,1,USA,away, 43' ,Yellow card, Tyler Adams ,
+505,1,Iran,home, 48' ,Substitution, Ali Karimi , Milad Mohammadi 
+506,1,USA,away, 45' ,Substitution, Brenden Aaronson , Christian Pulisic 
+507,1,Iran,home, 45' ,Substitution, Saman Ghoddos , Sardar Azmoun 
+508,1,USA,away, 65' ,Substitution, Kellyn Acosta , Weston McKennie 
+509,1,Iran,home, 71' ,Substitution, Mehdi Torabi , Ahmad Nourollahi 
+510,1,Iran,home, 72' ,Substitution, Abolfazl Jalali , Ehsan Hajsafi 
+511,1,Iran,home, 77' ,Yellow card, Majid Hosseini ,
+512,1,USA,away, 77' ,Substitution, Haji Wright , Josh Sargent 
+513,1,Iran,home, 78' ,Substitution, Karim Ansarifard , Ali Gholizadeh 
+514,1,USA,away, 82' ,Substitution, Shaq Moore , Sergiño Dest 
+515,1,USA,away, 82' ,Substitution, Walker Zimmerman , Tim Weah 
+516,1,Iran,home, 83' ,Yellow card, Hossein Kanani ,
+517,1,Iran,home, 96' ,Yellow card, Abolfazl Jalali ,
+518,1,Wales,home, 29' ,Yellow card, Daniel James ,
+519,1,Wales,home, 36' ,Substitution, Connor Roberts , Neco Williams 
+520,1,Wales,home, 45' ,Substitution, Brennan Johnson , Gareth Bale 
+521,1,England,away, 50' ,Goal, Marcus Rashford ,
+522,1,England,away, 51' ,Goal, Phil Foden , Harry Kane 
+523,1,England,away, 57' ,Substitution, Trent Alexander-Arnold , Kyle Walker 
+524,1,England,away, 58' ,Substitution, Callum Wilson , Harry Kane 
+525,1,England,away, 58' ,Substitution, Kalvin Phillips , Declan Rice 
+526,1,Wales,home, 59' ,Substitution, Joe Morrell , Ben Davies 
+527,1,Wales,home, 61' ,Yellow card, Aaron Ramsey ,
+528,1,England,away, 65' ,Substitution, Kieran Trippier , Luke Shaw 
+529,1,England,away, 68' ,Goal, Marcus Rashford , Kalvin Phillips 
+530,1,England,away, 76' ,Substitution, Jack Grealish , Marcus Rashford 
+531,1,Wales,home, 77' ,Substitution, Harry Wilson , Daniel James 
+532,1,Wales,home, 81' ,Substitution, Rubin Colwill , Joe Allen 
+533,1,Netherlands,home, 26' ,Goal, Cody Gakpo , Davy Klaassen 
+534,1,Netherlands,home, 49' ,Goal, Frenkie de Jong ,
+535,1,Netherlands,home, 52' ,Yellow card, Nathan Aké ,
+536,1,Qatar,away, 64' ,Substitution, Karim Boudiaf , Assim Madibo 
+537,1,Qatar,away, 64' ,Substitution, Mohammed Muntari , Almoez Ali 
+538,1,Qatar,away, 64' ,Substitution, Ali Assadalla , Hassan Al Haydos 
+539,1,Netherlands,home, 66' ,Substitution, Steven Berghuis , Davy Klaassen 
+540,1,Netherlands,home, 66' ,Substitution, Vincent Janssen , Memphis 
+541,1,Netherlands,home, 68' ,Disallowed goal,Disallowed goal,
+542,1,Netherlands,home, 83' ,Substitution, Teun Koopmeiners , Marten de Roon 
+543,1,Netherlands,home, 83' ,Substitution, Wout Weghorst , Cody Gakpo 
+544,1,Qatar,away, 85' ,Substitution, Ahmed Alaaeldin , Abdulaziz Hatem 
+545,1,Qatar,away, 85' ,Substitution, Musaab Khidir , Ismail Mohammad 
+546,1,Netherlands,home, 86' ,Substitution, Kenneth Taylor , Frenkie de Jong 
+547,1,Senegal,away, 44' ,Penalty, Ismaïla Sarr , Penalty 
+548,1,Ecuador,home, 45' ,Substitution, Jeremy Sarmiento , Alan Franco 
+549,1,Ecuador,home, 45' ,Substitution, José Cifuentes , Carlos Gruezo 
+550,1,Ecuador,home, 64' ,Substitution, Djorkaeff Reasco , Michael Estrada 
+551,1,Senegal,away, 66' ,Yellow card, Idrissa Gueye ,
+552,1,Ecuador,home, 67' ,Goal, Moisés Caicedo , Félix Torres 
+553,1,Senegal,away, 70' ,Goal, Kalidou Koulibaly ,
+554,1,Senegal,away, 74' ,Substitution, Nampalys Mendy , Pathé Ciss 
+555,1,Senegal,away, 75' ,Substitution, Bamba Dieng , Iliman Ndiaye 
+556,1,Ecuador,home, 85' ,Substitution, Jackson Porozo , Ángelo Preciado 
+557,1,Senegal,away, 95' ,Substitution, Pape Abou Cissé , Boulaye Dia 
+558,1,Uruguay,away, 6' ,Yellow card, Rodrigo Bentancur ,
+559,1,Portugal,home, 38' ,Yellow card, Rúben Neves ,
+560,1,Portugal,home, 42' ,Substitution, Raphaël Guerreiro , Nuno Mendes 
+561,1,Uruguay,away, 44' ,Yellow card, Mathías Olivera ,
+562,1,Portugal,home, 54' ,Goal, Bruno Fernandes , Raphaël Guerreiro 
+563,1,Uruguay,away, 62' ,Substitution, Giorgian de Arrascaeta , Matías Vecino 
+564,1,Uruguay,away, 62' ,Substitution, Facundo Pellistri , Diego Godín 
+565,1,Portugal,home, 69' ,Substitution, Rafael Leão , Rúben Neves 
+566,1,Uruguay,away, 72' ,Substitution, Maxi Gómez , Darwin Núñez 
+567,1,Uruguay,away, 73' ,Substitution, Luis Suárez , Edinson Cavani 
+568,1,Portugal,home, 77' ,Yellow card, João Félix ,
+569,1,Portugal,home, 82' ,Substitution, Matheus Nunes , João Félix 
+570,1,Portugal,home, 82' ,Substitution, Gonçalo Ramos , Cristiano Ronaldo 
+571,1,Portugal,home, 82' ,Substitution, João Palhinha , William Carvalho 
+572,1,Uruguay,away, 86' ,Substitution, Matías Viña , Mathías Olivera 
+573,1,Portugal,home, 89' ,Yellow card, Rúben Dias ,
+574,1,Portugal,home, 93' ,Penalty, Bruno Fernandes , Penalty 
+575,1,Brazil,home, 45' ,Substitution, Rodrygo , Lucas Paquetá 
+576,1,Switzerland,away, 50' ,Yellow card, Fabian Rieder ,
+577,1,Brazil,home, 52' ,Yellow card, Fred ,
+578,1,Brazil,home, 58' ,Substitution, Bruno Guimarães , Fred 
+579,1,Switzerland,away, 59' ,Substitution, Edimilson Fernandes , Ruben Vargas 
+580,1,Switzerland,away, 59' ,Substitution, Renato Steffen , Fabian Rieder 
+581,1,Brazil,home, 65' ,Disallowed goal,Disallowed goal,
+582,1,Brazil,home, 73' ,Substitution, Gabriel Jesus , Richarlison 
+583,1,Brazil,home, 73' ,Substitution, Antony , Raphinha 
+584,1,Switzerland,away, 76' ,Substitution, Michel Aebischer , Djibril Sow 
+585,1,Switzerland,away, 76' ,Substitution, Haris Seferovic , Breel Embolo 
+586,1,Brazil,home, 83' ,Goal, Casemiro , Rodrygo 
+587,1,Switzerland,away, 86' ,Substitution, Fabian Frei , Silvan Widmer 
+588,1,Brazil,home, 86' ,Substitution, Alex Telles , Alex Sandro 
+589,1,Ghana,away, 21' ,Yellow card, Daniel Amartey ,
+590,1,Ghana,away, 24' ,Goal, Mohammed Salisu ,
+591,1,South Korea,home, 27' ,Yellow card, Jung Woo-young ,
+592,1,Ghana,away, 34' ,Goal, Mohammed Kudus , Jordan Ayew 
+593,1,South Korea,home, 45' ,Substitution, Na Sang-ho , Jeong Woo-yeong 
+594,1,South Korea,home, 57' ,Substitution, Lee Kang-in , Kwon Chang-hoon 
+595,1,South Korea,home, 58' ,Goal, Cho Gue-sung , Lee Kang-in 
+596,1,South Korea,home, 61' ,Goal, Cho Gue-sung , Kim Jin-su 
+597,1,Ghana,away, 68' ,Goal, Mohammed Kudus , Iñaki Williams 
+598,1,Ghana,away, 73' ,Yellow card, Tariq Lamptey ,
+599,1,South Korea,home, 77' ,Yellow card, Kim Young-gwon ,
+600,1,Ghana,away, 78' ,Substitution, Daniel-Kofi Kyereh , André Ayew 
+601,1,Ghana,away, 78' ,Substitution, Denis Odoi , Tariq Lamptey 
+602,1,Ghana,away, 78' ,Substitution, Kamaldeen Sulemana , Jordan Ayew 
+603,1,South Korea,home, 79' ,Substitution, Hwang Ui-jo , Jung Woo-young 
+604,1,Ghana,away, 83' ,Substitution, Alexander Djiku , Mohammed Kudus 
+605,1,Ghana,away, 88' ,Substitution, Baba Rahman , Gideon Mensah 
+606,1,South Korea,home, 92' ,Substitution, Kwon Kyung-won , Kim Min-jae 
+607,1,Cameroon,home, 24' ,Yellow card, Nicolas Nkoulou ,
+608,1,Cameroon,home, 29' ,Goal, Jean-Charles Castelletto ,
+609,1,Cameroon,home, 30' ,Yellow card, Christian Bassogog ,
+610,1,Serbia,away, 46' ,Goal, Strahinja Pavlović , Dušan Tadić 
+611,1,Serbia,away, 48' ,Goal, Sergej Milinković-Savić , Andrija Živković 
+612,1,Serbia,away, 49' ,Yellow card, Luka Jović ,
+613,1,Serbia,away, 53' ,Goal, Aleksandar Mitrović , Andrija Živković 
+614,1,Cameroon,home, 55' ,Substitution, Vincent Aboubakar , Martin Hongla 
+615,1,Serbia,away, 56' ,Substitution, Stefan Mitrović , Strahinja Pavlović 
+616,1,Cameroon,home, 63' ,Goal, Vincent Aboubakar , Jean-Charles Castelletto 
+617,1,Cameroon,home, 66' ,Goal, Eric Maxim Choupo-Moting , Vincent Aboubakar 
+618,1,Cameroon,home, 67' ,Substitution, Gaël Ondoua , Pierre Kunde 
+619,1,Cameroon,home, 67' ,Substitution, Christian Bassogog , Karl Toko Ekambi 
+620,1,Serbia,away, 78' ,Substitution, Srđan Babić , Milos Veljkovic 
+621,1,Serbia,away, 78' ,Substitution, Nemanja Radonjić , Andrija Živković 
+622,1,Serbia,away, 79' ,Substitution, Marko Grujić , Sergej Milinković-Savić 
+623,1,Cameroon,home, 81' ,Substitution, Samuel Oum Gouet , André-Frank Zambo Anguissa 
+624,1,Cameroon,home, 81' ,Substitution, Georges-Kévin Nkoudou , Bryan Mbeumo 
+625,1,Serbia,away, 92' ,Substitution, Filip Đuričić , Filip Kostić 
+626,1,Serbia,away, 93' ,Yellow card, Nikola Milenković ,
+627,1,Germany,away, 37' ,Yellow card, Thilo Kehrer ,
+628,1,Germany,away, 39' ,Disallowed goal,Disallowed goal,
+629,1,Spain,home, 44' ,Yellow card, Sergio Busquets ,
+630,1,Spain,home, 54' ,Substitution, Álvaro Morata , Ferran Torres 
+631,1,Germany,away, 58' ,Yellow card, Leon Goretzka ,
+632,1,Germany,away, 60' ,Yellow card, Joshua Kimmich ,
+633,1,Spain,home, 62' ,Goal, Álvaro Morata , Jordi Alba 
+634,1,Spain,home, 66' ,Substitution, Koke , Marco Asensio 
+635,1,Spain,home, 66' ,Substitution, Nico Williams , Gavi 
+636,1,Germany,away, 70' ,Substitution, Leroy Sané , Ilkay Gündoğan 
+637,1,Germany,away, 70' ,Substitution, Niclas Füllkrug , Thomas Müller 
+638,1,Germany,away, 70' ,Substitution, Lukas Klostermann , Thilo Kehrer 
+639,1,Spain,home, 82' ,Substitution, Alejandro Baldé , Jordi Alba 
+640,1,Germany,away, 83' ,Goal, Niclas Füllkrug , Jamal Musiala 
+641,1,Germany,away, 85' ,Substitution, Jonas Hofmann , Serge Gnabry 
+642,1,Germany,away, 87' ,Substitution, Nico Schlotterbeck , David Raum 
+643,1,Canada,away, 2' ,Goal, Alphonso Davies , Tajon Buchanan 
+644,1,Croatia,home, 36' ,Goal, Andrej Kramarić , Ivan Perišić 
+645,1,Croatia,home, 44' ,Goal, Marko Livaja , Josip Juranović 
+646,1,Canada,away, 45' ,Substitution, Ismaël Koné , Stephen Eustáquio 
+647,1,Canada,away, 45' ,Substitution, Jonathan Osorio , Cyle Larin 
+648,1,Canada,away, 52' ,Yellow card, Tajon Buchanan ,
+649,1,Croatia,home, 56' ,Yellow card, Dejan Lovren ,
+650,1,Croatia,home, 60' ,Substitution, Bruno Petković , Marko Livaja 
+651,1,Canada,away, 62' ,Substitution, Junior Hoilett , Richie Laryea 
+652,1,Croatia,home, 70' ,Goal, Andrej Kramarić , Ivan Perišić 
+653,1,Canada,away, 72' ,Substitution, Lucas Cavallini , Jonathan David 
+654,1,Croatia,home, 73' ,Substitution, Nikola Vlašić , Andrej Kramarić 
+655,1,Canada,away, 73' ,Substitution, Sam Adekugbe , Atiba Hutchinson 
+656,1,Canada,away, 85' ,Yellow card, Kamal Miller ,
+657,1,Croatia,home, 85' ,Yellow card, Luka Modrić ,
+658,1,Croatia,home, 86' ,Substitution, Mislav Oršić , Ivan Perišić 
+659,1,Croatia,home, 86' ,Substitution, Mario Pašalić , Luka Modrić 
+660,1,Croatia,home, 86' ,Substitution, Lovro Majer , Mateo Kovačić 
+661,1,Croatia,home, 94' ,Goal, Lovro Majer , Mislav Oršić 
+662,1,Belgium,home, 28' ,Yellow card, Amadou Onana ,
+663,1,Morocco,away, 47' ,Disallowed goal,Disallowed goal,
+664,1,Belgium,home, 60' ,Substitution, Youri Tielemans , Amadou Onana 
+665,1,Belgium,home, 60' ,Substitution, Dries Mertens , Eden Hazard 
+666,1,Morocco,away, 67' ,Substitution, Yahia Attiyat Allah , Selim Amallah 
+667,1,Morocco,away, 68' ,Substitution, Abdelhamid Sabiri , Achraf Hakimi 
+668,1,Morocco,away, 73' ,Goal, Romain Saïss , Abdelhamid Sabiri 
+669,1,Morocco,away, 73' ,Substitution, Zakaria Aboukhlal , Sofiane Boufal 
+670,1,Morocco,away, 73' ,Substitution, Abderrazak Hamdallah , Youssef En-Nesyri 
+671,1,Belgium,home, 75' ,Substitution, Leandro Trossard , Thorgan Hazard 
+672,1,Belgium,home, 75' ,Substitution, Charles De Ketelaere , Michy Batshuayi 
+673,1,Morocco,away, 78' ,Substitution, Jawad El Yamiq , Azzedine Ounahi 
+674,1,Belgium,home, 81' ,Substitution, Romelu Lukaku , Thomas Meunier 
+675,1,Morocco,away, 92' ,Goal, Zakaria Aboukhlal , Hakim Ziyech 
+676,1,Morocco,away, 95' ,Yellow card, Abdelhamid Sabiri ,
+677,1,Costa Rica,away, 41' ,Yellow card, Anthony Contreras ,
+678,1,Japan,home, 44' ,Yellow card, Miki Yamane ,
+679,1,Japan,home, 45' ,Substitution, Hiroki Ito , Yuto Nagatomo 
+680,1,Japan,home, 45' ,Substitution, Takuma Asano , Ayase Ueda 
+681,1,Costa Rica,away, 61' ,Yellow card, Celso Borges ,
+682,1,Japan,home, 62' ,Substitution, Kaoru Mitoma , Miki Yamane 
+683,1,Costa Rica,away, 65' ,Substitution, Brandon Aguilera , Gerson Torres 
+684,1,Costa Rica,away, 65' ,Substitution, Jewison Bennette , Anthony Contreras 
+685,1,Japan,home, 67' ,Substitution, Junya Ito , Ritsu Dōan 
+686,1,Costa Rica,away, 70' ,Yellow card, Francisco Calvo ,
+687,1,Costa Rica,away, 81' ,Goal, Keysher Fuller , Yeltsin Tejeda 
+688,1,Japan,home, 82' ,Substitution, Takumi Minamino , Yuki Soma 
+689,1,Japan,home, 84' ,Yellow card, Ko Itakura ,
+690,1,Costa Rica,away, 89' ,Substitution, Youstin Salas , Celso Borges 
+691,1,Japan,home, 93' ,Yellow card, Wataru Endo ,
+692,1,Costa Rica,away, 95' ,Substitution, Daniel Chacón , Joel Campbell 
+693,1,Mexico,away, 22' ,Yellow card, Néstor Araujo ,
+694,1,Mexico,away, 42' ,Substitution, Érick Gutiérrez , Andrés Guardado 
+695,1,Argentina,home, 43' ,Yellow card, Gonzalo Montiel ,
+696,1,Mexico,away, 50' ,Yellow card, Érick Gutiérrez ,
+697,1,Argentina,home, 57' ,Substitution, Enzo Fernández , Guido Rodríguez 
+698,1,Argentina,home, 63' ,Substitution, Julián Álvarez , Lautaro Martínez 
+699,1,Argentina,home, 63' ,Substitution, Nahuel Molina , Gonzalo Montiel 
+700,1,Argentina,home, 64' ,Goal, Lionel Messi , Ángel Di María 
+701,1,Mexico,away, 66' ,Substitution, Uriel Antuna , Alexis Vega 
+702,1,Mexico,away, 66' ,Yellow card, Héctor Herrera ,
+703,1,Mexico,away, 66' ,Substitution, Raúl Jiménez , Kevin Álvarez 
+704,1,Argentina,home, 69' ,Substitution, Cristian Romero , Ángel Di María 
+705,1,Argentina,home, 69' ,Substitution, Exequiel Palacios , Alexis Mac Allister 
+706,1,Mexico,away, 73' ,Substitution, Roberto Alvarado , Hirving Lozano 
+707,1,Argentina,home, 87' ,Goal, Enzo Fernández , Lionel Messi 
+708,1,Mexico,away, 89' ,Yellow card, Roberto Alvarado ,
+709,1,Denmark,away, 20' ,Yellow card, Andreas Christensen ,
+710,1,Denmark,away, 23' ,Yellow card, Andreas Cornelius ,
+711,1,France,home, 43' ,Yellow card, Jules Koundé ,
+712,1,Denmark,away, 45' ,Substitution, Martin Braithwaite , Andreas Cornelius 
+713,1,France,home, 61' ,Goal, Kylian Mbappé , Theo Hernandez 
+714,1,France,home, 62' ,Substitution, Marcus Thuram , Olivier Giroud 
+715,1,Denmark,away, 68' ,Goal, Andreas Christensen , Joachim Andersen 
+716,1,Denmark,away, 73' ,Substitution, Kasper Dolberg , Mikkel Damsgaard 
+717,1,France,home, 75' ,Substitution, Ibrahima Konaté , Raphaël Varane 
+718,1,France,home, 75' ,Substitution, Kingsley Coman , Ousmane Dembélé 
+719,1,Denmark,away, 85' ,Substitution, Christian Nørgaard , Jesper Lindstrøm 
+720,1,France,home, 86' ,Goal, Kylian Mbappé , Antoine Griezmann 
+721,1,Denmark,away, 92' ,Substitution, Alexander Bah , Rasmus Kristensen 
+722,1,France,home, 93' ,Substitution, Youssouf Fofana , Antoine Griezmann 
+723,1,Poland,home, 15' ,Yellow card, Jakub Kiwior ,
+724,1,Poland,home, 16' ,Yellow card, Matty Cash ,
+725,1,Poland,home, 19' ,Yellow card, Arek Milik ,
+726,1,Saudi Arabia,away, 20' ,Yellow card, Abdulellah Al-Malki ,
+727,1,Poland,home, 39' ,Goal, Piotr Zieliński , Robert Lewandowski 
+728,1,Saudi Arabia,away, 46' ,Missed penalty, Salem Al-Dawsari , Missed penalty 
+729,1,Saudi Arabia,away, 49' ,Yellow card, Abdulelah Al-Amri ,
+730,1,Saudi Arabia,away, 45' ,Substitution, Nawaf Al-Abed , Sami Al-Najei 
+731,1,Poland,home, 63' ,Substitution, Jakub Kamiński , Piotr Zieliński 
+732,1,Saudi Arabia,away, 65' ,Substitution, Sultan Al-Ghanam , Mohammed Al-Breik 
+733,1,Poland,home, 71' ,Substitution, Krzysztof Piątek , Arek Milik 
+734,1,Poland,home, 82' ,Goal, Robert Lewandowski ,
+735,1,Saudi Arabia,away, 85' ,Substitution, Abdulrahman Al-Aboud , Abdulellah Al-Malki 
+736,1,Saudi Arabia,away, 86' ,Substitution, Nasser Al-Dawsari , Saleh Al-Shehri 
+737,1,Saudi Arabia,away, 95' ,Substitution, Hattan Bahebri , Nawaf Al-Abed 
+738,1,Australia,away, 23' ,Goal, Mitchell Duke ,
+739,1,Tunisia,home, 26' ,Yellow card, Aïssa Laïdouni ,
+740,1,Tunisia,home, 45' ,Substitution, Ferjani Sassi , Mohamed Dräger 
+741,1,Australia,away, 64' ,Substitution, Jamie Maclaren , Mitchell Duke 
+742,1,Australia,away, 64' ,Substitution, Ajdin Hrustić , Riley McGree 
+743,1,Tunisia,home, 64' ,Yellow card, Ali Abdi ,
+744,1,Tunisia,home, 67' ,Substitution, Wahbi Khazri , Aïssa Laïdouni 
+745,1,Tunisia,home, 73' ,Substitution, Taha Yassine Khenissi , Issam Jebali 
+746,1,Tunisia,home, 73' ,Substitution, Wajdi Kechrida , Dylan Bronn 
+747,1,Australia,away, 75' ,Substitution, Miloš Degenek , Fran Karačić 
+748,1,Australia,away, 85' ,Substitution, Awer Mabil , Craig Goodwin 
+749,1,Australia,away, 85' ,Substitution, Keanu Baccus , Mathew Leckie 
+750,1,Tunisia,home, 93' ,Yellow card, Ferjani Sassi ,
+751,1,England,home, 68' ,Substitution, Jack Grealish , Raheem Sterling 
+752,1,England,home, 69' ,Substitution, Jordan Henderson , Jude Bellingham 
+753,1,USA,away, 77' ,Substitution, Brenden Aaronson , Weston McKennie 
+754,1,USA,away, 78' ,Substitution, Shaq Moore , Sergiño Dest 
+755,1,England,home, 78' ,Substitution, Marcus Rashford , Bukayo Saka 
+756,1,USA,away, 83' ,Substitution, Giovanni Reyna , Tim Weah 
+757,1,USA,away, 83' ,Substitution, Josh Sargent , Haji Wright 
+758,1,Netherlands,home, 6' ,Goal, Cody Gakpo , Davy Klaassen 
+759,1,Netherlands,home, 45' ,Substitution, Memphis , Steven Bergwijn 
+760,1,Ecuador,away, 49' ,Goal, Enner Valencia ,
+761,1,Ecuador,away, 57' ,Yellow card, Jhegson Méndez ,
+762,1,Netherlands,home, 69' ,Substitution, Steven Berghuis , Davy Klaassen 
+763,1,Ecuador,away, 74' ,Substitution, Jeremy Sarmiento , Michael Estrada 
+764,1,Netherlands,home, 79' ,Substitution, Marten de Roon , Teun Koopmeiners 
+765,1,Netherlands,home, 80' ,Substitution, Wout Weghorst , Cody Gakpo 
+766,1,Ecuador,away, 90' ,Substitution, Kevin Rodríguez , Enner Valencia 
+767,1,Ecuador,away, 90' ,Substitution, Romario Ibarra , Gonzalo Plata 
+768,1,Qatar,home, 20' ,Yellow card, Ismail Mohammad ,
+769,1,Senegal,away, 30' ,Yellow card, Boulaye Dia ,
+770,1,Senegal,away, 41' ,Goal, Boulaye Dia ,
+771,1,Qatar,home, 47' ,Yellow card, Homam Ahmed ,
+772,1,Senegal,away, 48' ,Goal, Famara Diédhiou , Ismail Jakobs 
+773,1,Senegal,away, 52' ,Yellow card, Ismail Jakobs ,
+774,1,Senegal,away, 64' ,Substitution, Pathé Ciss , Krépin Diatta 
+775,1,Qatar,home, 69' ,Substitution, Abdulaziz Hatem , Karim Boudiaf 
+776,1,Senegal,away, 74' ,Substitution, Bamba Dieng , Famara Diédhiou 
+777,1,Qatar,home, 74' ,Substitution, Mohammed Muntari , Hassan Al Haydos 
+778,1,Senegal,away, 74' ,Substitution, Iliman Ndiaye , Ismaïla Sarr 
+779,1,Senegal,away, 77' ,Substitution, Pape Abou Cissé , Ismail Jakobs 
+780,1,Senegal,away, 77' ,Substitution, Pape Matar Sarr , Nampalys Mendy 
+781,1,Qatar,home, 78' ,Goal, Mohammed Muntari , Ismail Mohammad 
+782,1,Qatar,home, 83' ,Substitution, Tarek Salman , Homam Ahmed 
+783,1,Qatar,home, 83' ,Substitution, Mohammed Waad , Pedro Miguel 
+784,1,Senegal,away, 84' ,Goal, Bamba Dieng , Iliman Ndiaye 
+785,1,Senegal,away, 87' ,Yellow card, Pathé Ciss ,
+786,1,Qatar,home, 91' ,Yellow card, Assim Madibo ,
+787,1,Iran,away, 15' ,Disallowed goal,Disallowed goal,
+788,1,Wales,home, 48' ,Yellow card, Joe Rodon ,
+789,1,Wales,home, 57' ,Substitution, Brennan Johnson , Connor Roberts 
+790,1,Wales,home, 58' ,Substitution, Daniel James , Harry Wilson 
+791,1,Iran,away, 68' ,Substitution, Karim Ansarifard , Sardar Azmoun 
+792,1,Iran,away, 77' ,Substitution, Alireza Jahanbakhsh , Ali Gholizadeh 
+793,1,Iran,away, 77' ,Substitution, Mehdi Torabi , Ehsan Hajsafi 
+794,1,Wales,home, 77' ,Substitution, Joe Allen , Ethan Ampadu 
+795,1,Iran,away, 78' ,Substitution, Roozbeh Cheshmi , Ahmad Nourollahi 
+796,1,Iran,away, 83' ,Substitution, Ali Karimi , Saeid Ezatolahi 
+797,1,Wales,home, 86' ,Red card, Wayne Hennessey ,
+798,1,Wales,home, 87' ,Substitution, Danny Ward , Aaron Ramsey 
+799,1,Iran,away, 94' ,Yellow card, Ramin Rezaeian ,
+800,1,Iran,away, 95' ,Yellow card, Alireza Jahanbakhsh ,
+801,1,Iran,away, 98' ,Goal, Roozbeh Cheshmi ,
+802,1,Iran,away, 101' ,Goal, Ramin Rezaeian , Mehdi Taremi 
+803,1,Serbia,away, 7' ,Yellow card, Strahinja Pavlović ,
+804,1,Serbia,away, 49' ,Yellow card, Nemanja Gudelj ,
+805,1,Serbia,away, 57' ,Substitution, Ivan Ilić , Nemanja Gudelj 
+806,1,Serbia,away, 57' ,Substitution, Nemanja Radonjić , Andrija Živković 
+807,1,Brazil,home, 62' ,Goal, Richarlison ,
+808,1,Serbia,away, 64' ,Yellow card, Saša Lukić ,
+809,1,Serbia,away, 66' ,Substitution, Darko Lazović , Saša Lukić 
+810,1,Serbia,away, 66' ,Substitution, Dušan Vlahović , Filip Mladenović 
+811,1,Brazil,home, 73' ,Goal, Richarlison , Vinícius Júnior 
+812,1,Brazil,home, 75' ,Substitution, Fred , Lucas Paquetá 
+813,1,Brazil,home, 76' ,Substitution, Rodrygo , Vinícius Júnior 
+814,1,Brazil,home, 79' ,Substitution, Gabriel Jesus , Richarlison 
+815,1,Brazil,home, 80' ,Substitution, Antony , Neymar 
+816,1,Serbia,away, 83' ,Substitution, Nemanja Maksimović , Aleksandar Mitrović 
+817,1,Brazil,home, 87' ,Substitution, Gabriel Martinelli , Raphinha 
+818,1,Ghana,away, 45' ,Yellow card, Mohammed Kudus ,
+819,1,Ghana,away, 49' ,Yellow card, André Ayew ,
+820,1,Portugal,home, 56' ,Substitution, William Carvalho , Otávio 
+821,1,Ghana,away, 57' ,Yellow card, Alidu Seidu ,
+822,1,Portugal,home, 65' ,Penalty, Cristiano Ronaldo , Penalty 
+823,1,Ghana,away, 66' ,Substitution, Tariq Lamptey , Alidu Seidu 
+824,1,Ghana,away, 73' ,Goal, André Ayew ,
+825,1,Ghana,away, 77' ,Substitution, Osman Bukari , Mohammed Kudus 
+826,1,Portugal,home, 77' ,Substitution, Rafael Leão , Rúben Neves 
+827,1,Ghana,away, 77' ,Substitution, Jordan Ayew , André Ayew 
+828,1,Portugal,home, 78' ,Goal, João Félix , Bruno Fernandes 
+829,1,Portugal,home, 80' ,Goal, Rafael Leão , Bruno Fernandes 
+830,1,Portugal,home, 88' ,Substitution, João Palhinha , Bernardo Silva 
+831,1,Portugal,home, 88' ,Substitution, João Mário , João Félix 
+832,1,Portugal,home, 88' ,Substitution, Gonçalo Ramos , Cristiano Ronaldo 
+833,1,Ghana,away, 89' ,Goal, Osman Bukari ,
+834,1,Portugal,home, 91' ,Yellow card, Danilo Pereira ,
+835,1,Ghana,away, 91' ,Yellow card, Iñaki Williams ,
+836,1,Ghana,away, 92' ,Substitution, Daniel-Kofi Kyereh , Alexander Djiku 
+837,1,Ghana,away, 92' ,Substitution, Antoine Semenyo , Salis Abdul Samed 
+838,1,Portugal,home, 95' ,Yellow card, Bruno Fernandes ,
+839,1,Uruguay,home, 57' ,Yellow card, Martín Cáceres ,
+840,1,Uruguay,home, 64' ,Substitution, Edinson Cavani , Luis Suárez 
+841,1,South Korea,away, 74' ,Substitution, Cho Gue-sung , Hwang Ui-jo 
+842,1,South Korea,away, 74' ,Substitution, Son Jun-ho , Lee Jae-sung 
+843,1,South Korea,away, 75' ,Substitution, Lee Kang-in , Na Sang-ho 
+844,1,Uruguay,home, 78' ,Substitution, Nicolás de la Cruz , Matías Vecino 
+845,1,Uruguay,home, 79' ,Substitution, Matías Viña , Mathías Olivera 
+846,1,South Korea,away, 88' ,Yellow card, Cho Gue-sung ,
+847,1,Uruguay,home, 88' ,Substitution, Guillermo Varela , Facundo Pellistri 
+848,1,Cameroon,away, 36' ,Yellow card, Collins Fai ,
+849,1,Switzerland,home, 48' ,Goal, Breel Embolo , Xherdan Shaqiri 
+850,1,Switzerland,home, 64' ,Yellow card, Nico Elvedi ,
+851,1,Cameroon,away, 68' ,Substitution, Gaël Ondoua , Martin Hongla 
+852,1,Switzerland,home, 71' ,Substitution, Fabian Frei , Djibril Sow 
+853,1,Switzerland,home, 72' ,Substitution, Noah Okafor , Xherdan Shaqiri 
+854,1,Switzerland,home, 72' ,Substitution, Haris Seferovic , Breel Embolo 
+855,1,Cameroon,away, 74' ,Substitution, Vincent Aboubakar , Eric Maxim Choupo-Moting 
+856,1,Cameroon,away, 74' ,Substitution, Georges-Kévin Nkoudou , Karl Toko Ekambi 
+857,1,Switzerland,home, 81' ,Substitution, Fabian Rieder , Ruben Vargas 
+858,1,Cameroon,away, 81' ,Substitution, Moumi Ngamaleu , Bryan Mbeumo 
+859,1,Switzerland,home, 83' ,Yellow card, Manuel Akanji ,
+860,1,Switzerland,home, 90' ,Substitution, Eray Cömert , Ricardo Rodríguez 
+861,1,Belgium,home, 9' ,Yellow card, Yannick Carrasco ,
+862,1,Canada,away, 10' ,Missed penalty, Alphonso Davies , Missed penalty 
+863,1,Belgium,home, 44' ,Goal, Michy Batshuayi , Toby Alderweireld 
+864,1,Belgium,home, 45' ,Substitution, Thomas Meunier , Yannick Carrasco 
+865,1,Belgium,home, 45' ,Substitution, Amadou Onana , Youri Tielemans 
+866,1,Belgium,home, 53' ,Yellow card, Thomas Meunier ,
+867,1,Belgium,home, 56' ,Yellow card, Amadou Onana ,
+868,1,Canada,away, 58' ,Substitution, Cyle Larin , Junior Hoilett 
+869,1,Canada,away, 58' ,Substitution, Ismaël Koné , Atiba Hutchinson 
+870,1,Belgium,home, 62' ,Substitution, Leandro Trossard , Eden Hazard 
+871,1,Canada,away, 74' ,Substitution, Sam Adekugbe , Richie Laryea 
+872,1,Belgium,home, 78' ,Substitution, Loïs Openda , Michy Batshuayi 
+873,1,Canada,away, 81' ,Yellow card, Alphonso Davies ,
+874,1,Canada,away, 81' ,Substitution, Jonathan Osorio , Stephen Eustáquio 
+875,1,Canada,away, 81' ,Substitution, Liam Millar , Tajon Buchanan 
+876,1,Canada,away, 83' ,Yellow card, Alistair Johnston ,
+877,1,Spain,home, 11' ,Goal, Dani Olmo ,
+878,1,Spain,home, 21' ,Goal, Marco Asensio , Jordi Alba 
+879,1,Spain,home, 31' ,Penalty, Ferran Torres , Penalty 
+880,1,Costa Rica,away, 45' ,Substitution, Kendall Waston , Carlos Martínez 
+881,1,Spain,home, 54' ,Goal, Ferran Torres ,
+882,1,Spain,home, 57' ,Substitution, Álvaro Morata , Ferran Torres 
+883,1,Spain,home, 57' ,Substitution, Carlos Soler , Pedri 
+884,1,Costa Rica,away, 61' ,Substitution, Álvaro Zamora , Anthony Contreras 
+885,1,Costa Rica,away, 61' ,Substitution, Bryan Ruiz , Jewison Bennette 
+886,1,Spain,home, 64' ,Substitution, Alejandro Baldé , Jordi Alba 
+887,1,Spain,home, 64' ,Substitution, Koke , Sergio Busquets 
+888,1,Costa Rica,away, 68' ,Yellow card, Francisco Calvo ,
+889,1,Spain,home, 69' ,Substitution, Nico Williams , Marco Asensio 
+890,1,Costa Rica,away, 72' ,Substitution, Brandon Aguilera , Celso Borges 
+891,1,Spain,home, 74' ,Goal, Gavi , Álvaro Morata 
+892,1,Costa Rica,away, 82' ,Substitution, Rónald Matarrita , Bryan Oviedo 
+893,1,Spain,home, 90' ,Goal, Carlos Soler ,
+894,1,Spain,home, 92' ,Goal, Álvaro Morata , Dani Olmo 
+895,1,Costa Rica,away, 97' ,Yellow card, Joel Campbell ,
+896,1,Germany,home, 33' ,Penalty, Ilkay Gündoğan , Penalty 
+897,1,Germany,home, 49' ,Disallowed goal,Disallowed goal,
+898,1,Japan,away, 45' ,Substitution, Takehiro Tomiyasu , Takefusa Kubo 
+899,1,Japan,away, 57' ,Substitution, Kaoru Mitoma , Yuto Nagatomo 
+900,1,Japan,away, 57' ,Substitution, Takuma Asano , Daizen Maeda 
+901,1,Germany,home, 67' ,Substitution, Jonas Hofmann , Thomas Müller 
+902,1,Germany,home, 67' ,Substitution, Leon Goretzka , Ilkay Gündoğan 
+903,1,Japan,away, 71' ,Substitution, Ritsu Dōan , Ao Tanaka 
+904,1,Japan,away, 74' ,Substitution, Takumi Minamino , Hiroki Sakai 
+905,1,Japan,away, 75' ,Goal, Ritsu Dōan ,
+906,1,Germany,home, 79' ,Substitution, Mario Götze , Jamal Musiala 
+907,1,Germany,home, 79' ,Substitution, Niclas Füllkrug , Kai Havertz 
+908,1,Japan,away, 83' ,Goal, Takuma Asano , Ko Itakura 
+909,1,Germany,home, 90' ,Substitution, Youssoufa Moukoko , Serge Gnabry 
+910,1,Croatia,away, 45' ,Substitution, Mario Pašalić , Nikola Vlašić 
+911,1,Morocco,home, 60' ,Substitution, Yahia Attiyat Allah , Noussair Mazraoui 
+912,1,Morocco,home, 65' ,Substitution, Abdessamad Ezzalzouli , Sofiane Boufal 
+913,1,Croatia,away, 71' ,Substitution, Marko Livaja , Andrej Kramarić 
+914,1,Morocco,home, 78' ,Yellow card, Sofyan Amrabat ,
+915,1,Croatia,away, 79' ,Substitution, Lovro Majer , Mateo Kovačić 
+916,1,Morocco,home, 81' ,Substitution, Abderrazak Hamdallah , Youssef En-Nesyri 
+917,1,Morocco,home, 82' ,Substitution, Abdelhamid Sabiri , Azzedine Ounahi 
+918,1,Croatia,away, 90' ,Substitution, Mislav Oršić , Ivan Perišić 
+919,1,Australia,away, 9' ,Goal, Craig Goodwin , Mathew Leckie 
+920,1,France,home, 13' ,Substitution, Theo Hernandez , Lucas Hernandez 
+921,1,France,home, 27' ,Goal, Adrien Rabiot , Theo Hernandez 
+922,1,France,home, 32' ,Goal, Olivier Giroud , Adrien Rabiot 
+923,1,Australia,away, 55' ,Yellow card, Mitchell Duke ,
+924,1,Australia,away, 56' ,Substitution, Jason Cummings , Mitchell Duke 
+925,1,France,home, 68' ,Goal, Kylian Mbappé , Ousmane Dembélé 
+926,1,France,home, 71' ,Goal, Olivier Giroud , Kylian Mbappé 
+927,1,Australia,away, 73' ,Substitution, Awer Mabil , Riley McGree 
+928,1,Australia,away, 73' ,Substitution, Garang Kuol , Craig Goodwin 
+929,1,France,home, 77' ,Substitution, Youssouf Fofana , Aurélien Tchouaméni 
+930,1,France,home, 77' ,Substitution, Kingsley Coman , Ousmane Dembélé 
+931,1,Australia,away, 80' ,Yellow card, Jackson Irvine ,
+932,1,Australia,away, 85' ,Substitution, Keanu Baccus , Jackson Irvine 
+933,1,Australia,away, 85' ,Substitution, Miloš Degenek , Nathaniel Atkinson 
+934,1,France,home, 89' ,Substitution, Jules Koundé , Benjamin Pavard 
+935,1,France,home, 89' ,Substitution, Marcus Thuram , Olivier Giroud 
+936,1,Australia,away, 94' ,Yellow card, Aaron Mooy ,
+937,1,Mexico,home, 29' ,Yellow card, Jorge Sánchez ,
+938,1,Poland,away, 45' ,Substitution, Krystian Bielik , Nicola Zalewski 
+939,1,Mexico,home, 56' ,Yellow card, Héctor Moreno ,
+940,1,Poland,away, 58' ,Missed penalty, Robert Lewandowski , Missed penalty 
+941,1,Mexico,home, 71' ,Substitution, Carlos Rodríguez , Héctor Herrera 
+942,1,Mexico,home, 71' ,Substitution, Raúl Jiménez , Henry Martín 
+943,1,Poland,away, 72' ,Substitution, Przemysław Frankowski , Sebastian Szymański 
+944,1,Poland,away, 76' ,Yellow card, Przemysław Frankowski ,
+945,1,Mexico,home, 84' ,Substitution, Uriel Antuna , Alexis Vega 
+946,1,Poland,away, 87' ,Substitution, Arek Milik , Piotr Zieliński 
+947,1,Denmark,home, 24' ,Yellow card, Rasmus Kristensen ,
+948,1,Denmark,home, 46' ,Substitution, Mikkel Damsgaard , Thomas Delaney 
+949,1,Denmark,home, 65' ,Substitution, Mathias Jensen , Simon Kjær 
+950,1,Denmark,home, 65' ,Substitution, Jesper Lindstrøm , Andreas Skov Olsen 
+951,1,Denmark,home, 65' ,Substitution, Andreas Cornelius , Kasper Dolberg 
+952,1,Tunisia,away, 67' ,Substitution, Naïm Sliti , Anis Ben Slimane 
+953,1,Denmark,home, 78' ,Yellow card, Mathias Jensen ,
+954,1,Tunisia,away, 80' ,Substitution, Hannibal Mejbri , Youssef Msakni 
+955,1,Tunisia,away, 80' ,Substitution, Taha Yassine Khenissi , Issam Jebali 
+956,1,Tunisia,away, 86' ,Yellow card, Taha Yassine Khenissi ,
+957,1,Tunisia,away, 88' ,Substitution, Wajdi Kechrida , Mohamed Dräger 
+958,1,Tunisia,away, 88' ,Substitution, Ferjani Sassi , Aïssa Laïdouni 
+959,1,Argentina,home, 10' ,Penalty, Lionel Messi , Penalty 
+960,1,Argentina,home, 28' ,Disallowed goal,Disallowed goal,
+961,1,Saudi Arabia,away, 49' ,Substitution, Nawaf Al-Abed , Salman Al-Faraj 
+962,1,Saudi Arabia,away, 48' ,Goal, Saleh Al-Shehri , Firas Al-Buraikan 
+963,1,Saudi Arabia,away, 53' ,Goal, Salem Al-Dawsari ,
+964,1,Argentina,home, 59' ,Substitution, Lisandro Martínez , Cristian Romero 
+965,1,Argentina,home, 59' ,Substitution, Julián Álvarez , Papu Gómez 
+966,1,Argentina,home, 59' ,Substitution, Enzo Fernández , Leandro Paredes 
+967,1,Saudi Arabia,away, 67' ,Yellow card, Abdulellah Al-Malki ,
+968,1,Argentina,home, 71' ,Substitution, Marcos Acuña , Nicolás Tagliafico 
+969,1,Saudi Arabia,away, 75' ,Yellow card, Ali Al-Bulaihi ,
+970,1,Saudi Arabia,away, 78' ,Substitution, Sultan Al-Ghanam , Saleh Al-Shehri 
+971,1,Saudi Arabia,away, 79' ,Yellow card, Salem Al-Dawsari ,
+972,1,Saudi Arabia,away, 82' ,Yellow card, Saud Abdulhamid ,
+973,1,Saudi Arabia,away, 88' ,Substitution, Abdulelah Al-Amri , Nawaf Al-Abed 
+974,1,Saudi Arabia,away, 88' ,Yellow card, Nawaf Al-Abed ,
+975,1,Saudi Arabia,away, 89' ,Substitution, Haitham Asiri , Firas Al-Buraikan 
+976,1,Saudi Arabia,away, 92' ,Yellow card, Mohammed Al-Owais ,
+977,1,Saudi Arabia,away, 99' ,Substitution, Mohammed Al-Breik , Yasser Al-Shahrani 
+978,1,USA,home, 11' ,Yellow card, Sergiño Dest ,
+979,1,USA,home, 13' ,Yellow card, Weston McKennie ,
+980,1,USA,home, 36' ,Goal, Tim Weah , Christian Pulisic 
+981,1,Wales,away, 40' ,Yellow card, Gareth Bale ,
+982,1,Wales,away, 48' ,Yellow card, Chris Mepham ,
+983,1,Wales,away, 45' ,Substitution, Kieffer Moore , Daniel James 
+984,1,USA,home, 51' ,Yellow card, Tim Ream ,
+985,1,USA,home, 66' ,Substitution, Brenden Aaronson , Weston McKennie 
+986,1,USA,home, 74' ,Substitution, Haji Wright , Josh Sargent 
+987,1,USA,home, 74' ,Substitution, DeAndre Yedlin , Sergiño Dest 
+988,1,USA,home, 75' ,Substitution, Kellyn Acosta , Yunus Musah 
+989,1,Wales,away, 79' ,Substitution, Brennan Johnson , Neco Williams 
+990,1,Wales,away, 82' ,Penalty, Gareth Bale , Penalty 
+991,1,USA,home, 88' ,Substitution, Jordan Morris , Tim Weah 
+992,1,Wales,away, 93' ,Substitution, Sorba Thomas , Harry Wilson 
+993,1,Wales,away, 95' ,Substitution, Joe Morrell , Ethan Ampadu 
+994,1,USA,home, 100' ,Yellow card, Kellyn Acosta ,
+995,1,Netherlands,away, 56' ,Yellow card, Matthijs de Ligt ,
+996,1,Netherlands,away, 62' ,Substitution, Memphis , Vincent Janssen 
+997,1,Senegal,home, 62' ,Substitution, Ismail Jakobs , Abdou Diallo 
+998,1,Senegal,home, 69' ,Substitution, Bamba Dieng , Boulaye Dia 
+999,1,Senegal,home, 73' ,Substitution, Nicolas Jackson , Krépin Diatta 
+1000,1,Senegal,home, 73' ,Substitution, Pape Gueye , Cheikhou Kouyaté 
+1001,1,Netherlands,away, 79' ,Substitution, Davy Klaassen , Steven Bergwijn 
+1002,1,Netherlands,away, 79' ,Substitution, Teun Koopmeiners , Steven Berghuis 
+1003,1,Netherlands,away, 84' ,Goal, Cody Gakpo , Frenkie de Jong 
+1004,1,Senegal,home, 94' ,Yellow card, Nampalys Mendy ,
+1005,1,Netherlands,away, 94' ,Substitution, Marten de Roon , Cody Gakpo 
+1006,1,Senegal,home, 96' ,Yellow card, Idrissa Gueye ,
+1007,1,Netherlands,away, 99' ,Goal, Davy Klaassen ,
+1008,1,Iran,away, 20' ,Substitution, Hossein Hosseini , Alireza Beiranvand 
+1009,1,Iran,away, 25' ,Yellow card, Alireza Jahanbakhsh ,
+1010,1,England,home, 35' ,Goal, Jude Bellingham , Luke Shaw 
+1011,1,England,home, 43' ,Goal, Bukayo Saka , Harry Maguire 
+1012,1,England,home, 46' ,Goal, Raheem Sterling , Harry Kane 
+1013,1,Iran,away, 45' ,Substitution, Saeid Ezatolahi , Ali Karimi 
+1014,1,Iran,away, 45' ,Substitution, Ali Gholizadeh , Alireza Jahanbakhsh 
+1015,1,Iran,away, 45' ,Substitution, Hossein Kanani , Roozbeh Cheshmi 
+1016,1,Iran,away, 48' ,Yellow card, Morteza Pouraliganji ,
+1017,1,England,home, 62' ,Goal, Bukayo Saka , Raheem Sterling 
+1018,1,Iran,away, 63' ,Substitution, Mehdi Torabi , Milad Mohammadi 
+1019,1,Iran,away, 65' ,Goal, Mehdi Taremi , Ali Gholizadeh 
+1020,1,England,home, 70' ,Substitution, Eric Dier , Harry Maguire 
+1021,1,England,home, 71' ,Substitution, Marcus Rashford , Bukayo Saka 
+1022,1,England,home, 71' ,Substitution, Jack Grealish , Raheem Sterling 
+1023,1,England,home, 71' ,Substitution, Phil Foden , Mason Mount 
+1024,1,England,home, 71' ,Goal, Marcus Rashford , Harry Kane 
+1025,1,England,home, 76' ,Substitution, Callum Wilson , Harry Kane 
+1026,1,Iran,away, 77' ,Substitution, Sardar Azmoun , Ahmad Nourollahi 
+1027,1,England,home, 90' ,Goal, Jack Grealish , Callum Wilson 
+1028,1,Iran,away, 103' ,Penalty, Mehdi Taremi , Penalty 
+1029,1,Ecuador,away, 4' ,Disallowed goal,Disallowed goal,
+1030,1,Qatar,home, 15' ,Yellow card, Saad Al Sheeb ,
+1031,1,Ecuador,away, 16' ,Penalty, Enner Valencia , Penalty 
+1032,1,Qatar,home, 22' ,Yellow card, Almoez Ali ,
+1033,1,Ecuador,away, 29' ,Yellow card, Moisés Caicedo ,
+1034,1,Ecuador,away, 31' ,Goal, Enner Valencia , Ángelo Preciado 
+1035,1,Qatar,home, 36' ,Yellow card, Karim Boudiaf ,
+1036,1,Ecuador,away, 56' ,Yellow card, Jhegson Méndez ,
+1037,1,Ecuador,away, 68' ,Substitution, Jeremy Sarmiento , Romario Ibarra 
+1038,1,Qatar,home, 71' ,Substitution, Mohammed Waad , Hassan Al Haydos 
+1039,1,Qatar,home, 72' ,Substitution, Mohammed Muntari , Almoez Ali 
+1040,1,Ecuador,away, 77' ,Substitution, José Cifuentes , Enner Valencia 
+1041,1,Qatar,home, 78' ,Yellow card, Akram Afif ,
+1042,1,Ecuador,away, 90' ,Substitution, Kevin Rodríguez , Michael Estrada 
+1043,1,Ecuador,away, 90' ,Substitution, Alan Franco , Moisés Caicedo 
