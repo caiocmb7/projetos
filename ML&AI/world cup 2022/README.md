@@ -37,15 +37,17 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     2. Pandas/Seaborn/Matplotlib/yellowbricks/etc
     3. pivottablejs
 
-- Perform data clustering using k-means
+- Create a general statistics based on previously data analysis and feature engineering
+    - Generated dataframes contained event_list statistics, global statistics, top scores, top assists, top participations, etc;
 
-- Use a machine learning algorithm for prediction or something similar
+- Perform data clustering using k-means and DBScan
+
+- Build ML Algorithms to predict home team winning, drawing or away team winning
     1. Train/test environment
-    2. Prediction
-
-- Predict the number of yellow cards, substitutions, etc in a game
-
-- Create a general statistics of each team in the World Cup
+    2. Cross Validation K-Fold
+    3. GridSearch
+    4. SVM, LogisticRegression and RandomForestClassifier results comparison
+    5. Perform oversampling to develop the results
 
 <a name="problems"></a>
 ## 🤔 Problems
