@@ -68,6 +68,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - Percentage dtype manipulation;
     - Transforming lineup_home and lineup_away columns which contains list of dictionaries into new columns;
     - Transforming events_list column into a new dataframe that will be use for global statistics.
+    - Check the numerical/float columns which will be used for predictions if they are gaussian distribuition
+        - Apply log transformation
 
 * Global statistics from each team, total of goals (top scorers), total of assists (top assistances), total team goals, etc;
 
@@ -90,6 +92,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - DBScan
 
 * Build ML Algorithms using k-fold and gridsearch to predict home team winning, drawing or away team winning
+    - Standardize columns reduced the values of the metrics.
     - Compare results using SVM, LogisticRegression and RandomForestClassifier
 
 <a name="conclusion"></a>
