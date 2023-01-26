@@ -95,6 +95,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - Standardize columns reduced the values of the metrics.
     - Compare results using SVM, LogisticRegression and RandomForestClassifier
         - Perfomed better when using more test size
+        - yellowbrick confusion matrix
 
 <a name="conclusion"></a>
 ## 🏁 Conclusion
