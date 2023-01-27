@@ -11,7 +11,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 6. [Next Steps](#next-steps)
 
 <a name="statistics"></a>
-## 📊 Statistics of the 2022 World Cup in Qatar
+## 📊 General statistics of the 2022 World Cup in Qatar
 |        Event       | Total |
 |-------------------|-------:|
 |    Substitution    |  587  |
