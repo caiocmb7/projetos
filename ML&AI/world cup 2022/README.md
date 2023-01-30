@@ -68,6 +68,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - Percentage dtype manipulation;
     - Transforming lineup_home and lineup_away columns which contains list of dictionaries into new columns;
     - Transforming events_list column into a new dataframe that will be use for global statistics.
+        - match_id related to the worldcup dataset (foreign key)
+        - event_id as primary key
     - Check the numerical/float columns which will be used for predictions if they are gaussian distribuition
         - Apply log transformation
 
@@ -86,6 +88,8 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 * Predictions columns were analyzed to indicate if there was a upset case in the games.
     - In 64 games, we had 25 upset games (prediction not equals to the real winner of the game)
+    - Despite the correlation between possession of the ball and the prediction of victory, this wasn't an indication in this case
+        ("possesion_home" vs "prediction_team_home_win")
 
 * Clustering to realize new insights
     - K-means
