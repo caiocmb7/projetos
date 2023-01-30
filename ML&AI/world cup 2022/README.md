@@ -96,12 +96,14 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - DBScan
 
 * Build ML Algorithms using k-fold and gridsearch to predict home team winning, drawing or away team winning
+    - LabelEncoder
     - Standardize columns reduced the values of the metrics.
     - Compare results using SVM, LogisticRegression and RandomForestClassifier
         - Perfomed better when using more test size
         - K-fold cross validation increased the metrics
         - Oversampling using imblearn
-            - RandomForestClassifier performed better with more data
+            - Utilized in the train part
+            - Without oversampling was better
         - yellowbrick confusion matrix
 
 <a name="conclusion"></a>
