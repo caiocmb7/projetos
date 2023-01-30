@@ -105,6 +105,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
             - Utilized in the train part
             - Without oversampling was better
         - yellowbrick confusion matrix
+    - Feature Selection: Recursive Feature Elimination with Cross-Validation (RFECV) and Feature Selection based on Importance Weight (SFM)
 
 <a name="conclusion"></a>
 ## 🏁 Conclusion
