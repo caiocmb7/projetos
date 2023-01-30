@@ -61,12 +61,15 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 * As the dataset is relatively small, with only 64 rows, when we conduct a prediction analysis using RandomForestClassifier, LogisticRegression, and SVM, we observe that the values of precision, accuracy, and recall remain consistent, regardless of whether we use grid search or k-fold cross-validation.
 
+* Even using a loop to search for the best hyperparameters for DBScan, the values found are still poor based on the silhouette_score, davies_bouldin_score and calinski_harabasz_score metrics.
+
 <a name="views"></a>
 ## 📈 Views
 
 * Feature Engineering
-    - Percentage dtype manipulation;
-    - Transforming lineup_home and lineup_away columns which contains list of dictionaries into new columns;
+    - Percentage dtype manipulation
+    - Created a primary key (match_id) for the dataset
+    - Transforming lineup_home and lineup_away columns which contains list of dictionaries into new columns
     - Transforming events_list column into a new dataframe that will be use for global statistics.
         - match_id related to the worldcup dataset (foreign key)
         - event_id as primary key
@@ -93,6 +96,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 * Clustering to realize new insights
     - K-means
     - DBScan
+        - GridSearch for DBScan using metrics: silhouette_score, davies_bouldin_score, calinski_harabasz_score
 
 * Build ML Algorithms using k-fold and gridsearch to predict home team winning, drawing or away team winning
     - LabelEncoder
