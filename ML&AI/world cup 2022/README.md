@@ -57,7 +57,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - based on the columns "lineup_home" and "lineup_away", we created 2 new columns for each columns to get the data from those columns, that will be better to understand.
     - based on the column "events_list", we created a new dataset that will be insume to create the "statistic dataset", which will contains values about yellow cards, goals, etc.
     
-* Generated dataframes -> event_list statistics, global statistics, top scorer, top assists;
+* Manipulation problems to generate new dataframes with the original dataset -> event_list statistics, global statistics, statistics per team, top scorer, top assists, top participations, etc;
 
 * As the dataset is relatively small, with only 64 rows, when we conduct a prediction analysis using RandomForestClassifier, LogisticRegression, and SVM, we observe that the values of precision, accuracy, and recall remain consistent, regardless of whether we use grid search or k-fold cross-validation.
 
@@ -76,7 +76,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - Check the numerical/float columns which will be used for predictions if they are gaussian distribuition
         - Apply log transformation
 
-* Global statistics from each team, total of goals (top scorers), total of assists (top assistances), total team goals, etc;
+* Global statistics from each team (statistics per team), total of goals (top scorers), total of assists (top assistances), total team goals, etc;
 
 * EDA Session
     - SweetViz 
@@ -93,7 +93,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
     - Despite the correlation between possession of the ball and the prediction of victory, this wasn't an indication in this case
         ("possesion_home" vs "prediction_team_home_win")
 
-* Clustering to realize new insights
+* Clustering by team statistics
     - K-means
     - DBScan
         - GridSearch for DBScan using metrics: silhouette_score, davies_bouldin_score, calinski_harabasz_score
