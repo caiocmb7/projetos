@@ -113,6 +113,10 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 <a name="conclusion"></a>
 ## 🏁 Conclusion
 
+It was possible to carry out various actions in the context of Data Science from this project, facing several challenges along the way to effectively carry out the project. About it, it was possible to approach the entire data pipeline in a Data Science project to demonstrate my knowledge in the area
+
 <a name="next-steps"></a>
 ## 🚀 Next Steps
+
+Since the dataset in question is very small in the context of applying some techniques, even with oversampling, I believe that carrying out certain mentioned actions to really demonstrate its final form would be interesting. In this way, using a larger dataset in this context would be something relevant
 
