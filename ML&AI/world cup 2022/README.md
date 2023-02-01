@@ -100,6 +100,7 @@ Credits to my team partner Marco Carujo for creating the [Dataset](https://www.k
 
 * Build ML Algorithms using k-fold and gridsearch to predict home team winning, drawing or away team winning
     - LabelEncoder
+    - Log Transformation
     - Standardize columns reduced the values of the metrics.
     - Compare results using SVM, LogisticRegression and RandomForestClassifier
         - Perfomed better when using more test size
