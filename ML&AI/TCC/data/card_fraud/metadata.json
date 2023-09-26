@@ -1,0 +1,32 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "distance_from_home": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "distance_from_last_transaction": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "ratio_to_median_purchase_price": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "repeat_retailer": {
+            "sdtype": "numerical"
+        },
+        "used_chip": {
+            "sdtype": "numerical"
+        },
+        "used_pin_number": {
+            "sdtype": "numerical"
+        },
+        "online_order": {
+            "sdtype": "numerical"
+        },
+        "fraud": {
+            "sdtype": "numerical"
+        }
+    }
+}
