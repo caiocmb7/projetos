@@ -1,0 +1,69 @@
+{
+    "columns": {
+        "id": {
+            "sdtype": "numerical"
+        },
+        "Customer Type": {
+            "sdtype": "numerical"
+        },
+        "Age": {
+            "sdtype": "numerical"
+        },
+        "Type of Travel": {
+            "sdtype": "numerical"
+        },
+        "Class": {
+            "sdtype": "numerical"
+        },
+        "Flight Distance": {
+            "sdtype": "numerical"
+        },
+        "Inflight wifi service": {
+            "sdtype": "numerical"
+        },
+        "Ease of Online booking": {
+            "sdtype": "numerical"
+        },
+        "Food and drink": {
+            "sdtype": "numerical"
+        },
+        "Online boarding": {
+            "sdtype": "numerical"
+        },
+        "Seat comfort": {
+            "sdtype": "numerical"
+        },
+        "Inflight entertainment": {
+            "sdtype": "numerical"
+        },
+        "On-board service": {
+            "sdtype": "numerical"
+        },
+        "Leg room service": {
+            "sdtype": "numerical"
+        },
+        "Baggage handling": {
+            "sdtype": "numerical"
+        },
+        "Checkin service": {
+            "sdtype": "numerical"
+        },
+        "Inflight service": {
+            "sdtype": "numerical"
+        },
+        "Cleanliness": {
+            "sdtype": "numerical"
+        },
+        "Departure Delay in Minutes": {
+            "sdtype": "numerical"
+        },
+        "Arrival Delay in Minutes": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "satisfaction": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
