@@ -110,7 +110,6 @@ Bachelors,2017,Bangalore,3,28,Male,No,1,0
 Masters,2013,Pune,3,25,Male,No,3,0
 Bachelors,2015,Bangalore,2,25,Female,No,3,1
 Bachelors,2015,Bangalore,3,27,Female,No,5,0
-Bachelors,2017,Pune,2,27,Female,No,5,1
 Bachelors,2013,Bangalore,3,27,Male,No,5,1
 Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Masters,2017,New Delhi,2,28,Male,No,2,0
@@ -129,7 +128,6 @@ Bachelors,2013,Bangalore,3,28,Male,No,1,0
 Bachelors,2015,Pune,3,27,Male,No,5,0
 Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Masters,2013,Pune,1,24,Male,No,2,1
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
 Bachelors,2013,Bangalore,3,28,Male,No,1,1
 Masters,2016,New Delhi,3,27,Male,No,5,0
 Masters,2017,Bangalore,3,26,Male,No,4,0
@@ -137,7 +135,6 @@ Masters,2017,New Delhi,2,24,Male,No,2,0
 Masters,2018,New Delhi,3,26,Male,No,4,1
 Masters,2017,New Delhi,1,25,Female,No,3,1
 Bachelors,2012,Pune,3,28,Male,No,2,0
-Bachelors,2017,New Delhi,3,28,Male,No,2,0
 Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Masters,2013,New Delhi,3,27,Male,No,5,1
 Bachelors,2017,Pune,2,24,Female,No,2,1
@@ -159,30 +156,22 @@ Bachelors,2013,Bangalore,3,28,Female,No,3,0
 Bachelors,2012,Bangalore,3,24,Male,No,2,1
 Bachelors,2015,Bangalore,3,25,Male,No,3,1
 Bachelors,2016,Bangalore,3,28,Male,No,3,0
-Bachelors,2014,Bangalore,3,28,Female,No,3,0
 Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Masters,2017,New Delhi,3,24,Female,No,2,1
 Bachelors,2016,Bangalore,3,25,Male,No,3,1
 Bachelors,2015,Bangalore,3,25,Male,No,3,0
 Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2012,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Bachelors,2015,Bangalore,3,28,Male,No,3,0
 Masters,2015,New Delhi,3,26,Male,No,4,1
 Bachelors,2014,New Delhi,3,28,Female,No,1,0
 Bachelors,2015,Pune,3,25,Male,No,3,0
 Masters,2015,Pune,2,28,Female,No,2,0
 Bachelors,2014,Bangalore,3,27,Female,No,5,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
 Bachelors,2014,New Delhi,3,24,Female,No,2,0
 Bachelors,2012,Bangalore,3,27,Male,No,5,1
 Masters,2017,New Delhi,3,27,Male,No,5,1
-Bachelors,2015,Pune,3,27,Male,No,5,0
 Bachelors,2018,Bangalore,3,24,Male,No,2,1
-Masters,2017,New Delhi,3,27,Male,No,5,1
 Masters,2017,New Delhi,2,28,Female,No,1,1
 Masters,2017,Pune,2,24,Male,No,2,1
 Masters,2016,New Delhi,3,25,Female,No,3,1
@@ -190,9 +179,6 @@ PHD,2015,New Delhi,3,28,Female,No,1,0
 Bachelors,2017,New Delhi,2,26,Male,No,4,0
 Bachelors,2013,Bangalore,2,27,Male,No,5,0
 Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,28,Male,No,1,0
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
 Bachelors,2013,New Delhi,3,25,Female,No,3,0
 Bachelors,2013,Pune,3,28,Male,No,1,0
 Bachelors,2017,Pune,3,24,Male,No,2,0
@@ -200,42 +186,34 @@ Bachelors,2013,New Delhi,3,27,Female,No,5,0
 Bachelors,2015,Bangalore,3,28,Male,Yes,2,0
 Bachelors,2015,Pune,3,28,Male,No,3,0
 Bachelors,2014,Pune,2,25,Female,No,3,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2014,Pune,2,26,Female,No,4,1
 PHD,2013,New Delhi,3,24,Male,No,2,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
 Bachelors,2017,Bangalore,3,25,Male,No,3,0
 Masters,2013,Pune,2,27,Male,No,5,1
 Masters,2017,Bangalore,3,28,Male,No,2,0
 Bachelors,2012,Bangalore,3,25,Male,No,3,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Masters,2017,Pune,2,27,Female,No,5,0
 Masters,2013,Bangalore,2,28,Female,No,2,1
 Masters,2017,Pune,3,28,Male,No,1,1
 Bachelors,2018,Bangalore,3,27,Female,No,5,1
 Bachelors,2014,New Delhi,3,25,Female,No,3,0
-Masters,2017,New Delhi,3,27,Male,No,5,1
 Masters,2013,New Delhi,3,26,Male,No,4,1
 Bachelors,2013,Pune,2,25,Female,No,3,1
 Masters,2012,New Delhi,3,26,Male,No,4,1
-Bachelors,2016,Bangalore,3,25,Male,No,3,1
 Bachelors,2013,Pune,2,26,Male,No,4,0
 Bachelors,2018,Bangalore,3,28,Female,No,2,1
 Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,Pune,1,24,Female,Yes,2,1
 Bachelors,2013,Pune,3,28,Male,No,2,0
 Bachelors,2015,Pune,2,27,Female,Yes,5,1
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Bachelors,2014,Pune,2,27,Female,No,5,1
 Bachelors,2013,Pune,3,24,Male,No,2,0
 Bachelors,2014,Pune,3,24,Male,No,2,0
 PHD,2015,New Delhi,2,25,Female,No,3,0
 Bachelors,2014,Bangalore,3,26,Male,Yes,4,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 Masters,2015,Pune,2,25,Female,No,3,0
 Bachelors,2015,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,New Delhi,3,24,Female,No,2,0
 Masters,2017,Bangalore,2,26,Female,No,4,1
 Bachelors,2012,New Delhi,3,28,Male,No,1,0
 Masters,2017,Pune,2,26,Female,No,4,0
@@ -243,7 +221,6 @@ Bachelors,2016,Pune,3,25,Male,No,3,0
 Bachelors,2017,New Delhi,3,24,Male,No,2,1
 Bachelors,2013,Pune,2,28,Female,No,3,1
 Bachelors,2014,Bangalore,3,25,Female,No,3,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Bachelors,2014,Pune,2,24,Female,No,2,1
 Bachelors,2015,Bangalore,3,28,Male,No,2,1
 Bachelors,2015,Bangalore,3,27,Male,No,5,0
@@ -251,7 +228,6 @@ Bachelors,2016,Pune,3,26,Male,No,4,0
 Masters,2015,New Delhi,3,26,Female,No,4,1
 Bachelors,2016,Bangalore,1,28,Female,No,2,0
 Bachelors,2014,Bangalore,3,25,Male,Yes,3,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,28,Male,No,2,0
 Masters,2018,New Delhi,3,24,Female,Yes,2,1
 Bachelors,2017,Pune,2,25,Male,No,3,0
@@ -259,11 +235,9 @@ Bachelors,2018,Pune,2,24,Female,No,2,1
 Masters,2017,New Delhi,2,28,Female,No,1,0
 Bachelors,2013,New Delhi,1,27,Female,No,5,0
 Bachelors,2017,New Delhi,2,27,Female,No,5,0
-Bachelors,2017,Bangalore,3,28,Male,No,1,0
 Bachelors,2016,Pune,2,27,Female,No,5,1
 Masters,2018,Bangalore,3,24,Male,No,2,1
 Bachelors,2012,Pune,1,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Masters,2016,New Delhi,1,27,Male,No,5,0
 Bachelors,2015,New Delhi,3,26,Female,No,4,0
 Bachelors,2012,Bangalore,3,27,Male,Yes,5,0
@@ -271,195 +245,128 @@ Bachelors,2013,Bangalore,3,24,Male,Yes,2,1
 Bachelors,2018,Bangalore,3,26,Female,No,4,1
 Masters,2017,Pune,2,26,Female,No,4,1
 Masters,2017,New Delhi,2,28,Female,No,2,0
-Bachelors,2013,Pune,3,28,Male,No,1,0
 Masters,2013,New Delhi,3,25,Male,No,3,0
 Bachelors,2018,Bangalore,3,28,Female,Yes,1,1
 Bachelors,2013,Pune,3,27,Female,No,5,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Bachelors,2014,Bangalore,3,28,Male,No,1,0
 Bachelors,2017,New Delhi,3,28,Female,No,3,0
 Masters,2017,New Delhi,2,28,Male,Yes,2,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Masters,2017,New Delhi,3,26,Male,No,4,0
 Bachelors,2015,Pune,1,25,Female,No,3,1
 Masters,2013,New Delhi,3,27,Male,No,5,0
 PHD,2014,Bangalore,3,24,Female,No,2,0
 Masters,2017,New Delhi,2,27,Female,No,5,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
 Bachelors,2012,Bangalore,3,26,Male,No,4,0
 Masters,2015,Pune,3,27,Female,No,5,1
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
 Bachelors,2016,Bangalore,3,24,Male,No,2,0
 Masters,2017,New Delhi,2,25,Female,No,3,0
 Bachelors,2017,New Delhi,2,28,Male,No,1,0
 Bachelors,2012,New Delhi,3,27,Female,No,5,0
-Masters,2013,New Delhi,3,26,Male,No,4,1
 Bachelors,2015,Bangalore,3,26,Female,Yes,4,1
 Bachelors,2014,Pune,3,28,Male,No,2,0
 Bachelors,2016,Bangalore,3,24,Female,No,2,1
 Bachelors,2012,Bangalore,3,28,Male,No,3,0
 Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,New Delhi,3,28,Female,No,1,0
 Bachelors,2014,New Delhi,3,27,Female,Yes,5,0
 Bachelors,2015,Pune,3,26,Female,Yes,4,1
 Masters,2014,New Delhi,3,26,Male,No,4,1
 PHD,2015,New Delhi,3,25,Female,No,3,0
-Masters,2015,New Delhi,3,25,Male,No,3,0
 Bachelors,2012,Pune,3,27,Male,No,5,0
 Masters,2017,New Delhi,2,24,Female,No,2,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
 Masters,2015,Pune,3,28,Female,No,2,0
 Bachelors,2017,Bangalore,3,24,Female,No,2,0
 Bachelors,2017,Pune,3,25,Male,No,3,0
 Bachelors,2017,Bangalore,1,25,Male,No,3,0
-Masters,2015,Pune,3,28,Female,No,2,0
 Bachelors,2017,Pune,3,26,Male,No,4,0
-Bachelors,2014,Pune,3,24,Male,No,2,0
 Bachelors,2014,Pune,3,25,Female,No,3,1
 Bachelors,2018,Pune,3,26,Female,No,4,1
 Bachelors,2016,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,28,Female,No,2,0
-Bachelors,2012,Pune,3,28,Male,No,2,0
 Masters,2012,New Delhi,3,24,Female,No,2,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,New Delhi,3,26,Female,Yes,4,0
-Bachelors,2017,Bangalore,3,28,Male,No,1,0
 Bachelors,2018,Pune,3,25,Male,Yes,3,1
 Masters,2017,New Delhi,3,24,Male,No,2,0
 Bachelors,2013,Bangalore,3,28,Male,No,2,1
 Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Masters,2017,New Delhi,2,25,Female,No,3,1
 Bachelors,2013,Pune,2,28,Female,No,1,1
-Bachelors,2015,Bangalore,3,24,Female,No,2,0
-Bachelors,2016,Pune,3,26,Male,No,4,0
 Bachelors,2015,New Delhi,2,27,Female,No,5,1
 Bachelors,2018,Bangalore,3,24,Female,No,2,1
-Bachelors,2013,Bangalore,3,27,Female,No,5,0
 Bachelors,2013,Bangalore,3,24,Male,Yes,2,0
 Bachelors,2013,Bangalore,3,24,Female,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
-Bachelors,2015,Bangalore,3,24,Female,No,2,0
 Bachelors,2012,Pune,3,24,Female,No,2,1
 Bachelors,2016,Bangalore,3,24,Male,Yes,2,1
-Bachelors,2012,Bangalore,3,28,Male,No,3,0
 Bachelors,2017,New Delhi,2,27,Male,No,5,0
 Bachelors,2012,Pune,2,27,Female,No,5,1
 Masters,2017,Pune,2,27,Male,No,5,0
 Bachelors,2017,Pune,2,24,Male,No,2,1
 Bachelors,2016,Pune,1,26,Female,No,4,1
 Bachelors,2015,Pune,3,26,Female,No,4,1
-Bachelors,2016,Bangalore,3,25,Male,No,3,1
 Bachelors,2012,Pune,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,28,Male,No,2,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Bachelors,2017,Bangalore,3,25,Female,Yes,3,0
 Masters,2017,Pune,2,26,Male,No,4,0
-Masters,2017,Pune,3,28,Male,No,1,1
 Masters,2015,Pune,2,25,Female,No,3,1
 Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,New Delhi,3,27,Female,No,5,0
 Bachelors,2015,New Delhi,3,24,Female,No,2,0
 Masters,2017,Bangalore,1,26,Female,No,4,1
 Bachelors,2017,New Delhi,1,28,Female,No,2,0
-Bachelors,2015,Bangalore,3,24,Male,No,2,0
-Masters,2015,Pune,2,25,Female,No,3,1
 Bachelors,2014,Bangalore,3,25,Female,No,3,0
 Bachelors,2014,Bangalore,3,28,Male,No,2,0
 Bachelors,2017,Bangalore,3,28,Male,No,3,0
 Masters,2015,New Delhi,1,27,Male,No,5,0
-Bachelors,2014,Pune,1,26,Female,No,4,1
 Masters,2018,Bangalore,3,25,Male,Yes,3,1
 Bachelors,2016,Bangalore,3,28,Female,No,3,0
 Bachelors,2018,New Delhi,3,26,Female,Yes,4,1
 Bachelors,2015,Pune,2,24,Female,No,2,1
 Bachelors,2017,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2014,Bangalore,3,24,Male,No,2,0
 Bachelors,2016,Bangalore,3,28,Male,No,2,0
 Bachelors,2015,Pune,2,25,Female,No,3,1
 Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,28,Male,No,3,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,26,Female,Yes,4,1
 Bachelors,2015,Pune,3,28,Male,No,2,0
 Bachelors,2014,New Delhi,2,24,Female,No,2,1
 Bachelors,2013,Bangalore,3,24,Male,No,2,0
 Bachelors,2018,Bangalore,3,28,Male,Yes,3,1
-Bachelors,2015,Pune,3,27,Male,No,5,0
 Bachelors,2014,Pune,2,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,1
 PHD,2013,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Bachelors,2017,New Delhi,2,28,Female,No,1,0
 Bachelors,2015,Pune,1,26,Female,No,4,1
 Masters,2017,New Delhi,3,26,Male,Yes,4,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2012,New Delhi,3,24,Female,No,2,0
 Bachelors,2017,New Delhi,2,24,Male,No,2,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 Bachelors,2012,Bangalore,3,26,Female,No,4,0
-Bachelors,2015,Bangalore,3,24,Male,No,2,0
 Masters,2014,Pune,3,25,Male,No,3,0
-Bachelors,2015,Bangalore,3,28,Male,No,2,0
 Bachelors,2016,Pune,3,24,Male,No,2,0
 Bachelors,2016,Bangalore,3,26,Female,No,4,0
 Bachelors,2015,Pune,2,25,Female,Yes,3,1
 Masters,2013,New Delhi,2,25,Male,No,3,1
-Bachelors,2017,Pune,3,25,Male,No,3,0
 Bachelors,2015,Pune,2,26,Female,Yes,4,1
 Masters,2015,Bangalore,2,26,Female,No,4,1
 Bachelors,2012,Pune,3,27,Female,No,5,0
 Masters,2017,New Delhi,3,28,Male,Yes,2,0
-Bachelors,2016,Pune,3,25,Male,No,3,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Pune,3,28,Male,No,1,0
 Bachelors,2013,New Delhi,3,27,Female,Yes,5,0
 Bachelors,2015,New Delhi,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,Pune,2,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 PHD,2018,New Delhi,3,25,Male,No,3,1
 Bachelors,2014,Pune,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Masters,2017,Pune,2,24,Female,No,2,1
 PHD,2016,New Delhi,2,28,Male,No,3,1
-Masters,2014,New Delhi,3,26,Male,No,4,1
 Masters,2017,New Delhi,2,27,Male,Yes,5,1
 PHD,2013,New Delhi,3,27,Male,No,5,0
 Masters,2014,New Delhi,3,28,Female,No,1,0
 Bachelors,2017,Pune,3,27,Male,No,5,0
-Bachelors,2015,Pune,3,26,Female,Yes,4,1
 Masters,2014,Bangalore,3,26,Male,No,4,1
 Masters,2012,Pune,3,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,26,Male,No,4,0
 Masters,2017,Pune,2,27,Male,No,5,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,1
 Bachelors,2016,Pune,3,27,Male,Yes,5,0
 Bachelors,2014,Pune,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,28,Male,No,1,0
 Masters,2012,Pune,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,25,Male,Yes,3,0
 Bachelors,2013,Pune,2,25,Male,No,3,1
-Bachelors,2012,Pune,3,27,Male,No,5,0
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,Pune,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,25,Female,No,3,0
 Bachelors,2015,New Delhi,3,25,Male,No,3,0
 PHD,2012,Pune,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Masters,2015,New Delhi,3,24,Female,No,2,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Pune,3,24,Male,No,2,0
 Masters,2017,New Delhi,3,24,Male,No,2,1
 Bachelors,2014,Bangalore,1,25,Male,Yes,3,0
 Bachelors,2018,Bangalore,3,28,Male,No,1,1
@@ -467,263 +374,127 @@ Bachelors,2017,Bangalore,3,28,Male,Yes,3,0
 Masters,2013,Bangalore,3,28,Female,Yes,2,1
 Bachelors,2013,Bangalore,3,26,Male,Yes,4,0
 Masters,2018,New Delhi,1,24,Male,Yes,2,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 PHD,2013,New Delhi,2,27,Female,No,5,0
 Masters,2018,New Delhi,3,28,Male,Yes,2,1
 Bachelors,2014,Bangalore,3,28,Male,No,3,1
-Bachelors,2014,Pune,3,27,Male,No,5,0
 Bachelors,2013,New Delhi,3,24,Female,No,2,1
 Bachelors,2015,Pune,2,28,Female,No,1,1
-Bachelors,2015,Pune,2,26,Female,No,4,1
 Bachelors,2017,New Delhi,2,28,Female,No,3,0
 Masters,2012,Pune,3,27,Female,No,5,1
 Masters,2017,Pune,3,25,Female,Yes,3,1
-Masters,2013,New Delhi,2,25,Male,No,3,1
 Masters,2017,New Delhi,2,27,Male,No,5,1
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Pune,2,24,Female,No,2,1
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
-Bachelors,2012,Bangalore,3,24,Male,No,2,1
 Masters,2017,Pune,2,24,Male,No,2,0
-Bachelors,2015,Pune,2,25,Female,Yes,3,1
-Bachelors,2015,New Delhi,3,26,Female,Yes,4,0
 Bachelors,2013,Pune,2,24,Male,Yes,2,1
-Bachelors,2013,Pune,3,25,Male,No,3,0
 PHD,2015,New Delhi,2,28,Female,No,1,0
-Bachelors,2016,Pune,3,24,Male,No,2,0
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,Bangalore,3,25,Female,No,3,0
 Masters,2014,New Delhi,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,28,Female,No,3,0
 Bachelors,2018,Pune,3,25,Male,No,3,1
 Bachelors,2013,Bangalore,3,26,Male,Yes,4,1
 Bachelors,2015,New Delhi,3,25,Male,No,3,1
 Bachelors,2017,New Delhi,2,25,Female,No,3,1
 Bachelors,2012,Bangalore,3,25,Male,Yes,3,0
 Bachelors,2014,New Delhi,3,28,Female,No,2,0
-Bachelors,2017,New Delhi,2,27,Female,No,5,0
 Bachelors,2018,Pune,3,26,Male,No,4,1
 Masters,2014,New Delhi,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,1
 Masters,2017,Pune,3,25,Male,No,3,1
 Bachelors,2018,Bangalore,3,28,Male,No,2,1
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
 Bachelors,2012,Bangalore,3,24,Male,Yes,2,0
 Bachelors,2015,Bangalore,3,28,Female,No,1,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
 Bachelors,2016,New Delhi,3,24,Female,No,2,0
 Bachelors,2012,Bangalore,3,25,Female,No,3,0
 Bachelors,2012,Pune,3,28,Male,No,3,0
-Bachelors,2018,Pune,3,25,Male,Yes,3,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,1
 Bachelors,2016,Bangalore,3,27,Female,No,5,0
 Masters,2015,Pune,2,24,Female,No,2,0
 Masters,2014,Bangalore,3,24,Female,No,2,1
 Bachelors,2013,Bangalore,3,25,Male,No,3,0
-Masters,2017,New Delhi,3,24,Male,No,2,0
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
 Bachelors,2017,New Delhi,2,28,Male,No,3,0
-Bachelors,2016,Bangalore,3,28,Male,No,2,0
 PHD,2014,New Delhi,3,24,Male,No,2,0
 Masters,2017,New Delhi,2,26,Female,No,4,0
 Masters,2018,New Delhi,3,25,Male,No,3,1
-Bachelors,2014,Bangalore,3,28,Male,No,3,1
 Bachelors,2014,Bangalore,3,25,Male,No,3,1
 Bachelors,2018,New Delhi,3,28,Female,No,3,1
 Masters,2017,New Delhi,2,25,Male,Yes,3,1
 Masters,2013,New Delhi,3,28,Male,No,2,0
-Bachelors,2014,Bangalore,3,26,Male,Yes,4,0
-Masters,2017,New Delhi,2,25,Female,No,3,1
 Masters,2013,New Delhi,3,25,Female,No,3,0
 Bachelors,2016,Bangalore,3,25,Male,No,3,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 Masters,2017,New Delhi,2,26,Male,Yes,4,1
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
 Bachelors,2013,Bangalore,3,28,Male,No,2,0
 Masters,2015,Pune,3,28,Female,Yes,2,0
-Bachelors,2015,Pune,2,27,Female,Yes,5,1
 Masters,2014,Pune,2,27,Female,No,5,0
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
 Masters,2015,Pune,1,27,Female,No,5,0
 Bachelors,2013,Bangalore,1,28,Male,No,3,1
 Bachelors,2012,Pune,2,26,Female,No,4,1
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Masters,2017,New Delhi,2,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
 Bachelors,2017,New Delhi,3,26,Male,No,4,0
 Bachelors,2014,Bangalore,3,28,Female,No,1,1
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
 Bachelors,2015,Pune,2,28,Female,No,3,1
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
 Bachelors,2016,Bangalore,3,27,Female,No,5,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Masters,2018,Pune,3,25,Male,No,3,1
-Bachelors,2015,Pune,3,26,Male,No,4,0
 Bachelors,2014,Pune,3,26,Male,No,4,0
 PHD,2017,New Delhi,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,New Delhi,3,28,Female,No,2,0
-Bachelors,2014,Pune,3,25,Female,No,3,0
 Bachelors,2013,Bangalore,3,28,Male,Yes,3,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
 Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
 Bachelors,2017,Pune,2,25,Female,No,3,1
 Bachelors,2017,Pune,2,26,Female,No,4,1
-Bachelors,2015,Pune,3,28,Male,No,3,0
 Masters,2017,Pune,2,26,Male,No,4,1
 Masters,2015,New Delhi,3,28,Female,Yes,2,0
 Bachelors,2012,New Delhi,2,25,Male,No,3,1
 Bachelors,2016,Bangalore,3,25,Female,No,3,0
-Masters,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,1
-PHD,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2016,Pune,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Masters,2012,Pune,2,26,Female,No,4,0
 Masters,2016,New Delhi,3,27,Male,No,5,1
 PHD,2017,Bangalore,3,28,Male,No,1,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2018,Pune,3,26,Male,No,4,1
 Bachelors,2018,Bangalore,1,27,Male,No,5,0
-Bachelors,2016,Pune,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,28,Male,No,2,0
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,25,Male,No,3,0
-Bachelors,2013,Bangalore,3,28,Male,No,1,0
 Bachelors,2018,Bangalore,3,28,Female,No,3,1
 Bachelors,2016,Bangalore,3,27,Male,Yes,5,0
-Masters,2015,Pune,2,28,Female,No,3,0
 Masters,2015,New Delhi,3,24,Female,No,2,1
 Bachelors,2017,New Delhi,3,24,Male,No,2,0
-Bachelors,2015,Pune,2,24,Female,No,2,1
 Masters,2013,Pune,3,28,Male,No,2,1
 Bachelors,2017,Pune,3,27,Female,No,5,1
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Pune,1,26,Female,No,4,1
-Bachelors,2015,Pune,3,28,Male,No,3,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
-Masters,2017,New Delhi,2,26,Female,No,4,0
 Bachelors,2016,Bangalore,3,26,Male,No,4,1
-Bachelors,2013,Bangalore,3,26,Male,Yes,4,0
-Bachelors,2014,Bangalore,3,28,Male,No,3,1
 Bachelors,2014,New Delhi,3,28,Female,No,3,0
-Bachelors,2014,Pune,3,25,Female,No,3,1
 Bachelors,2016,Pune,3,28,Male,No,3,0
 Masters,2017,Bangalore,3,27,Male,No,5,1
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Pune,3,27,Male,No,5,0
-Bachelors,2012,Pune,3,28,Male,No,3,0
 Masters,2017,Pune,3,26,Male,No,4,1
 Bachelors,2013,Bangalore,3,25,Male,Yes,3,0
 Bachelors,2015,Pune,2,28,Female,No,2,1
 PHD,2013,Bangalore,1,26,Male,No,4,0
 Masters,2012,Pune,3,27,Male,No,5,1
 Bachelors,2016,Bangalore,1,28,Male,No,2,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
 Masters,2017,New Delhi,2,24,Female,Yes,2,1
 Bachelors,2015,Bangalore,1,25,Female,Yes,3,0
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2015,Pune,2,24,Female,No,2,1
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
-Masters,2016,New Delhi,3,25,Female,No,3,1
-Masters,2018,New Delhi,3,26,Male,No,4,1
-Bachelors,2018,Bangalore,3,24,Female,No,2,1
-Bachelors,2017,New Delhi,2,28,Male,No,3,0
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,0
-Bachelors,2013,Pune,3,25,Male,No,3,0
 Bachelors,2015,Pune,3,25,Female,No,3,1
-Bachelors,2014,Bangalore,3,28,Female,No,3,0
 Bachelors,2015,Pune,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,26,Female,No,4,0
 Bachelors,2018,Bangalore,1,25,Male,Yes,3,0
 Masters,2017,Pune,2,28,Female,No,1,0
-Bachelors,2014,Pune,2,25,Female,No,3,1
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Bachelors,2016,Bangalore,3,28,Female,No,3,0
 Bachelors,2014,Bangalore,3,28,Female,No,2,0
-Masters,2017,New Delhi,2,28,Male,No,2,0
 Bachelors,2017,New Delhi,2,24,Female,No,2,0
 PHD,2013,New Delhi,2,25,Male,No,3,1
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
 Bachelors,2015,Bangalore,1,25,Male,No,3,0
-Bachelors,2016,Bangalore,3,26,Female,No,4,0
 PHD,2014,New Delhi,3,28,Male,No,2,1
 Masters,2018,New Delhi,3,27,Female,No,5,1
 Bachelors,2016,New Delhi,3,27,Female,No,5,0
 Masters,2017,New Delhi,2,25,Male,No,3,1
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
 Bachelors,2016,New Delhi,3,27,Female,Yes,5,0
-Bachelors,2017,Pune,2,25,Female,No,3,1
 Bachelors,2018,Pune,3,28,Female,No,1,1
-Bachelors,2014,Bangalore,3,25,Female,No,3,1
 Bachelors,2018,Pune,3,28,Male,No,1,1
 Bachelors,2017,Bangalore,1,26,Female,No,4,0
 Bachelors,2013,Bangalore,3,24,Male,No,2,1
 Bachelors,2012,New Delhi,3,26,Female,No,4,0
 Bachelors,2012,Pune,3,25,Male,No,3,0
 Masters,2013,New Delhi,2,24,Male,No,2,1
-Bachelors,2018,Pune,3,26,Male,No,4,1
 Bachelors,2016,New Delhi,3,28,Female,No,2,0
-Bachelors,2016,Pune,3,26,Male,No,4,0
 Masters,2014,New Delhi,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Pune,2,26,Female,No,4,1
-Bachelors,2014,Pune,3,25,Male,No,3,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
 Bachelors,2015,Bangalore,3,25,Female,No,3,1
-Bachelors,2016,Pune,3,26,Male,No,4,0
 Bachelors,2015,Pune,2,27,Female,No,5,1
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
-Masters,2017,Pune,2,26,Female,No,4,0
 Bachelors,2017,New Delhi,3,27,Female,Yes,5,0
 Masters,2017,Pune,1,24,Male,No,2,0
-Masters,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2015,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Masters,2017,Pune,2,24,Male,No,2,1
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Bangalore,3,28,Male,Yes,1,1
-Masters,2017,New Delhi,2,24,Male,No,2,0
-Bachelors,2013,Pune,2,25,Female,No,3,1
 Masters,2013,Bangalore,3,27,Male,No,5,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,New Delhi,2,28,Female,Yes,2,1
-Bachelors,2014,Pune,2,24,Female,No,2,1
-Bachelors,2016,Pune,2,27,Female,No,5,1
 Bachelors,2017,Bangalore,3,27,Female,No,5,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Pune,2,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 Bachelors,2018,Bangalore,3,27,Male,Yes,5,1
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
 Bachelors,2013,New Delhi,2,24,Female,No,2,1
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
 Bachelors,2015,Pune,2,28,Female,Yes,2,1
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
 Bachelors,2016,Bangalore,3,24,Female,No,2,0
 Masters,2017,Pune,3,24,Male,No,2,1
 Masters,2016,Pune,3,24,Male,No,2,0
@@ -731,1020 +502,374 @@ Bachelors,2013,Bangalore,3,28,Male,Yes,1,1
 Bachelors,2015,Bangalore,1,28,Female,No,1,0
 PHD,2018,Bangalore,3,24,Female,No,2,1
 Bachelors,2016,Bangalore,3,26,Male,Yes,4,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Bachelors,2013,Bangalore,3,25,Male,No,3,1
 Masters,2016,New Delhi,3,24,Male,No,2,1
 Bachelors,2017,New Delhi,1,25,Female,No,3,0
 Bachelors,2013,Bangalore,3,28,Male,No,3,0
-Bachelors,2018,Bangalore,3,28,Male,No,1,1
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
 Masters,2014,New Delhi,3,24,Male,No,2,1
 PHD,2012,New Delhi,3,24,Male,No,2,0
-Bachelors,2017,Bangalore,3,25,Female,No,3,0
-Masters,2014,New Delhi,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
 Bachelors,2014,Pune,3,25,Male,No,3,1
-Bachelors,2012,Bangalore,3,28,Male,No,3,0
-Bachelors,2012,Bangalore,3,25,Female,No,3,0
-Bachelors,2015,Bangalore,3,24,Female,No,2,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Bachelors,2012,Pune,2,26,Male,No,4,0
 Masters,2017,Bangalore,3,28,Female,No,3,1
-Bachelors,2015,Bangalore,3,25,Male,No,3,1
 Bachelors,2012,Bangalore,3,28,Female,No,2,0
-Bachelors,2017,Pune,2,26,Female,No,4,1
 Bachelors,2012,Bangalore,3,27,Female,No,5,0
 Masters,2016,New Delhi,3,28,Male,No,1,0
-Bachelors,2015,Pune,2,28,Female,No,1,1
-Masters,2017,Pune,3,24,Male,No,2,1
-Bachelors,2015,Pune,2,25,Female,No,3,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,28,Male,No,3,0
 Bachelors,2016,New Delhi,3,25,Female,Yes,3,0
-Masters,2015,New Delhi,3,26,Male,No,4,1
 Masters,2015,New Delhi,3,28,Female,No,3,0
 Bachelors,2013,New Delhi,1,24,Female,No,2,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,New Delhi,3,25,Female,No,3,1
-Bachelors,2017,New Delhi,3,28,Male,No,2,0
 Bachelors,2016,Pune,1,25,Female,No,3,1
 Masters,2013,New Delhi,3,25,Male,Yes,3,1
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
 Masters,2013,New Delhi,3,25,Female,No,3,1
 Bachelors,2013,Bangalore,1,28,Female,No,2,0
 Masters,2014,Bangalore,3,27,Female,No,5,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,0
-Bachelors,2015,Pune,2,26,Female,Yes,4,1
 Bachelors,2017,New Delhi,3,25,Male,No,3,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,Pune,2,27,Male,Yes,5,0
-Bachelors,2015,Pune,2,25,Female,No,3,1
 Bachelors,2016,Bangalore,3,25,Male,Yes,3,0
 Bachelors,2017,Bangalore,3,25,Male,No,3,1
-Bachelors,2016,Pune,3,28,Male,No,1,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 Masters,2015,Pune,3,28,Female,No,3,0
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
-Masters,2017,Pune,2,26,Male,No,4,1
-Bachelors,2017,New Delhi,2,27,Female,No,5,0
 Bachelors,2013,Pune,2,26,Female,No,4,1
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
 Bachelors,2013,New Delhi,3,28,Female,Yes,3,0
-Masters,2015,Pune,2,24,Female,No,2,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,0
-Masters,2017,New Delhi,2,25,Male,No,3,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
 Bachelors,2012,Pune,2,25,Male,No,3,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
 Bachelors,2017,Bangalore,3,27,Female,No,5,1
-Bachelors,2017,New Delhi,3,27,Female,No,5,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
 Bachelors,2015,Pune,2,24,Female,Yes,2,1
 Bachelors,2017,Bangalore,3,24,Female,Yes,2,0
-PHD,2015,New Delhi,3,28,Female,No,1,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
 Bachelors,2017,New Delhi,2,25,Female,No,3,0
-Bachelors,2014,Pune,2,25,Female,No,3,1
 Bachelors,2016,New Delhi,3,28,Female,Yes,3,0
-Bachelors,2015,Pune,2,27,Female,No,5,1
 Masters,2017,Pune,2,25,Male,No,3,1
 Masters,2017,Bangalore,2,25,Female,Yes,3,1
 Bachelors,2017,Bangalore,3,24,Female,No,2,1
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Bachelors,2018,Bangalore,3,24,Male,Yes,2,1
 Bachelors,2016,New Delhi,3,28,Male,No,1,0
 Masters,2017,New Delhi,2,24,Male,No,2,1
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
 Bachelors,2017,Bangalore,3,24,Male,No,2,1
 Masters,2014,New Delhi,3,25,Female,No,3,1
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
-Bachelors,2012,New Delhi,3,27,Female,No,5,0
 Bachelors,2017,Bangalore,3,28,Male,No,2,1
 Bachelors,2012,Bangalore,3,28,Male,Yes,3,1
 Bachelors,2012,Pune,3,28,Female,No,2,0
-Bachelors,2018,Bangalore,3,24,Female,No,2,1
 PHD,2016,New Delhi,3,24,Female,No,2,0
 Masters,2017,New Delhi,2,27,Female,No,5,1
 Masters,2013,New Delhi,2,27,Female,No,5,1
 Bachelors,2015,Bangalore,3,26,Female,No,4,0
 Masters,2015,New Delhi,3,28,Female,No,1,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,New Delhi,3,25,Female,No,3,0
 Bachelors,2015,Bangalore,3,26,Female,No,4,1
 Bachelors,2012,Pune,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
-Masters,2015,Pune,2,25,Female,No,3,1
 Bachelors,2013,New Delhi,3,24,Male,No,2,0
-Masters,2017,New Delhi,2,27,Female,No,5,0
-Masters,2017,Pune,2,26,Male,No,4,0
-Bachelors,2014,Pune,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
-Bachelors,2014,Bangalore,3,25,Female,No,3,0
 Bachelors,2013,Pune,2,27,Female,No,5,1
-Bachelors,2015,Pune,3,26,Male,No,4,0
-Bachelors,2017,Pune,2,24,Male,No,2,1
 Masters,2017,New Delhi,2,26,Male,No,4,1
 Bachelors,2013,Pune,2,25,Male,Yes,3,1
-Masters,2017,New Delhi,2,25,Female,No,3,1
 Bachelors,2013,Pune,3,26,Female,Yes,4,0
-Bachelors,2014,Pune,3,28,Male,No,2,0
-Bachelors,2016,New Delhi,3,27,Female,No,5,0
-Bachelors,2017,New Delhi,2,28,Male,No,1,0
-Masters,2014,New Delhi,3,27,Male,No,5,0
-Bachelors,2014,New Delhi,3,28,Female,No,1,0
 Bachelors,2015,Bangalore,3,27,Male,No,5,1
 Bachelors,2015,Bangalore,3,24,Male,No,2,1
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
-Bachelors,2013,Pune,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,28,Female,No,2,0
-Masters,2017,Pune,2,26,Male,No,4,0
-Masters,2017,New Delhi,2,25,Male,No,3,1
-Bachelors,2016,New Delhi,3,27,Female,No,5,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Pune,3,25,Male,No,3,0
 Bachelors,2012,New Delhi,3,26,Female,Yes,4,0
 Masters,2014,Bangalore,3,27,Male,No,5,1
 Masters,2017,New Delhi,2,26,Male,No,4,0
-Masters,2012,New Delhi,3,26,Male,No,4,1
-Bachelors,2015,Pune,2,26,Female,No,4,1
 Masters,2014,New Delhi,3,25,Male,No,3,0
-Bachelors,2015,Bangalore,3,28,Male,Yes,2,0
-Masters,2012,Pune,3,27,Male,No,5,1
 Bachelors,2017,Bangalore,2,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2014,Bangalore,3,26,Male,No,4,1
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
-Bachelors,2017,Bangalore,3,28,Male,No,1,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,1
-Bachelors,2018,Bangalore,3,28,Female,No,3,1
-Bachelors,2014,New Delhi,3,24,Female,No,2,0
 Bachelors,2017,Bangalore,1,27,Male,No,5,0
-Bachelors,2015,New Delhi,3,24,Female,No,2,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,Pune,3,28,Male,No,3,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,25,Female,No,3,0
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
-Bachelors,2013,Bangalore,3,28,Female,No,3,0
 Bachelors,2017,New Delhi,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Masters,2017,New Delhi,2,26,Female,No,4,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,Pune,3,27,Male,No,5,0
-Bachelors,2012,Pune,3,27,Male,No,5,0
-Bachelors,2017,Pune,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Bachelors,2014,Bangalore,3,28,Male,No,3,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
 Masters,2017,Bangalore,3,28,Male,No,1,1
-Bachelors,2018,Bangalore,3,27,Male,Yes,5,1
 Bachelors,2017,Bangalore,3,28,Male,Yes,1,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,0
 Bachelors,2013,Pune,3,24,Female,No,2,0
 Bachelors,2018,New Delhi,3,25,Female,No,3,1
 Bachelors,2014,Bangalore,3,24,Female,No,2,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
 Masters,2013,New Delhi,1,24,Female,No,2,0
 Masters,2013,New Delhi,1,24,Male,Yes,2,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,New Delhi,2,25,Male,No,3,0
-Bachelors,2015,Bangalore,3,28,Female,No,1,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
 PHD,2018,New Delhi,3,24,Female,No,2,1
 Bachelors,2015,Pune,3,28,Male,No,1,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 PHD,2015,Pune,2,28,Female,No,1,0
 Bachelors,2018,Bangalore,3,25,Male,Yes,3,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Bangalore,3,27,Female,No,5,1
-Bachelors,2017,Pune,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Masters,2012,New Delhi,3,28,Male,No,2,0
-Bachelors,2012,Bangalore,3,28,Male,No,3,0
-Bachelors,2012,Pune,2,27,Female,No,5,1
 Bachelors,2012,New Delhi,2,27,Female,No,5,1
-Masters,2012,Bangalore,3,27,Male,No,5,1
 Bachelors,2018,Bangalore,3,25,Female,No,3,1
 Masters,2018,Pune,3,27,Male,No,5,1
-Masters,2017,New Delhi,2,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Masters,2017,Bangalore,2,28,Male,Yes,2,1
-Bachelors,2017,Pune,3,27,Male,No,5,0
 Bachelors,2017,Pune,3,28,Female,No,1,0
-Bachelors,2016,Bangalore,3,28,Male,No,3,0
 Bachelors,2014,New Delhi,3,26,Female,No,4,0
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Bachelors,2017,New Delhi,3,26,Female,No,4,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Bachelors,2017,New Delhi,3,26,Male,No,4,0
 Bachelors,2012,Bangalore,3,25,Female,Yes,3,0
 Bachelors,2017,Bangalore,3,25,Male,Yes,3,0
 Bachelors,2013,Bangalore,3,28,Female,No,1,1
 Bachelors,2013,Pune,3,24,Female,No,2,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Masters,2017,New Delhi,3,25,Male,No,3,1
-Bachelors,2015,Pune,2,27,Female,No,5,1
 Masters,2017,Pune,2,28,Male,No,3,0
-Masters,2017,New Delhi,3,26,Male,No,4,0
 Masters,2017,Pune,2,24,Female,No,2,0
 Masters,2015,Pune,1,26,Female,No,4,0
 Masters,2013,Pune,3,26,Male,No,4,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Pune,3,24,Male,No,2,0
 PHD,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
-Bachelors,2014,Pune,3,25,Male,No,3,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,28,Male,No,3,0
-Bachelors,2014,Pune,3,25,Male,No,3,0
 Masters,2018,New Delhi,3,25,Female,No,3,1
-Bachelors,2013,Pune,2,25,Female,No,3,1
 PHD,2013,New Delhi,3,26,Male,No,4,0
 Bachelors,2015,New Delhi,3,28,Female,No,3,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
 Masters,2018,New Delhi,1,26,Female,No,4,1
 Bachelors,2013,Pune,2,24,Female,No,2,1
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 PHD,2016,Pune,1,25,Female,No,3,1
 Bachelors,2014,Pune,3,26,Male,No,4,1
-Masters,2015,Pune,1,27,Female,No,5,0
 Bachelors,2013,Pune,3,28,Female,No,2,1
 Bachelors,2016,Bangalore,1,27,Female,No,5,0
 Bachelors,2014,New Delhi,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,26,Male,Yes,4,0
-Bachelors,2015,Pune,3,25,Female,No,3,1
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
 Bachelors,2015,Bangalore,3,25,Female,No,3,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Pune,3,26,Male,No,4,0
 Masters,2016,Bangalore,3,26,Female,No,4,1
-Bachelors,2018,Bangalore,3,27,Female,No,5,1
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
-Bachelors,2014,New Delhi,3,24,Female,No,2,0
 Bachelors,2013,Pune,3,26,Male,Yes,4,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Pune,2,26,Female,No,4,1
 Bachelors,2016,New Delhi,3,28,Female,No,5,0
 Bachelors,2015,Bangalore,3,28,Male,No,5,0
-Bachelors,2012,Pune,2,26,Female,No,4,1
 Bachelors,2013,New Delhi,3,26,Female,No,4,0
-Bachelors,2013,Pune,3,24,Male,No,2,0
 Masters,2017,New Delhi,3,28,Female,No,3,0
-Bachelors,2012,New Delhi,3,27,Female,No,5,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
 Bachelors,2012,New Delhi,3,24,Female,No,2,1
 Masters,2015,Pune,1,24,Male,No,2,0
-Masters,2013,New Delhi,3,27,Male,No,5,1
 Bachelors,2017,New Delhi,3,24,Female,No,2,1
 Bachelors,2014,Bangalore,3,28,Male,No,1,1
-Bachelors,2015,Bangalore,3,28,Female,No,1,0
-Masters,2013,New Delhi,3,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
 Masters,2015,New Delhi,3,24,Male,No,2,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Bangalore,3,25,Female,No,3,0
 Bachelors,2017,Bangalore,1,24,Male,No,2,0
 Bachelors,2014,New Delhi,3,27,Female,No,5,1
-Bachelors,2013,Bangalore,3,27,Female,No,5,0
-Bachelors,2012,Bangalore,3,28,Female,No,2,0
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,Pune,1,27,Female,No,5,1
-Bachelors,2014,New Delhi,3,27,Female,Yes,5,0
-Bachelors,2014,Bangalore,3,28,Male,No,4,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,1
 Bachelors,2014,Bangalore,3,28,Female,No,1,0
-Masters,2018,New Delhi,3,25,Female,No,3,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,Bangalore,3,24,Male,Yes,2,1
 Masters,2017,Pune,2,25,Female,No,3,1
-Bachelors,2017,New Delhi,2,27,Female,No,5,0
 Bachelors,2016,Bangalore,3,28,Male,No,3,1
-Bachelors,2015,Pune,2,25,Female,Yes,3,1
-Masters,2017,New Delhi,3,24,Male,No,2,0
 Bachelors,2015,Bangalore,3,28,Male,No,4,0
 Masters,2014,Pune,3,26,Male,No,4,1
-Bachelors,2013,Pune,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Masters,2013,New Delhi,1,24,Female,No,2,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2013,Bangalore,3,28,Male,No,1,0
 Bachelors,2016,Pune,2,28,Female,No,4,1
 Bachelors,2012,Bangalore,3,28,Male,No,1,0
 Bachelors,2017,New Delhi,3,25,Female,No,3,0
-Bachelors,2018,Bangalore,3,25,Male,Yes,3,1
 Bachelors,2012,Pune,1,27,Female,No,5,1
-Masters,2017,New Delhi,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
 Bachelors,2013,Bangalore,3,25,Female,No,3,1
-Bachelors,2017,Bangalore,3,28,Male,No,2,0
-Bachelors,2015,Pune,3,25,Female,No,3,1
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2018,Bangalore,3,24,Male,Yes,2,1
 Bachelors,2016,Bangalore,3,28,Male,Yes,4,0
 Bachelors,2014,Bangalore,3,26,Female,No,4,0
-Bachelors,2017,Bangalore,3,28,Male,No,1,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 Bachelors,2016,New Delhi,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,27,Female,No,5,0
 Bachelors,2014,Bangalore,3,27,Female,Yes,5,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 PHD,2015,New Delhi,2,24,Female,No,2,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2017,New Delhi,2,24,Female,No,2,0
 PHD,2015,Pune,1,25,Female,No,3,1
-Bachelors,2017,New Delhi,3,24,Male,No,2,0
 Bachelors,2013,Bangalore,3,25,Female,No,3,0
 Bachelors,2014,Bangalore,3,24,Male,Yes,2,0
 Masters,2018,New Delhi,3,26,Male,Yes,4,1
-Bachelors,2015,Bangalore,2,25,Female,No,3,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Masters,2012,New Delhi,3,28,Male,Yes,2,0
-Bachelors,2015,Bangalore,3,24,Female,No,2,0
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
 PHD,2018,New Delhi,3,27,Female,No,5,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Bachelors,2012,Bangalore,3,28,Male,No,5,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2013,Bangalore,3,25,Male,No,3,0
 Masters,2018,Pune,3,24,Male,No,2,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,New Delhi,3,28,Female,No,2,0
-Masters,2017,New Delhi,2,27,Male,Yes,5,1
 Bachelors,2018,Pune,2,27,Female,No,5,1
 Masters,2014,New Delhi,3,28,Female,No,4,0
 Masters,2017,New Delhi,3,25,Female,No,3,0
 Masters,2017,Bangalore,3,26,Female,No,4,0
-Bachelors,2015,Pune,2,27,Female,No,5,1
-Bachelors,2013,New Delhi,3,27,Female,No,5,0
 Masters,2017,New Delhi,1,26,Female,No,4,0
-Bachelors,2013,New Delhi,3,27,Female,No,5,0
 Bachelors,2012,New Delhi,3,28,Male,No,3,0
-Masters,2017,Pune,2,27,Male,No,5,1
-Bachelors,2017,New Delhi,3,26,Female,No,4,0
 Bachelors,2013,Bangalore,3,28,Female,No,4,1
 Masters,2012,New Delhi,3,27,Male,Yes,5,1
 Bachelors,2017,Pune,2,24,Male,No,2,0
 Masters,2017,New Delhi,3,25,Female,No,3,1
 Bachelors,2018,Bangalore,3,25,Female,Yes,3,1
-Bachelors,2016,Bangalore,3,28,Male,Yes,4,0
 Masters,2017,New Delhi,3,28,Male,No,2,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,26,Male,Yes,4,0
 Bachelors,2014,Pune,3,24,Female,No,2,1
-Bachelors,2013,Pune,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
-Bachelors,2017,Bangalore,1,26,Female,No,4,0
 Bachelors,2015,Bangalore,3,28,Female,No,3,0
 Bachelors,2013,Bangalore,3,28,Male,No,3,1
-Bachelors,2012,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
-Masters,2013,New Delhi,2,27,Female,No,5,1
-Bachelors,2016,New Delhi,3,24,Female,No,2,0
-Bachelors,2015,Pune,2,28,Female,No,2,1
 Bachelors,2015,New Delhi,2,25,Female,No,3,1
-Bachelors,2014,Pune,3,24,Male,No,2,0
-Bachelors,2017,New Delhi,3,27,Female,No,5,0
 Bachelors,2012,New Delhi,3,26,Male,No,4,0
 Bachelors,2013,Bangalore,3,28,Male,No,0,0
 Bachelors,2012,Pune,3,28,Male,No,5,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
 Bachelors,2016,Bangalore,1,26,Male,No,4,0
 Masters,2017,New Delhi,2,28,Female,Yes,2,1
-Masters,2017,New Delhi,2,25,Male,No,3,1
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,28,Male,No,0,0
 Bachelors,2014,Pune,3,27,Male,No,5,1
 Bachelors,2016,Pune,2,26,Female,No,4,1
 Bachelors,2018,Bangalore,3,27,Female,Yes,5,1
 Bachelors,2012,Pune,3,28,Male,No,4,0
-Bachelors,2013,Pune,2,26,Female,No,4,1
-Bachelors,2014,Bangalore,3,28,Female,No,3,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
 Bachelors,2012,New Delhi,1,27,Female,No,5,0
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Masters,2012,New Delhi,3,24,Male,No,2,0
 Bachelors,2013,New Delhi,2,25,Female,No,3,1
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Masters,2013,Pune,3,25,Male,Yes,3,1
-Bachelors,2013,Pune,3,24,Female,No,2,0
 Bachelors,2015,Pune,3,24,Female,No,2,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
 Masters,2012,New Delhi,3,26,Female,No,4,1
-Bachelors,2015,Pune,3,25,Male,No,3,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2013,Bangalore,3,28,Male,No,3,0
 Bachelors,2016,Pune,2,28,Female,No,0,1
 Bachelors,2012,New Delhi,3,24,Male,No,2,0
 Bachelors,2015,New Delhi,3,28,Male,No,1,0
-Bachelors,2017,Bangalore,1,24,Male,No,2,0
 Masters,2017,Pune,2,28,Female,No,4,0
-Bachelors,2017,Pune,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
-Bachelors,2015,Pune,3,28,Male,No,2,0
 Bachelors,2016,Bangalore,3,28,Female,No,5,0
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Bachelors,2015,Bangalore,3,28,Female,No,5,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Bangalore,1,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,1
 Bachelors,2015,Pune,3,28,Female,No,4,1
 Masters,2017,Bangalore,2,24,Female,Yes,2,1
-Bachelors,2014,Bangalore,3,28,Male,No,2,0
-Masters,2017,Pune,2,24,Female,No,2,1
 Bachelors,2014,New Delhi,3,26,Female,No,4,1
-Bachelors,2015,Pune,2,28,Female,No,3,1
 Masters,2013,Pune,2,28,Male,No,5,1
 Bachelors,2013,New Delhi,1,28,Female,No,5,1
-Bachelors,2015,Pune,2,26,Female,Yes,4,1
 Masters,2015,New Delhi,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,28,Male,No,2,1
-Bachelors,2012,Pune,3,28,Male,No,2,0
 Bachelors,2014,Pune,3,27,Female,No,5,1
 Masters,2018,New Delhi,3,24,Male,No,2,1
-Bachelors,2018,Bangalore,3,25,Male,Yes,3,1
-Bachelors,2017,New Delhi,2,25,Male,No,3,0
-Bachelors,2014,Pune,3,24,Female,No,2,1
-Bachelors,2012,New Delhi,3,26,Female,No,4,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,28,Male,No,4,0
 Bachelors,2018,Bangalore,3,26,Male,Yes,4,1
-Bachelors,2013,Pune,2,26,Male,No,4,0
-Bachelors,2013,Pune,2,25,Female,No,3,1
-Bachelors,2018,Pune,3,25,Male,Yes,3,1
-Bachelors,2013,Bangalore,3,25,Female,No,3,0
-Bachelors,2014,Bangalore,3,28,Male,No,4,0
 Masters,2017,New Delhi,3,24,Female,No,2,0
-Masters,2017,Pune,2,27,Female,No,5,0
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,Pune,3,27,Female,No,5,1
-Masters,2017,New Delhi,2,28,Male,No,4,0
-Bachelors,2017,New Delhi,2,25,Male,No,3,0
 Bachelors,2017,Pune,3,25,Male,Yes,3,1
-Masters,2017,Pune,2,24,Female,No,2,1
 Bachelors,2013,Pune,3,27,Male,Yes,5,1
 Bachelors,2016,Bangalore,3,26,Female,No,4,1
-Bachelors,2015,Pune,2,27,Female,No,5,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,1
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Pune,2,27,Female,No,5,1
 Masters,2017,Bangalore,2,28,Male,No,2,0
-Masters,2017,New Delhi,3,24,Female,No,2,1
-Bachelors,2017,Pune,3,24,Male,No,2,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 Masters,2017,New Delhi,2,28,Male,No,3,0
 Bachelors,2015,Bangalore,3,26,Female,Yes,4,0
-Bachelors,2018,Pune,3,26,Female,No,4,1
-Bachelors,2013,Bangalore,3,25,Male,Yes,3,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Masters,2018,Pune,3,28,Male,No,2,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
 PHD,2016,New Delhi,3,27,Male,No,5,0
-Bachelors,2017,New Delhi,2,25,Male,No,3,0
 Bachelors,2015,New Delhi,3,28,Female,No,2,0
-Bachelors,2013,Pune,2,26,Female,No,4,1
-Bachelors,2017,Bangalore,3,27,Female,No,5,0
-Bachelors,2015,Pune,2,24,Female,No,2,1
-Bachelors,2017,Bangalore,3,27,Female,No,5,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,1
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2014,Pune,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,1,25,Male,No,3,0
-Masters,2017,New Delhi,2,25,Female,No,3,0
 PHD,2015,Pune,3,28,Male,No,0,0
-Bachelors,2015,Bangalore,3,28,Male,No,3,0
 Bachelors,2016,Bangalore,3,28,Male,No,5,0
-PHD,2013,New Delhi,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,26,Male,Yes,4,0
-Bachelors,2015,Pune,2,26,Female,Yes,4,1
-Bachelors,2017,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2014,New Delhi,3,26,Male,No,4,0
-Masters,2013,Bangalore,3,27,Male,No,5,1
 Bachelors,2016,Pune,3,24,Male,Yes,2,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,Pune,2,28,Female,No,2,1
 Masters,2017,Bangalore,2,24,Male,No,2,1
-Masters,2017,New Delhi,2,24,Male,No,2,1
 Masters,2015,Pune,2,24,Female,No,2,1
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2016,Pune,2,27,Female,No,5,1
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Masters,2017,New Delhi,2,26,Female,No,4,0
 Bachelors,2016,Bangalore,1,25,Female,No,3,0
 PHD,2014,Bangalore,1,25,Female,No,3,0
-Bachelors,2013,Bangalore,3,25,Female,No,3,0
-Bachelors,2014,New Delhi,3,24,Male,No,2,0
-Bachelors,2015,Pune,2,28,Female,Yes,2,1
 Bachelors,2014,New Delhi,3,28,Male,No,5,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2018,Pune,3,26,Male,No,4,1
-Masters,2015,Pune,2,28,Female,No,2,0
 Masters,2013,New Delhi,3,28,Male,No,2,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Masters,2015,New Delhi,2,26,Female,No,4,0
 Bachelors,2016,New Delhi,3,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,24,Female,No,2,0
 Masters,2017,Pune,3,24,Female,No,2,0
-Bachelors,2014,Pune,3,25,Female,No,3,1
 Bachelors,2015,Pune,3,27,Female,No,5,1
 Bachelors,2017,New Delhi,2,28,Male,No,0,0
-Bachelors,2017,New Delhi,3,25,Female,No,3,0
 Bachelors,2012,Pune,3,24,Male,No,2,1
 Masters,2016,New Delhi,3,25,Male,No,3,1
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Masters,2014,New Delhi,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,24,Female,No,2,1
 Bachelors,2014,New Delhi,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,New Delhi,3,24,Female,No,2,1
-Bachelors,2012,Bangalore,3,28,Male,No,1,0
 Bachelors,2014,Bangalore,1,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,28,Male,Yes,3,0
-Bachelors,2015,Pune,1,25,Female,No,3,1
-Bachelors,2015,Pune,2,24,Female,Yes,2,1
 Bachelors,2017,Pune,2,26,Male,No,4,0
 Bachelors,2015,Bangalore,3,28,Male,No,0,0
-Bachelors,2016,Bangalore,3,28,Male,No,2,0
 Bachelors,2013,Pune,3,28,Female,Yes,3,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Masters,2015,New Delhi,3,25,Male,No,3,0
 Bachelors,2012,New Delhi,3,28,Female,No,4,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
-Masters,2017,New Delhi,3,25,Male,No,3,1
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
-Masters,2017,New Delhi,2,25,Male,Yes,3,1
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Bachelors,2017,Pune,3,25,Female,No,3,1
 Bachelors,2014,New Delhi,3,28,Female,Yes,2,0
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Bachelors,2012,Bangalore,3,27,Female,Yes,5,0
-Bachelors,2017,New Delhi,3,27,Female,No,5,0
 Bachelors,2016,Bangalore,2,25,Male,No,3,1
 Bachelors,2016,Bangalore,3,28,Female,No,4,0
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,24,Female,No,2,0
-Bachelors,2013,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,New Delhi,2,25,Female,No,3,0
-Bachelors,2015,Pune,3,24,Male,No,2,0
 Bachelors,2012,New Delhi,3,25,Female,No,3,0
 PHD,2017,New Delhi,3,27,Female,No,5,0
-Bachelors,2014,Bangalore,3,25,Female,No,3,1
-Masters,2017,Bangalore,3,28,Male,No,2,0
-Bachelors,2016,Pune,3,25,Male,No,3,0
-Bachelors,2014,Bangalore,3,25,Male,Yes,3,0
 Bachelors,2012,New Delhi,3,27,Male,No,5,0
 Bachelors,2012,Pune,3,25,Female,No,3,1
 Masters,2015,New Delhi,3,27,Female,No,5,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2015,Pune,2,27,Female,No,5,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,1
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
 Bachelors,2018,New Delhi,3,26,Female,No,4,1
-Bachelors,2017,Pune,2,26,Female,No,4,1
-Bachelors,2014,Pune,2,24,Female,No,2,1
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
 PHD,2012,New Delhi,3,28,Female,No,1,0
-Masters,2012,New Delhi,3,26,Female,No,4,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2013,Bangalore,3,28,Female,No,0,1
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2016,Pune,2,24,Female,No,2,1
 Bachelors,2015,Bangalore,1,24,Female,No,2,1
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
 Masters,2014,Pune,3,27,Male,No,5,0
-Masters,2017,New Delhi,2,27,Male,No,5,1
 Masters,2017,New Delhi,1,25,Female,No,3,0
 Masters,2012,Pune,3,28,Male,No,0,1
 Masters,2012,New Delhi,3,28,Male,No,2,1
-Masters,2013,New Delhi,2,24,Male,No,2,1
-Bachelors,2015,Pune,3,25,Female,No,3,1
 Masters,2017,New Delhi,3,28,Male,No,5,0
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
 Masters,2015,Bangalore,3,28,Male,No,1,1
-Bachelors,2018,Bangalore,3,27,Female,Yes,5,1
-Bachelors,2015,Bangalore,3,24,Male,No,2,1
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2013,New Delhi,3,25,Female,No,3,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2018,New Delhi,3,28,Female,No,0,1
-Bachelors,2013,Bangalore,3,25,Female,No,3,0
 PHD,2012,Pune,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,28,Female,No,3,0
-Bachelors,2015,Pune,3,24,Male,No,2,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2012,New Delhi,3,27,Male,No,5,0
 Bachelors,2018,Bangalore,3,26,Female,Yes,4,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,24,Female,No,2,1
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
 PHD,2018,Bangalore,3,27,Female,No,5,1
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,New Delhi,1,26,Female,No,4,1
-Bachelors,2015,Pune,2,24,Female,No,2,1
-Bachelors,2013,Pune,3,27,Male,No,5,0
-PHD,2016,New Delhi,3,24,Female,No,2,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Bangalore,3,28,Male,No,5,0
-Bachelors,2015,Bangalore,3,26,Female,No,4,0
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
-Bachelors,2017,Pune,3,25,Female,No,3,1
-Masters,2017,New Delhi,2,26,Male,No,4,1
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 Bachelors,2014,Bangalore,3,26,Female,No,4,1
-Bachelors,2015,Pune,2,25,Female,No,3,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2017,Pune,2,28,Male,No,1,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-PHD,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,New Delhi,3,25,Female,Yes,3,1
 Bachelors,2017,Bangalore,1,28,Female,No,3,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,New Delhi,3,27,Male,No,5,0
 Masters,2013,Pune,2,28,Male,No,2,1
-Bachelors,2013,New Delhi,3,25,Female,Yes,3,1
-Masters,2017,New Delhi,2,26,Male,No,4,0
 Masters,2016,New Delhi,3,25,Male,No,3,0
 Bachelors,2017,Bangalore,3,28,Female,Yes,5,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
 Bachelors,2012,Bangalore,1,27,Male,No,5,1
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2016,Bangalore,3,24,Female,No,2,0
-Bachelors,2017,Pune,3,26,Male,No,4,0
-Bachelors,2017,New Delhi,3,25,Female,No,3,0
 Bachelors,2015,Pune,3,28,Female,Yes,5,1
 Bachelors,2015,Bangalore,3,26,Male,No,4,1
 Masters,2015,Pune,2,26,Female,Yes,4,1
 Masters,2015,Pune,3,25,Male,No,3,1
 Bachelors,2016,Pune,3,27,Female,No,5,1
-Bachelors,2013,Bangalore,3,25,Male,No,3,0
 Bachelors,2018,Pune,3,26,Male,Yes,4,1
-Bachelors,2014,Bangalore,3,27,Female,No,5,0
-Bachelors,2017,Bangalore,1,25,Male,No,3,0
-Bachelors,2015,New Delhi,3,26,Male,No,4,0
-Bachelors,2015,Pune,3,24,Female,No,2,1
-Bachelors,2015,Bangalore,3,28,Male,No,2,0
-Bachelors,2014,Pune,2,26,Female,No,4,1
 Bachelors,2017,Bangalore,3,27,Male,No,5,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2018,New Delhi,3,28,Female,No,5,1
 Bachelors,2015,Bangalore,3,28,Male,No,0,1
 Bachelors,2016,New Delhi,3,28,Female,No,3,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Bachelors,2015,Pune,3,24,Female,No,2,1
 Masters,2018,New Delhi,3,28,Male,No,2,1
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,1
 Bachelors,2017,New Delhi,2,28,Female,No,0,0
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
 Bachelors,2012,Bangalore,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2016,Bangalore,1,24,Male,No,2,0
 Bachelors,2016,Pune,3,27,Male,No,5,0
-Bachelors,2013,Pune,3,24,Male,No,2,0
-Masters,2017,Pune,2,26,Female,No,4,1
-Bachelors,2017,New Delhi,3,26,Male,No,4,0
 Bachelors,2018,Pune,3,25,Female,No,3,1
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 Bachelors,2015,Pune,3,24,Male,Yes,2,0
 Bachelors,2013,Bangalore,3,24,Female,No,2,1
 Bachelors,2013,Pune,2,28,Male,Yes,0,1
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,28,Female,No,5,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Bangalore,3,26,Female,No,4,0
-Masters,2017,Bangalore,2,28,Male,No,2,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
 Masters,2018,Bangalore,3,28,Male,No,2,1
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2012,Pune,3,24,Male,No,2,0
 Bachelors,2016,New Delhi,3,28,Male,No,0,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,1
 Bachelors,2012,Bangalore,1,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,28,Female,No,5,0
-Bachelors,2014,Pune,3,25,Male,No,3,0
-Bachelors,2015,Pune,3,25,Male,No,3,0
 Bachelors,2017,Pune,2,28,Male,No,0,1
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Bachelors,2015,Pune,2,27,Female,No,5,1
-Bachelors,2015,Pune,3,26,Female,No,4,1
 Bachelors,2015,Bangalore,2,28,Female,No,3,1
-Bachelors,2012,Pune,3,25,Male,No,3,0
 Bachelors,2013,Bangalore,3,25,Male,Yes,3,1
-Bachelors,2016,New Delhi,3,26,Male,No,4,0
-PHD,2018,New Delhi,3,24,Female,No,2,1
-Bachelors,2014,Bangalore,3,27,Female,No,5,0
-Masters,2017,New Delhi,2,26,Male,Yes,4,1
-Bachelors,2015,Pune,2,27,Female,No,5,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
 Masters,2017,Pune,2,25,Female,No,3,0
-Bachelors,2017,New Delhi,3,28,Female,No,2,0
 Bachelors,2014,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
 Bachelors,2018,Pune,3,24,Male,No,2,1
-Bachelors,2015,Bangalore,3,27,Female,Yes,5,1
-Bachelors,2015,New Delhi,3,28,Female,No,3,0
-Bachelors,2015,Pune,3,27,Female,No,5,1
-Bachelors,2015,Bangalore,3,28,Male,No,5,0
 Bachelors,2015,New Delhi,2,27,Female,Yes,5,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
 Masters,2017,New Delhi,3,27,Female,No,5,1
-Bachelors,2017,Pune,2,26,Female,No,4,1
-Bachelors,2015,Pune,3,27,Female,No,5,1
 Bachelors,2018,Pune,3,27,Female,No,5,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
 PHD,2013,New Delhi,3,27,Female,No,5,1
-Bachelors,2016,Bangalore,3,28,Male,No,2,0
-Bachelors,2012,Bangalore,3,25,Female,Yes,3,0
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2016,Pune,2,24,Female,No,2,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,1
 Bachelors,2014,Pune,3,27,Male,Yes,5,0
-Bachelors,2013,Bangalore,3,24,Male,Yes,2,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,1
-Bachelors,2017,Pune,2,24,Female,No,2,1
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Masters,2013,Bangalore,3,26,Female,No,4,1
-Bachelors,2012,Pune,3,25,Female,No,3,1
-Bachelors,2015,New Delhi,3,28,Female,No,2,0
-Masters,2017,New Delhi,2,24,Female,No,2,0
-Masters,2013,New Delhi,3,26,Male,No,4,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-PHD,2016,New Delhi,3,24,Female,No,2,0
-Bachelors,2017,New Delhi,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,New Delhi,3,28,Female,No,0,0
 PHD,2016,New Delhi,3,27,Female,No,5,0
 Masters,2014,Bangalore,3,28,Female,No,4,1
-Bachelors,2014,Bangalore,3,28,Female,No,2,0
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
 Masters,2015,New Delhi,3,28,Male,No,0,0
-Bachelors,2015,Pune,2,25,Female,No,3,1
-Masters,2017,Pune,2,27,Male,No,5,1
-Bachelors,2014,Pune,2,25,Female,No,3,1
-Bachelors,2015,Pune,2,28,Female,Yes,2,1
-Bachelors,2013,Pune,3,25,Male,No,3,0
 Bachelors,2013,Pune,1,26,Female,No,4,1
-Bachelors,2012,Pune,2,27,Female,No,5,1
 Masters,2017,New Delhi,3,28,Male,No,0,0
 Bachelors,2012,Bangalore,3,28,Female,No,1,0
-Bachelors,2015,Pune,2,25,Female,Yes,3,1
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Bangalore,3,24,Female,No,2,0
 Bachelors,2018,New Delhi,3,24,Female,No,2,1
-Bachelors,2017,New Delhi,3,27,Female,Yes,5,0
-PHD,2012,Pune,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,25,Male,No,3,1
-Bachelors,2015,New Delhi,3,24,Female,No,2,0
-Bachelors,2013,Pune,3,24,Female,No,2,0
-Bachelors,2016,Pune,3,24,Male,No,2,0
 Bachelors,2018,Pune,3,24,Male,Yes,2,1
-Bachelors,2015,Bangalore,3,27,Female,Yes,5,1
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2012,Pune,3,24,Female,No,2,1
-Masters,2017,New Delhi,3,27,Male,No,5,1
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,New Delhi,3,25,Female,No,3,0
-Bachelors,2018,Bangalore,3,24,Female,No,2,1
-Bachelors,2014,Bangalore,3,28,Male,No,4,0
-Bachelors,2013,Pune,1,26,Female,No,4,1
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,1
-Bachelors,2013,Bangalore,3,25,Female,No,3,1
-Bachelors,2016,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2017,Pune,3,26,Male,No,4,0
 Bachelors,2018,Pune,2,28,Female,No,5,1
-Masters,2017,Pune,2,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,25,Female,No,3,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,New Delhi,2,25,Female,No,3,0
-Bachelors,2018,Pune,3,27,Female,No,5,1
-Bachelors,2016,Pune,3,27,Male,No,5,0
 Bachelors,2013,Bangalore,1,24,Male,No,2,0
 Bachelors,2012,Bangalore,1,28,Male,No,3,0
 Bachelors,2016,Pune,2,28,Female,No,3,1
-Bachelors,2016,Pune,3,24,Male,No,2,0
-Bachelors,2017,Bangalore,3,28,Male,No,3,0
 Bachelors,2017,Pune,2,28,Male,No,3,0
 Bachelors,2017,Bangalore,3,25,Female,No,3,1
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
 Masters,2013,New Delhi,3,25,Male,No,3,1
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2013,Pune,2,24,Female,No,2,1
 Bachelors,2017,Bangalore,3,28,Male,No,1,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
 Bachelors,2015,Pune,1,24,Female,No,2,1
 Masters,2013,New Delhi,3,24,Female,Yes,2,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Masters,2013,New Delhi,3,25,Male,No,3,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
 Bachelors,2014,Pune,2,28,Female,No,3,1
-Masters,2015,New Delhi,3,28,Male,No,2,0
-Bachelors,2015,Bangalore,3,28,Male,No,5,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Pune,3,27,Male,No,5,0
 Bachelors,2015,Pune,2,28,Female,No,5,1
-Masters,2017,New Delhi,2,26,Female,No,4,1
 Bachelors,2016,New Delhi,3,26,Female,No,4,0
-Bachelors,2016,Bangalore,3,26,Female,No,4,0
-Bachelors,2013,New Delhi,3,27,Female,No,5,0
-Bachelors,2014,Bangalore,3,28,Male,No,3,0
-Bachelors,2017,New Delhi,3,25,Male,No,3,0
 Bachelors,2015,Bangalore,1,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,24,Female,No,2,0
-Bachelors,2014,Pune,2,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,24,Male,No,2,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
-Bachelors,2012,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2012,Bangalore,3,28,Male,No,1,0
-Masters,2017,New Delhi,2,25,Female,No,3,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2016,Pune,2,27,Female,No,5,1
-Bachelors,2017,Pune,3,28,Male,No,3,0
-Masters,2017,New Delhi,3,28,Male,No,2,0
 PHD,2018,Pune,3,26,Male,No,4,1
-Masters,2017,New Delhi,2,24,Male,No,2,1
 Bachelors,2014,Bangalore,3,28,Male,No,0,0
 Masters,2015,Pune,3,26,Female,No,4,0
 Bachelors,2016,Bangalore,3,27,Male,No,5,1
 Bachelors,2016,New Delhi,3,28,Female,No,4,0
-Bachelors,2012,Pune,3,26,Male,No,4,0
 Masters,2015,Bangalore,2,27,Female,No,5,1
 Masters,2017,Pune,1,28,Male,No,0,0
 Masters,2015,New Delhi,3,28,Female,No,2,0
 Bachelors,2017,Bangalore,3,26,Male,No,4,1
 Bachelors,2017,Pune,3,28,Female,No,4,1
-Bachelors,2015,Pune,3,25,Male,No,3,0
-Masters,2017,New Delhi,2,27,Female,No,5,0
 Masters,2015,Pune,2,27,Female,No,5,0
-Bachelors,2015,Bangalore,3,25,Male,No,3,1
 Bachelors,2013,Bangalore,3,28,Female,No,1,0
-Bachelors,2015,Pune,3,25,Female,No,3,1
 Bachelors,2012,Bangalore,3,28,Female,No,2,1
-Bachelors,2016,Pune,3,27,Female,No,5,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 PHD,2018,New Delhi,3,26,Male,No,4,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2018,Pune,3,28,Male,No,2,1
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
 Bachelors,2013,New Delhi,3,26,Male,No,4,0
 Bachelors,2013,Bangalore,3,28,Male,Yes,1,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
-Bachelors,2016,Bangalore,1,24,Male,No,2,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2014,Pune,2,27,Female,No,5,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,New Delhi,3,27,Male,No,5,0
-Masters,2018,New Delhi,3,24,Male,No,2,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,1
-Bachelors,2017,Bangalore,3,28,Male,Yes,3,0
-Bachelors,2017,New Delhi,3,26,Female,No,4,0
-Bachelors,2016,Pune,3,28,Male,No,3,0
-Bachelors,2015,New Delhi,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,1
-Bachelors,2017,Pune,2,24,Female,No,2,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,1
 PHD,2016,New Delhi,1,26,Male,No,4,0
-Bachelors,2018,Bangalore,3,24,Female,No,2,1
 Bachelors,2017,Bangalore,2,28,Female,No,1,0
-Bachelors,2013,Bangalore,3,24,Female,No,2,0
 Masters,2014,New Delhi,3,25,Female,No,3,0
-Bachelors,2012,Pune,1,26,Male,No,4,0
 Bachelors,2014,Bangalore,3,28,Male,No,5,0
-Bachelors,2013,Bangalore,3,28,Male,No,2,1
-Masters,2017,Pune,2,27,Male,No,5,0
 Bachelors,2016,Bangalore,3,28,Male,Yes,0,0
-Bachelors,2014,New Delhi,3,25,Male,No,3,0
-Bachelors,2013,Bangalore,3,25,Female,No,3,1
-Bachelors,2017,Bangalore,3,24,Female,No,2,1
-Bachelors,2015,Bangalore,3,26,Female,No,4,0
-Bachelors,2014,Bangalore,3,28,Male,No,4,0
-Bachelors,2017,New Delhi,2,28,Male,No,0,0
-Masters,2017,New Delhi,3,24,Female,No,2,0
 PHD,2017,Pune,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,28,Female,No,5,0
-Bachelors,2017,New Delhi,3,25,Female,No,3,0
 Masters,2017,Bangalore,3,25,Male,No,3,0
 Masters,2017,Bangalore,1,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,1
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Pune,3,25,Male,No,3,1
-Bachelors,2018,Bangalore,3,25,Female,No,3,1
 Masters,2012,Pune,3,26,Male,No,4,1
 PHD,2016,Bangalore,3,25,Male,No,3,0
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
 Bachelors,2017,New Delhi,2,25,Male,No,3,1
 Bachelors,2015,New Delhi,3,27,Female,No,5,0
-Bachelors,2017,Pune,3,26,Male,No,4,0
-Bachelors,2016,Pune,3,26,Male,No,4,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
-Masters,2018,New Delhi,3,25,Female,No,3,1
 Masters,2017,Pune,2,25,Male,No,3,0
 Masters,2014,Bangalore,3,24,Female,No,2,0
 Bachelors,2014,Pune,3,28,Female,No,2,1
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Pune,3,26,Male,No,4,0
 Bachelors,2014,Pune,2,28,Female,No,0,1
 Bachelors,2017,New Delhi,3,25,Female,Yes,3,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
 Masters,2017,Bangalore,2,26,Male,No,4,1
-Bachelors,2017,New Delhi,3,25,Female,No,3,0
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Bachelors,2014,New Delhi,3,27,Female,No,5,0
 Bachelors,2017,Bangalore,3,28,Male,No,5,0
 Bachelors,2015,Bangalore,1,24,Female,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,1
-Bachelors,2018,Bangalore,3,26,Female,No,4,1
-Masters,2017,New Delhi,2,28,Female,No,2,0
 Bachelors,2016,Pune,3,28,Female,No,4,1
-Bachelors,2016,Bangalore,3,25,Male,No,3,0
 Bachelors,2015,Pune,3,27,Female,Yes,5,1
-Bachelors,2015,Bangalore,3,26,Male,No,4,1
-Bachelors,2015,Pune,3,28,Female,Yes,5,1
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Masters,2017,Pune,2,25,Male,No,3,0
-Bachelors,2015,Pune,2,25,Female,Yes,3,1
-Bachelors,2015,Pune,2,24,Female,No,2,1
-Masters,2017,New Delhi,2,28,Female,No,2,0
-Bachelors,2014,New Delhi,3,24,Female,No,2,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,1
-Bachelors,2015,Pune,2,28,Female,No,5,1
-Bachelors,2015,New Delhi,2,27,Female,No,5,1
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
 Masters,2016,New Delhi,3,25,Female,No,3,0
 Bachelors,2012,Pune,3,24,Male,Yes,2,0
-Bachelors,2015,New Delhi,3,24,Female,No,2,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Masters,2017,Pune,2,27,Female,No,5,0
 Bachelors,2013,Bangalore,1,24,Female,No,2,1
 PHD,2017,Pune,3,28,Male,No,1,0
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
-Bachelors,2015,Pune,2,24,Female,No,2,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2016,New Delhi,3,28,Male,No,4,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
-PHD,2014,New Delhi,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
-Masters,2014,New Delhi,3,24,Male,No,2,0
 Bachelors,2013,New Delhi,3,24,Female,No,2,0
 Masters,2017,New Delhi,3,26,Male,No,4,1
 Bachelors,2014,Pune,2,27,Male,No,5,0
@@ -1752,697 +877,303 @@ Masters,2013,Bangalore,3,25,Male,No,3,1
 Masters,2012,New Delhi,3,27,Female,No,5,1
 Masters,2017,Bangalore,2,25,Male,No,3,0
 Bachelors,2012,New Delhi,3,28,Male,No,5,0
-Bachelors,2014,Bangalore,3,28,Male,No,0,0
 Bachelors,2017,New Delhi,3,28,Female,No,4,0
 Bachelors,2016,Pune,3,27,Male,No,5,1
-Bachelors,2017,New Delhi,2,27,Female,No,5,0
 PHD,2014,Bangalore,3,28,Female,No,0,0
-Bachelors,2013,Pune,2,25,Male,No,3,1
-Bachelors,2017,Pune,3,28,Male,No,3,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 Bachelors,2013,Bangalore,2,24,Female,No,2,1
-Masters,2017,New Delhi,2,25,Male,No,3,0
-Bachelors,2014,Pune,3,24,Male,No,2,0
 Bachelors,2013,New Delhi,1,25,Female,No,3,1
-Bachelors,2015,Pune,3,28,Male,No,2,0
 Masters,2017,New Delhi,3,28,Male,No,1,1
-Bachelors,2017,New Delhi,2,27,Female,No,5,0
-Bachelors,2018,Pune,3,24,Male,No,2,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2017,Bangalore,3,27,Female,Yes,5,0
 Masters,2017,New Delhi,1,26,Female,No,4,1
 Masters,2017,Bangalore,2,26,Female,No,4,0
-Bachelors,2013,Pune,3,26,Male,No,4,0
 Masters,2014,New Delhi,1,25,Female,No,3,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,28,Female,No,5,0
 Masters,2012,New Delhi,3,25,Male,No,3,1
-Bachelors,2013,Bangalore,3,28,Male,No,2,1
 Bachelors,2014,Bangalore,1,25,Male,No,3,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
 Bachelors,2013,Pune,3,28,Male,No,0,0
-Bachelors,2015,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2014,Pune,1,28,Female,No,3,1
-Masters,2017,Pune,2,25,Female,No,3,1
 Masters,2013,New Delhi,3,28,Female,No,2,0
 Masters,2017,Bangalore,2,27,Female,No,5,1
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,New Delhi,3,26,Female,No,4,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Masters,2017,New Delhi,2,28,Female,No,3,0
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
-Bachelors,2013,Pune,2,27,Female,No,5,1
 Masters,2015,Bangalore,3,27,Female,No,5,0
 Masters,2017,Pune,3,27,Female,No,5,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,25,Female,No,3,0
-Bachelors,2016,Bangalore,3,26,Female,No,4,0
-Bachelors,2016,Bangalore,3,26,Female,No,4,0
-Bachelors,2014,New Delhi,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,28,Male,No,3,0
-Bachelors,2012,Pune,3,25,Male,No,3,0
 Masters,2014,Bangalore,3,28,Female,No,3,1
-Bachelors,2016,New Delhi,3,26,Male,No,4,0
-Bachelors,2012,New Delhi,3,24,Female,No,2,0
 Bachelors,2015,Pune,2,28,Female,No,4,1
-Bachelors,2017,New Delhi,2,24,Male,No,2,0
-Bachelors,2015,New Delhi,3,25,Male,No,3,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,28,Female,No,3,1
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
-Masters,2017,New Delhi,2,26,Female,No,4,0
 Bachelors,2016,Bangalore,3,25,Male,Yes,3,1
-Bachelors,2016,Bangalore,3,26,Male,Yes,4,0
 Masters,2017,Bangalore,2,24,Female,No,2,0
-Bachelors,2017,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2014,Pune,2,27,Female,No,5,1
 Masters,2017,New Delhi,1,24,Female,No,2,0
-Bachelors,2014,Bangalore,3,28,Male,No,1,0
-Bachelors,2013,Pune,3,26,Male,No,4,0
 Bachelors,2014,Pune,3,28,Male,No,0,0
 Masters,2013,New Delhi,3,28,Male,No,1,0
-Masters,2017,Pune,2,27,Female,No,5,0
 Bachelors,2017,Pune,3,28,Male,No,1,0
-Bachelors,2016,New Delhi,3,26,Female,No,4,0
 PHD,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2013,Pune,3,25,Male,No,3,0
 Masters,2017,Pune,3,25,Male,No,3,0
-Bachelors,2017,Pune,2,24,Female,No,2,1
 Bachelors,2017,New Delhi,3,24,Female,No,2,0
 PHD,2014,Pune,3,24,Male,No,2,0
 PHD,2017,Bangalore,3,24,Female,No,2,0
-Masters,2017,New Delhi,2,26,Male,No,4,1
-Bachelors,2013,Pune,2,24,Male,Yes,2,1
-PHD,2016,New Delhi,3,27,Female,No,5,0
 Masters,2017,New Delhi,2,25,Female,Yes,3,1
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2017,New Delhi,3,25,Female,No,3,0
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
-Bachelors,2016,Bangalore,3,26,Male,Yes,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,27,Female,Yes,5,1
 Bachelors,2016,Pune,3,28,Female,No,2,1
-Masters,2017,New Delhi,2,27,Female,No,5,1
-Bachelors,2018,Bangalore,3,25,Female,No,3,1
-Bachelors,2014,Pune,3,27,Male,Yes,5,0
-Bachelors,2014,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2015,New Delhi,3,25,Female,No,3,0
-Masters,2017,Bangalore,3,26,Female,No,4,0
-Masters,2018,New Delhi,3,25,Male,No,3,1
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
-Bachelors,2014,Bangalore,3,28,Male,No,1,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,28,Female,No,3,0
-Bachelors,2015,Pune,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,New Delhi,3,25,Female,No,3,0
 Masters,2017,New Delhi,1,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,25,Female,No,3,0
 Bachelors,2013,Pune,2,26,Male,Yes,4,0
 Bachelors,2018,Pune,1,26,Male,Yes,4,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,24,Female,No,2,0
 PHD,2017,New Delhi,3,28,Male,No,3,0
 Bachelors,2017,New Delhi,2,24,Female,No,2,1
-Bachelors,2015,Bangalore,3,25,Female,No,3,0
-Bachelors,2015,Pune,3,26,Male,No,4,0
-Masters,2014,Bangalore,3,27,Male,No,5,1
-Bachelors,2012,Pune,3,24,Female,No,2,1
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Bachelors,2013,Bangalore,3,24,Female,No,2,0
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
-Masters,2017,New Delhi,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
-Bachelors,2015,Pune,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,24,Male,Yes,2,0
 Masters,2015,Pune,2,28,Female,No,0,0
 Bachelors,2017,Pune,3,26,Male,Yes,4,0
-Bachelors,2018,Bangalore,3,27,Female,No,5,1
 Masters,2017,Pune,3,27,Male,No,5,1
 Bachelors,2013,Bangalore,1,27,Female,No,5,0
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
-Bachelors,2013,Pune,3,28,Male,No,1,0
 Bachelors,2017,Pune,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Bangalore,3,25,Female,No,3,0
-Bachelors,2015,Pune,3,24,Female,No,2,1
 Bachelors,2014,New Delhi,3,28,Male,No,1,0
 Bachelors,2017,New Delhi,2,28,Female,No,2,0
-Masters,2015,New Delhi,3,26,Male,No,4,1
 PHD,2014,New Delhi,3,25,Male,No,3,0
-Bachelors,2013,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Bachelors,2013,New Delhi,2,24,Female,No,2,1
-Bachelors,2014,Pune,3,25,Male,No,3,0
-Bachelors,2017,New Delhi,3,25,Female,No,3,0
 Masters,2017,New Delhi,2,24,Male,Yes,2,1
-Bachelors,2015,New Delhi,3,28,Female,No,2,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,1
-Bachelors,2015,Pune,3,26,Male,No,4,0
-Bachelors,2017,Pune,2,27,Female,No,5,1
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
 Bachelors,2014,Bangalore,2,26,Female,No,4,1
-Masters,2017,New Delhi,2,25,Female,No,3,0
-Bachelors,2012,New Delhi,3,25,Female,No,3,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,New Delhi,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,25,Female,No,3,1
 Bachelors,2016,Pune,3,27,Female,No,5,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,0
 Bachelors,2014,Pune,2,28,Female,No,1,1
 Bachelors,2017,Bangalore,2,28,Female,No,2,1
 Bachelors,2017,New Delhi,2,26,Female,No,4,1
-Bachelors,2013,Pune,2,27,Female,No,5,1
 Bachelors,2012,Bangalore,3,24,Female,No,2,0
-Masters,2017,Pune,2,27,Female,No,5,0
 Bachelors,2015,New Delhi,3,24,Male,No,2,0
 Bachelors,2013,New Delhi,3,28,Female,Yes,2,0
-Bachelors,2016,New Delhi,3,28,Male,No,0,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2018,Bangalore,3,27,Male,Yes,5,1
-Bachelors,2015,Bangalore,3,25,Male,No,3,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2018,Pune,3,24,Male,Yes,2,1
 Bachelors,2017,Bangalore,3,26,Male,Yes,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Bachelors,2012,Bangalore,3,26,Male,Yes,4,0
 Masters,2017,Bangalore,2,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,25,Female,No,3,0
-Masters,2013,Pune,3,25,Male,No,3,0
-Masters,2016,New Delhi,3,27,Male,No,5,1
-Bachelors,2014,Bangalore,3,28,Female,No,1,0
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-PHD,2013,Bangalore,2,25,Male,No,3,1
-Bachelors,2017,New Delhi,3,25,Male,No,3,0
-Bachelors,2015,Bangalore,3,24,Male,No,2,0
 Masters,2015,Bangalore,3,26,Female,No,4,1
-Bachelors,2013,Bangalore,3,25,Female,No,3,0
 Bachelors,2015,New Delhi,2,24,Female,No,2,1
 Masters,2015,New Delhi,2,27,Female,No,5,1
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,25,Male,No,3,0
 PHD,2017,New Delhi,3,24,Male,No,2,0
 Masters,2015,Bangalore,3,27,Male,No,5,1
 Bachelors,2015,New Delhi,2,28,Female,No,1,1
 Bachelors,2014,Bangalore,3,28,Male,No,2,1
-Bachelors,2014,Bangalore,3,25,Male,Yes,3,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Masters,2017,New Delhi,1,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2013,Bangalore,3,28,Male,No,0,0
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
 Bachelors,2012,Bangalore,3,28,Female,No,1,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Masters,2017,New Delhi,2,28,Male,No,3,0
-Bachelors,2013,Pune,3,24,Female,No,2,1
-Masters,2017,New Delhi,2,24,Male,No,2,1
-Bachelors,2014,Bangalore,3,28,Female,No,1,1
-Bachelors,2018,Bangalore,3,25,Male,No,3,1
 Masters,2012,New Delhi,3,27,Female,No,5,0
 Masters,2014,New Delhi,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,28,Male,No,5,0
-Bachelors,2017,Pune,3,28,Female,No,1,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
 Bachelors,2016,New Delhi,3,24,Male,Yes,2,0
-Masters,2018,New Delhi,3,28,Male,Yes,2,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
-Masters,2013,New Delhi,3,25,Male,No,3,1
 Masters,2017,Bangalore,3,28,Female,No,0,1
-PHD,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2017,Bangalore,1,24,Male,No,2,0
-Bachelors,2017,New Delhi,2,25,Male,No,3,0
-Masters,2015,Pune,2,28,Female,No,0,0
-Bachelors,2014,Pune,2,27,Female,No,5,1
-Bachelors,2014,Bangalore,3,25,Male,No,3,0
 Bachelors,2017,Pune,3,27,Male,Yes,5,0
-Bachelors,2017,Bangalore,3,28,Male,No,2,0
-Bachelors,2014,Bangalore,3,28,Male,No,1,0
-Bachelors,2014,New Delhi,3,28,Female,No,3,0
 Bachelors,2015,New Delhi,2,29,Female,No,1,1
 Bachelors,2012,Bangalore,3,29,Male,No,1,0
-Bachelors,2017,Pune,2,26,Male,No,4,0
 Bachelors,2015,Pune,3,28,Female,No,2,1
-Bachelors,2016,Pune,3,26,Male,No,4,0
 Masters,2017,New Delhi,3,26,Female,No,4,0
-Bachelors,2013,Pune,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,28,Male,No,1,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Pune,3,28,Female,Yes,2,1
 Bachelors,2017,New Delhi,3,28,Female,No,1,0
-Bachelors,2016,New Delhi,3,27,Female,Yes,5,0
 Bachelors,2018,Pune,3,27,Male,No,5,1
 Bachelors,2014,Bangalore,3,29,Male,Yes,2,0
-Bachelors,2015,Pune,2,28,Female,No,2,1
 Bachelors,2017,Pune,3,26,Female,No,4,1
-Masters,2017,New Delhi,3,28,Male,No,2,0
-Bachelors,2017,Pune,3,26,Male,No,4,0
-Bachelors,2017,Pune,3,26,Female,No,4,1
-Bachelors,2018,Bangalore,3,26,Female,Yes,4,1
 Bachelors,2014,Pune,3,30,Male,No,2,0
 Masters,2017,New Delhi,3,29,Male,No,2,1
-Masters,2017,Pune,2,26,Female,No,4,0
-Masters,2015,New Delhi,3,28,Female,No,2,0
 Bachelors,2016,Bangalore,3,30,Female,No,2,1
 Bachelors,2012,Bangalore,3,26,Female,No,4,1
 Bachelors,2014,Bangalore,3,29,Male,No,1,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2018,Bangalore,3,26,Male,Yes,4,1
 PHD,2018,New Delhi,2,29,Female,No,1,1
-Masters,2013,New Delhi,3,26,Male,No,4,1
 Masters,2015,Pune,3,30,Female,No,2,0
-Bachelors,2018,Pune,3,26,Male,No,4,1
 Masters,2013,New Delhi,2,29,Female,No,2,1
 Bachelors,2016,Bangalore,3,29,Male,No,2,0
-Bachelors,2013,Bangalore,3,28,Male,Yes,1,0
-Bachelors,2017,Pune,2,26,Female,No,4,1
 Masters,2017,Pune,2,30,Female,No,2,0
 Bachelors,2015,Pune,2,30,Female,Yes,1,1
 Masters,2017,New Delhi,2,29,Female,No,2,1
 Bachelors,2015,Bangalore,3,30,Male,No,2,0
-Bachelors,2015,Bangalore,3,27,Female,No,5,1
-Bachelors,2017,Pune,3,27,Female,No,5,1
 Bachelors,2014,Bangalore,3,30,Male,No,2,0
-Bachelors,2014,Bangalore,3,26,Female,No,4,0
-Masters,2013,New Delhi,3,26,Male,No,4,0
 Bachelors,2013,New Delhi,3,29,Female,No,1,1
-Bachelors,2018,New Delhi,3,27,Female,No,5,1
-Bachelors,2014,Bangalore,3,29,Male,No,1,0
-Bachelors,2017,Pune,3,26,Female,No,4,1
 Masters,2015,Bangalore,2,27,Female,Yes,5,1
 Masters,2017,New Delhi,2,29,Female,No,2,0
-Masters,2017,Bangalore,3,26,Female,No,4,0
-Bachelors,2015,Bangalore,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,1
-Bachelors,2014,New Delhi,3,28,Female,No,2,0
 Bachelors,2012,Bangalore,3,29,Male,No,1,1
-Bachelors,2016,New Delhi,3,28,Female,No,2,0
-Masters,2012,New Delhi,3,26,Female,No,4,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Pune,3,28,Male,No,2,0
 Bachelors,2012,Bangalore,2,27,Female,No,5,1
-Bachelors,2018,Bangalore,3,28,Male,No,1,1
-Bachelors,2015,Pune,2,26,Female,No,4,1
 PHD,2016,Bangalore,3,29,Female,No,1,0
 Masters,2018,Bangalore,3,30,Female,No,2,1
-Bachelors,2014,Bangalore,3,28,Female,No,2,0
 Masters,2017,New Delhi,2,30,Male,No,2,0
 Bachelors,2012,Bangalore,3,30,Male,No,1,0
-Masters,2017,New Delhi,2,30,Male,No,2,0
-Bachelors,2017,New Delhi,3,26,Male,No,4,0
-Bachelors,2017,Bangalore,3,28,Female,No,2,0
 Masters,2013,New Delhi,3,26,Female,No,4,0
 PHD,2015,New Delhi,1,29,Male,No,2,0
-Masters,2017,New Delhi,2,27,Female,No,5,1
 Bachelors,2016,Pune,3,30,Male,No,1,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,1
 Bachelors,2014,Pune,2,29,Female,No,2,1
 Bachelors,2016,Bangalore,3,30,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Female,No,5,0
 PHD,2015,New Delhi,2,29,Female,Yes,1,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 Bachelors,2018,Bangalore,3,30,Male,No,2,1
 Masters,2017,Pune,2,29,Female,No,2,0
 Masters,2016,Bangalore,3,29,Female,No,2,0
-Bachelors,2017,Bangalore,3,27,Female,No,5,1
-Bachelors,2017,Bangalore,3,28,Male,No,2,0
-Bachelors,2017,Bangalore,3,27,Female,No,5,0
 Bachelors,2012,New Delhi,3,29,Male,No,1,0
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,28,Female,No,1,1
 Bachelors,2013,Pune,2,29,Female,No,1,1
-Bachelors,2015,Bangalore,1,27,Male,No,5,0
 Bachelors,2016,Bangalore,3,30,Male,No,1,0
 Bachelors,2013,New Delhi,3,30,Female,No,1,0
-Masters,2017,Pune,2,27,Male,No,5,1
 Masters,2017,Pune,2,29,Male,No,2,0
 Bachelors,2016,New Delhi,3,29,Female,No,1,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,New Delhi,3,28,Female,Yes,1,0
-Bachelors,2013,Pune,2,28,Female,No,1,1
 Bachelors,2016,Bangalore,3,27,Female,Yes,5,0
-Bachelors,2017,Bangalore,3,26,Male,No,4,1
 Bachelors,2014,New Delhi,3,30,Male,No,2,1
 Bachelors,2015,Pune,2,30,Male,No,2,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Pune,3,26,Female,No,4,1
 Bachelors,2014,New Delhi,3,30,Male,No,1,0
-Masters,2017,Pune,2,26,Male,No,4,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-PHD,2017,Pune,3,28,Male,No,1,0
 Bachelors,2015,New Delhi,3,30,Female,No,2,0
-Bachelors,2016,Bangalore,3,29,Male,No,2,0
-Bachelors,2012,Bangalore,3,28,Male,No,2,0
 Bachelors,2014,Bangalore,1,30,Male,Yes,2,1
-Bachelors,2013,Bangalore,3,27,Male,No,5,1
 Masters,2017,Pune,2,30,Male,No,2,0
 Bachelors,2012,Bangalore,3,30,Male,No,2,0
-Masters,2017,New Delhi,2,26,Male,No,4,0
-Bachelors,2014,Pune,2,26,Male,No,4,0
 Bachelors,2013,Bangalore,3,29,Female,No,1,1
 Bachelors,2015,Pune,3,29,Female,No,2,1
-Bachelors,2013,Bangalore,3,28,Female,No,1,0
 Masters,2016,Bangalore,3,29,Male,No,1,0
 Masters,2016,New Delhi,3,26,Female,No,4,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Pune,3,26,Male,No,4,0
 Masters,2015,New Delhi,1,27,Male,Yes,5,1
 Bachelors,2012,Bangalore,3,28,Male,No,1,1
-Masters,2017,Pune,2,27,Male,No,5,0
 Masters,2015,Pune,2,29,Female,No,2,0
-Bachelors,2012,Bangalore,3,28,Male,No,2,0
 Bachelors,2012,Pune,2,28,Male,No,2,1
-Bachelors,2015,Pune,2,27,Female,No,5,1
 Masters,2017,Pune,2,29,Female,No,1,0
-Bachelors,2014,Pune,2,28,Female,No,1,1
 Masters,2012,New Delhi,1,29,Female,No,1,0
 Bachelors,2015,Bangalore,3,30,Female,No,2,0
 Masters,2017,Bangalore,2,26,Male,Yes,4,1
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,Bangalore,1,30,Male,No,1,0
 Masters,2017,New Delhi,3,30,Male,Yes,2,0
-Bachelors,2015,Pune,2,27,Female,Yes,5,1
 Bachelors,2016,Bangalore,3,28,Male,No,2,1
-Bachelors,2017,Pune,2,26,Female,No,4,1
-Masters,2015,New Delhi,2,26,Female,No,4,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
 PHD,2013,New Delhi,3,27,Female,Yes,5,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,1
 Bachelors,2013,New Delhi,3,29,Female,No,1,0
 Masters,2017,Pune,3,29,Male,No,2,0
 Bachelors,2016,Pune,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,Bangalore,3,29,Male,No,1,0
 Bachelors,2016,Pune,3,29,Male,No,2,0
 Masters,2016,New Delhi,3,26,Male,No,4,0
 Bachelors,2015,Bangalore,3,30,Female,No,1,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,27,Female,No,5,0
-Bachelors,2016,Bangalore,3,29,Male,No,2,0
 Bachelors,2016,Bangalore,3,29,Male,No,1,0
 Masters,2014,New Delhi,3,29,Male,No,1,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2012,Bangalore,1,27,Female,No,5,0
-Bachelors,2015,New Delhi,3,26,Female,No,4,0
 Bachelors,2015,Pune,1,28,Female,No,2,1
-Bachelors,2015,Pune,2,28,Female,No,1,1
 Bachelors,2018,Pune,2,28,Female,No,2,1
 Bachelors,2015,Pune,3,28,Female,Yes,1,1
 Bachelors,2015,Pune,3,29,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2014,Pune,2,27,Female,No,5,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,1
 Bachelors,2016,Bangalore,3,30,Male,Yes,1,0
 PHD,2015,New Delhi,3,28,Male,No,2,1
 Bachelors,2014,Pune,3,29,Male,No,2,0
 Bachelors,2015,Bangalore,3,29,Male,No,1,0
 Bachelors,2013,Pune,3,30,Male,No,2,0
-Bachelors,2013,Bangalore,3,28,Male,Yes,1,0
 Bachelors,2015,Pune,2,29,Female,No,2,1
 Bachelors,2017,Bangalore,3,30,Male,No,1,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 Masters,2017,New Delhi,2,27,Male,No,5,0
 Bachelors,2018,Bangalore,3,29,Male,No,1,1
 Masters,2012,New Delhi,1,30,Female,No,2,1
 Masters,2016,New Delhi,3,28,Female,No,2,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,28,Female,No,1,0
-Bachelors,2018,Pune,3,27,Male,No,5,1
 Bachelors,2014,Bangalore,3,29,Female,No,2,0
 PHD,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,29,Male,No,2,0
-Bachelors,2014,Bangalore,3,28,Male,No,2,0
-Bachelors,2014,Bangalore,3,26,Female,No,4,0
-Bachelors,2012,Bangalore,3,28,Male,No,2,0
 Masters,2018,Bangalore,3,28,Female,No,2,1
 Bachelors,2017,Bangalore,3,28,Female,No,1,0
 Bachelors,2015,Bangalore,3,28,Male,No,1,0
 Bachelors,2014,New Delhi,3,29,Female,No,1,0
-Masters,2017,New Delhi,3,28,Male,No,2,0
 Masters,2017,New Delhi,3,29,Male,No,1,0
 Bachelors,2014,Pune,2,29,Male,No,2,1
-Masters,2013,New Delhi,3,26,Male,No,4,1
 Bachelors,2014,Bangalore,3,30,Male,No,1,0
-Bachelors,2013,New Delhi,3,26,Female,No,4,0
 Bachelors,2014,Bangalore,1,29,Male,No,2,0
 Masters,2016,Pune,3,29,Male,No,2,0
 PHD,2016,Pune,1,28,Male,No,2,0
 PHD,2015,Bangalore,3,29,Male,No,2,0
-Bachelors,2014,Bangalore,3,28,Male,No,1,0
-Bachelors,2015,Pune,2,26,Female,Yes,4,1
-Bachelors,2015,Bangalore,3,28,Female,No,1,0
 Bachelors,2015,Pune,3,28,Male,Yes,2,0
-Bachelors,2016,New Delhi,3,26,Female,No,4,0
 Bachelors,2014,Bangalore,3,29,Male,No,1,1
 Bachelors,2013,Bangalore,2,30,Female,No,1,1
 Bachelors,2015,Bangalore,3,29,Male,Yes,1,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
 PHD,2017,New Delhi,3,29,Male,No,1,0
 Masters,2017,New Delhi,3,29,Male,No,2,0
-Bachelors,2015,Pune,2,30,Female,Yes,1,1
-Bachelors,2012,New Delhi,3,26,Female,No,4,0
 Bachelors,2013,Pune,3,30,Male,No,1,0
 Bachelors,2012,Bangalore,3,30,Female,No,1,1
-Bachelors,2015,New Delhi,3,26,Female,No,4,0
-Bachelors,2015,Pune,3,28,Female,Yes,2,1
-Bachelors,2014,Bangalore,3,29,Male,No,1,0
-Bachelors,2013,Pune,2,28,Female,No,1,1
 Bachelors,2016,Bangalore,3,28,Female,No,1,0
 Masters,2018,New Delhi,3,30,Female,No,2,1
 Bachelors,2018,Pune,3,29,Male,Yes,1,1
 Bachelors,2016,Bangalore,3,30,Female,Yes,2,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 Masters,2017,Pune,2,27,Male,Yes,5,1
-Masters,2017,Pune,2,26,Female,No,4,1
-Masters,2017,New Delhi,3,26,Male,No,4,1
 Bachelors,2017,Pune,2,30,Female,No,2,1
-Bachelors,2012,Bangalore,3,28,Male,No,1,0
-Bachelors,2014,Bangalore,3,28,Male,No,2,0
 PHD,2015,Bangalore,3,29,Female,No,1,0
-Masters,2015,New Delhi,3,26,Male,No,4,1
 Bachelors,2017,Pune,3,30,Male,No,2,0
-Bachelors,2014,New Delhi,3,28,Female,No,1,0
-Bachelors,2013,Bangalore,1,30,Male,No,1,0
-Bachelors,2016,Bangalore,3,27,Female,No,5,1
 Bachelors,2014,Pune,1,28,Male,No,1,0
 Bachelors,2015,Bangalore,3,30,Male,No,1,0
 Bachelors,2013,New Delhi,3,27,Male,No,5,0
-Bachelors,2017,Pune,2,27,Male,No,5,0
 Masters,2017,New Delhi,2,28,Male,No,1,1
-Masters,2017,New Delhi,2,27,Male,No,5,1
-Masters,2014,New Delhi,3,27,Male,No,5,0
 PHD,2014,New Delhi,2,27,Female,No,5,0
 Bachelors,2015,Bangalore,3,29,Male,No,2,0
-Bachelors,2012,Pune,3,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,30,Male,No,2,0
 Bachelors,2014,Bangalore,1,27,Female,No,5,0
 Bachelors,2014,Pune,1,26,Male,No,4,0
 Bachelors,2012,Bangalore,3,29,Male,Yes,2,0
 Bachelors,2012,New Delhi,3,30,Male,No,1,0
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
-Masters,2017,New Delhi,2,30,Female,No,2,0
 Masters,2018,New Delhi,3,29,Male,No,2,1
-Bachelors,2015,Bangalore,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Masters,2016,New Delhi,3,27,Male,Yes,5,1
-Bachelors,2014,Pune,1,26,Female,No,4,1
-Bachelors,2017,Pune,3,27,Male,Yes,5,0
 PHD,2013,New Delhi,3,30,Male,No,1,0
 Masters,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,New Delhi,3,26,Female,No,4,0
-Bachelors,2016,Pune,3,29,Male,No,2,0
 Bachelors,2018,Bangalore,3,29,Female,Yes,2,1
 Bachelors,2016,Bangalore,3,28,Male,No,1,0
 Masters,2012,Pune,3,30,Male,No,1,0
 Bachelors,2014,Bangalore,3,30,Female,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,1
 Bachelors,2014,Bangalore,3,29,Female,No,1,0
-Bachelors,2013,Pune,3,28,Male,No,2,0
-Bachelors,2014,Pune,3,29,Male,No,2,0
 Bachelors,2012,Bangalore,1,30,Female,No,2,0
-Bachelors,2018,Pune,3,28,Male,No,2,1
 Bachelors,2012,Bangalore,3,30,Female,Yes,2,0
 Masters,2017,New Delhi,2,30,Male,No,1,0
-Bachelors,2014,New Delhi,3,27,Female,No,5,0
 Masters,2014,New Delhi,3,29,Male,No,2,0
-Bachelors,2016,Bangalore,3,29,Male,No,2,0
 Bachelors,2014,Pune,2,28,Female,No,2,1
-Bachelors,2017,New Delhi,3,26,Male,No,4,0
-Bachelors,2018,Pune,3,28,Male,No,1,1
 Bachelors,2016,Pune,3,29,Male,No,1,0
-Bachelors,2015,Pune,3,26,Female,Yes,4,1
-Masters,2017,Bangalore,3,27,Male,No,5,1
-Masters,2017,New Delhi,2,26,Male,No,4,0
 Masters,2013,New Delhi,3,26,Female,No,4,1
 Bachelors,2017,Bangalore,3,29,Male,No,1,0
 Masters,2013,New Delhi,3,27,Female,No,5,0
 Bachelors,2012,Pune,2,30,Female,No,2,1
-Bachelors,2013,New Delhi,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,28,Female,No,1,1
-Bachelors,2013,New Delhi,3,27,Male,No,5,0
 Bachelors,2015,Pune,2,29,Female,Yes,2,1
-Bachelors,2012,Bangalore,1,27,Female,No,5,0
-Bachelors,2012,Bangalore,3,28,Male,No,2,0
-Bachelors,2015,New Delhi,3,26,Male,No,4,0
-Bachelors,2017,New Delhi,3,28,Female,No,1,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Masters,2014,Bangalore,3,28,Male,No,1,1
-Bachelors,2015,Bangalore,3,29,Male,No,1,0
-Bachelors,2017,New Delhi,3,27,Female,No,5,0
-Bachelors,2012,Bangalore,3,27,Male,Yes,5,0
-Masters,2017,New Delhi,2,30,Male,No,2,0
 Bachelors,2015,Bangalore,3,28,Female,No,2,0
 Masters,2017,Bangalore,1,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,27,Male,Yes,5,1
 Masters,2017,Pune,2,30,Male,No,1,0
-Bachelors,2013,Pune,3,29,Male,No,2,0
 Bachelors,2013,Pune,3,29,Male,No,2,0
 Bachelors,2012,Pune,3,27,Male,Yes,5,0
 Bachelors,2015,Pune,3,30,Female,No,1,1
-Bachelors,2015,Pune,2,29,Female,No,2,1
 Masters,2018,Pune,3,26,Male,No,4,1
 Masters,2013,Bangalore,2,29,Female,No,2,1
 Bachelors,2014,Bangalore,1,28,Male,No,2,1
-Bachelors,2015,Bangalore,3,30,Male,No,1,0
-Bachelors,2015,Pune,2,27,Female,No,5,1
 Bachelors,2014,Bangalore,3,28,Female,Yes,1,0
 Masters,2015,New Delhi,3,27,Male,No,5,0
-Masters,2017,New Delhi,2,26,Male,No,4,1
-Bachelors,2018,Bangalore,3,28,Male,No,1,1
-Bachelors,2015,New Delhi,3,28,Female,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Pune,1,26,Female,No,4,1
 Masters,2017,New Delhi,2,30,Male,Yes,2,0
-Bachelors,2015,Bangalore,3,28,Female,No,1,0
 Bachelors,2013,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,1
-Bachelors,2018,Bangalore,3,28,Male,No,2,1
-Masters,2017,New Delhi,2,28,Male,No,2,0
-Bachelors,2015,Bangalore,3,29,Male,No,2,0
 Bachelors,2012,New Delhi,3,30,Male,No,1,1
 Masters,2016,Pune,3,30,Male,No,1,0
 Bachelors,2014,Pune,3,30,Male,No,1,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
 Masters,2017,Bangalore,3,26,Male,No,4,1
-Bachelors,2012,New Delhi,3,27,Female,No,5,0
-Bachelors,2018,Bangalore,3,26,Female,Yes,4,1
 PHD,2014,Bangalore,3,27,Male,No,5,0
-Masters,2017,New Delhi,2,26,Male,Yes,4,1
 Bachelors,2013,Bangalore,3,30,Female,No,1,1
 Bachelors,2012,Bangalore,3,30,Female,No,2,0
-Masters,2018,New Delhi,3,26,Male,Yes,4,1
 Bachelors,2013,Bangalore,1,28,Female,No,1,0
-Bachelors,2017,Bangalore,3,30,Male,No,1,0
 Masters,2017,Pune,2,30,Female,No,2,1
-PHD,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2016,New Delhi,3,28,Female,No,2,0
 Bachelors,2015,Pune,2,29,Female,No,1,1
-Bachelors,2013,Bangalore,3,27,Female,No,5,0
-Masters,2014,Pune,3,27,Male,No,5,0
 Masters,2017,New Delhi,2,26,Female,Yes,4,1
 Masters,2017,New Delhi,2,30,Female,No,1,0
-Masters,2018,New Delhi,3,27,Female,No,5,1
 Bachelors,2017,Pune,2,29,Male,No,1,0
 Masters,2014,New Delhi,1,29,Male,No,1,0
 Bachelors,2015,Pune,2,30,Female,No,2,1
 Bachelors,2014,Bangalore,3,30,Male,No,2,1
 Masters,2018,New Delhi,1,30,Female,No,2,0
-Bachelors,2017,Bangalore,3,29,Male,No,1,0
-Bachelors,2016,Pune,3,28,Male,No,2,0
-Bachelors,2018,Bangalore,3,26,Female,No,4,1
 Bachelors,2014,Bangalore,1,28,Female,No,2,0
-Masters,2017,New Delhi,2,29,Female,No,2,0
-Masters,2013,New Delhi,3,26,Male,No,4,1
-Bachelors,2017,New Delhi,2,28,Female,No,1,0
 Bachelors,2016,Bangalore,3,30,Female,No,1,0
 PHD,2015,Pune,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,29,Male,No,2,0
-Bachelors,2014,Pune,2,28,Female,No,2,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Masters,2017,New Delhi,2,30,Female,Yes,2,0
 PHD,2013,New Delhi,3,30,Female,No,2,0
-Bachelors,2015,Bangalore,3,29,Male,No,2,0
-Bachelors,2017,Bangalore,3,28,Male,No,2,0
 Bachelors,2015,Bangalore,3,29,Male,No,2,1
-Bachelors,2015,Pune,1,26,Female,No,4,1
-Bachelors,2013,Bangalore,3,28,Male,No,1,0
-Bachelors,2015,Pune,2,29,Female,No,2,1
-Bachelors,2013,Bangalore,3,26,Male,Yes,4,0
 Masters,2014,Pune,3,30,Male,No,2,0
 Masters,2017,Pune,2,30,Male,Yes,2,0
-Bachelors,2017,Pune,3,27,Male,No,5,0
-Bachelors,2014,New Delhi,3,28,Female,Yes,2,0
-Bachelors,2014,New Delhi,3,27,Female,No,5,0
 Bachelors,2015,Pune,2,29,Female,Yes,1,1
-Bachelors,2013,Pune,3,26,Male,No,4,0
-Bachelors,2014,New Delhi,3,30,Male,No,1,0
-Bachelors,2013,Pune,2,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
-Masters,2017,New Delhi,2,27,Male,No,5,1
 Bachelors,2017,Pune,2,29,Female,No,1,1
-Masters,2017,New Delhi,2,28,Female,No,1,1
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
 Bachelors,2014,Bangalore,3,29,Female,No,1,1
-Bachelors,2012,Bangalore,3,28,Male,No,1,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,28,Female,No,1,0
 Masters,2015,Pune,2,30,Female,No,2,1
-Masters,2017,New Delhi,2,28,Male,No,2,0
 Masters,2015,Pune,2,29,Female,No,1,0
 Masters,2015,Bangalore,3,26,Male,No,4,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2017,Bangalore,3,29,Female,No,1,0
-Bachelors,2017,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2014,New Delhi,3,29,Female,No,2,0
-Bachelors,2017,New Delhi,3,27,Female,No,5,0
 Masters,2017,Pune,2,28,Female,No,2,0
 Masters,2013,New Delhi,3,27,Female,No,5,1
 Masters,2017,New Delhi,3,27,Male,Yes,5,1
 Bachelors,2013,Bangalore,3,30,Male,No,2,0
-Bachelors,2015,Pune,2,27,Female,Yes,5,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Bangalore,2,27,Female,No,5,1
 Bachelors,2015,Bangalore,3,30,Male,No,2,1
-Masters,2017,Bangalore,2,27,Male,No,5,0
 Bachelors,2017,Bangalore,3,30,Male,No,2,1
 Bachelors,2016,Pune,2,30,Female,No,2,1
 Masters,2016,Pune,1,27,Female,No,5,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Pune,3,29,Female,No,2,1
-Bachelors,2013,New Delhi,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,29,Female,No,2,1
-Bachelors,2013,Pune,3,28,Male,No,2,0
 Bachelors,2013,Pune,2,27,Male,No,5,1
 Masters,2014,New Delhi,3,28,Male,No,1,1
 Bachelors,2016,New Delhi,3,27,Female,No,5,1
 Bachelors,2016,New Delhi,3,29,Female,Yes,2,0
-Masters,2018,New Delhi,1,26,Female,No,4,1
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
-Bachelors,2013,Pune,2,27,Female,No,5,1
-Bachelors,2014,New Delhi,3,28,Female,No,2,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2016,Bangalore,3,29,Female,No,1,0
 Bachelors,2012,Bangalore,3,29,Female,No,1,0
 Bachelors,2018,Bangalore,3,29,Male,Yes,2,1
 Bachelors,2012,Pune,3,30,Male,No,1,0
 Bachelors,2013,Bangalore,3,30,Male,Yes,1,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,New Delhi,3,29,Female,Yes,1,0
 Bachelors,2014,Bangalore,3,30,Female,No,1,0
 Bachelors,2014,Pune,1,28,Male,No,2,0
@@ -2450,43 +1181,20 @@ Bachelors,2015,Pune,3,27,Female,No,5,0
 Bachelors,2016,Bangalore,3,30,Male,No,1,1
 Bachelors,2016,Pune,3,26,Female,No,4,1
 Bachelors,2018,New Delhi,3,27,Female,Yes,5,1
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Masters,2017,New Delhi,2,27,Male,No,5,1
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2017,Pune,3,26,Female,No,4,1
 Bachelors,2012,Pune,1,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 PHD,2017,Bangalore,3,28,Female,No,1,0
 Bachelors,2015,Pune,3,29,Female,No,1,1
 Masters,2014,New Delhi,3,30,Male,Yes,2,0
-Bachelors,2013,Pune,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Pune,3,28,Male,No,1,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,New Delhi,3,26,Male,No,4,0
 Masters,2012,New Delhi,3,30,Male,No,2,0
-PHD,2013,New Delhi,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 Bachelors,2018,Bangalore,3,30,Male,Yes,1,1
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
 Masters,2017,New Delhi,3,29,Female,No,2,0
 Bachelors,2014,Bangalore,3,29,Male,No,2,0
 Bachelors,2017,New Delhi,3,28,Male,No,1,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Bachelors,2018,Bangalore,3,27,Female,No,5,1
 Bachelors,2014,Bangalore,1,28,Male,No,1,0
-Bachelors,2016,Bangalore,3,28,Male,No,1,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2012,Pune,3,26,Male,No,4,0
-Bachelors,2015,Bangalore,3,28,Male,No,2,0
-Bachelors,2014,Bangalore,3,28,Male,No,1,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
 PHD,2012,New Delhi,1,29,Female,No,2,0
 Bachelors,2013,Bangalore,3,30,Female,No,2,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Bachelors,2014,Pune,3,28,Male,No,1,0
 Masters,2013,New Delhi,2,26,Male,No,4,1
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2013,Pune,3,27,Female,No,5,0
 PHD,2015,New Delhi,3,28,Male,No,2,0
 Masters,2017,Pune,2,28,Male,No,2,0
@@ -2494,158 +1202,85 @@ Bachelors,2014,Pune,3,28,Male,No,4,0
 Bachelors,2016,Bangalore,3,29,Female,No,1,1
 Bachelors,2017,Bangalore,3,26,Female,No,4,1
 Bachelors,2015,Bangalore,3,30,Male,No,0,0
-Masters,2012,New Delhi,3,30,Male,No,2,0
 Bachelors,2012,Bangalore,1,30,Female,No,0,0
-Bachelors,2014,New Delhi,3,27,Female,No,5,0
-Bachelors,2017,New Delhi,2,28,Female,No,0,0
-Bachelors,2012,Pune,3,26,Male,No,4,0
 Bachelors,2015,Pune,3,29,Female,No,3,1
 Masters,2017,Pune,2,30,Male,No,0,1
-Bachelors,2013,New Delhi,3,26,Male,No,4,0
 Masters,2014,Pune,3,30,Male,No,0,1
 Bachelors,2013,Pune,3,29,Male,Yes,2,0
-Bachelors,2017,Bangalore,3,28,Male,No,3,0
 Masters,2018,New Delhi,3,27,Male,Yes,5,1
-Masters,2017,New Delhi,2,26,Female,Yes,4,1
 Bachelors,2012,Bangalore,3,30,Female,No,0,1
 Bachelors,2012,Bangalore,3,29,Female,No,4,0
-Bachelors,2014,Bangalore,3,29,Male,No,1,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,Bangalore,3,28,Male,Yes,4,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2016,Pune,3,29,Male,No,5,0
 Bachelors,2014,Bangalore,3,29,Male,No,0,0
 Masters,2013,Bangalore,3,30,Male,No,5,1
 Bachelors,2017,New Delhi,3,30,Female,Yes,3,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 PHD,2015,Pune,2,30,Female,No,4,0
 Masters,2014,Bangalore,3,30,Male,No,4,1
-Masters,2017,New Delhi,2,27,Male,No,5,1
 Bachelors,2013,Pune,3,30,Male,No,0,0
 Masters,2017,Pune,2,30,Male,No,0,0
-Masters,2017,New Delhi,2,29,Female,No,2,0
 Masters,2017,New Delhi,2,29,Male,No,2,0
 Bachelors,2014,Bangalore,1,27,Male,No,5,1
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Masters,2018,New Delhi,3,30,Female,No,4,1
 Bachelors,2015,Bangalore,3,29,Female,No,1,0
 Bachelors,2014,Pune,3,26,Female,No,4,1
 Masters,2016,Pune,3,28,Male,No,2,0
 Bachelors,2015,New Delhi,3,28,Female,No,4,0
-Bachelors,2015,Bangalore,3,30,Male,No,0,0
-Bachelors,2014,Bangalore,3,28,Female,No,3,0
 Bachelors,2017,Bangalore,3,28,Male,No,4,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Bangalore,3,28,Female,No,0,0
-Bachelors,2015,Pune,2,28,Female,No,2,1
 Masters,2013,Pune,3,27,Female,Yes,5,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,1
 Bachelors,2012,Pune,3,29,Male,No,1,0
 Bachelors,2015,Pune,2,28,Female,No,0,1
 Bachelors,2018,Pune,3,30,Male,Yes,3,1
 Bachelors,2016,Bangalore,3,29,Male,No,5,0
-Masters,2013,New Delhi,2,27,Female,No,5,1
-Masters,2017,New Delhi,2,30,Male,No,2,0
-Bachelors,2012,New Delhi,3,26,Male,No,4,0
 Bachelors,2016,Bangalore,3,30,Male,No,2,1
 Bachelors,2017,New Delhi,2,29,Male,No,3,1
-Bachelors,2017,Pune,2,28,Male,No,3,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
 Bachelors,2013,Bangalore,3,29,Male,Yes,4,0
 Bachelors,2013,Bangalore,3,30,Male,No,5,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
 Bachelors,2012,Bangalore,3,29,Male,Yes,2,1
 Masters,2015,Bangalore,3,28,Male,No,0,1
-Bachelors,2014,New Delhi,3,29,Female,No,2,0
 Masters,2015,Pune,3,29,Female,No,4,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Pune,3,27,Female,No,5,1
 Bachelors,2017,Bangalore,3,30,Male,No,1,1
-Masters,2014,Pune,3,30,Male,No,2,0
-Bachelors,2015,New Delhi,3,28,Female,No,4,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
-Bachelors,2014,Bangalore,3,28,Male,No,5,0
 Bachelors,2017,Bangalore,1,28,Female,No,0,1
-Bachelors,2016,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2013,Bangalore,3,28,Male,No,5,0
 Masters,2013,New Delhi,3,30,Male,No,2,1
 Masters,2013,New Delhi,1,29,Female,No,2,1
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Pune,3,28,Male,No,3,0
 Bachelors,2013,Bangalore,3,29,Male,No,2,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
-Masters,2017,New Delhi,2,30,Female,No,2,0
 PHD,2013,New Delhi,3,27,Female,No,5,0
-Bachelors,2016,Pune,3,26,Male,No,4,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
 Bachelors,2016,Bangalore,3,28,Female,No,1,1
-Bachelors,2017,Pune,2,27,Female,No,5,1
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,1
-Bachelors,2016,Bangalore,3,27,Male,Yes,5,0
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
 Bachelors,2015,Pune,3,29,Male,No,1,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
-Bachelors,2017,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2015,Pune,3,30,Female,No,0,1
 Bachelors,2017,Bangalore,3,30,Male,No,3,0
 PHD,2012,New Delhi,3,29,Male,No,5,0
-Bachelors,2016,Pune,3,29,Male,No,5,0
 Bachelors,2014,Bangalore,3,26,Female,Yes,4,0
 PHD,2014,New Delhi,3,28,Female,No,0,0
-Bachelors,2018,Bangalore,3,28,Male,No,1,1
-Bachelors,2013,New Delhi,3,27,Female,Yes,5,0
-Bachelors,2013,Bangalore,3,28,Male,No,2,0
 Bachelors,2018,Bangalore,3,29,Male,No,0,1
 Bachelors,2016,Bangalore,3,29,Male,No,3,0
 Bachelors,2018,Pune,3,30,Female,No,2,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2014,Pune,3,29,Male,No,3,0
 Bachelors,2013,Pune,3,30,Male,No,4,0
 Masters,2015,New Delhi,3,29,Male,No,2,0
-Bachelors,2018,Pune,3,27,Male,No,5,1
-Bachelors,2016,Bangalore,3,28,Male,No,2,0
-Bachelors,2015,Bangalore,3,29,Male,No,1,0
 Bachelors,2016,Bangalore,3,30,Male,No,0,0
-Bachelors,2016,Bangalore,3,28,Female,No,1,0
-Bachelors,2017,New Delhi,3,26,Female,No,4,0
 Bachelors,2014,Pune,2,29,Female,No,1,1
-PHD,2013,New Delhi,3,30,Female,No,2,0
 Bachelors,2016,Bangalore,3,28,Male,Yes,3,0
-Bachelors,2015,Bangalore,3,28,Male,No,1,0
 Bachelors,2016,Pune,3,28,Male,No,5,0
 Bachelors,2017,Pune,2,28,Female,No,1,1
 Bachelors,2015,Bangalore,3,30,Male,No,4,0
 Masters,2012,New Delhi,3,27,Male,No,5,0
 Masters,2017,New Delhi,3,29,Female,Yes,2,0
 Bachelors,2018,New Delhi,3,29,Female,No,2,1
-Bachelors,2018,Bangalore,3,29,Male,No,0,1
 Bachelors,2012,Bangalore,3,28,Female,No,0,0
-Bachelors,2015,Pune,2,28,Female,No,0,1
-Masters,2017,New Delhi,2,27,Female,No,5,1
 Bachelors,2018,Pune,3,28,Female,No,5,1
-Bachelors,2016,Pune,3,28,Male,No,1,0
 Bachelors,2014,Bangalore,1,26,Male,No,4,1
 Bachelors,2014,New Delhi,2,29,Female,No,3,1
-Masters,2014,Pune,3,26,Male,No,4,1
-Bachelors,2017,Pune,3,27,Male,No,5,0
 Bachelors,2013,Pune,3,30,Male,No,4,1
 Bachelors,2015,Bangalore,3,30,Male,No,3,0
 Bachelors,2012,Bangalore,3,29,Male,No,2,1
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Masters,2017,New Delhi,2,30,Female,No,2,1
 Bachelors,2012,Pune,3,29,Male,No,0,0
 Bachelors,2015,Pune,1,30,Female,No,0,1
-Bachelors,2017,Bangalore,3,28,Male,No,3,0
-Bachelors,2013,Bangalore,3,28,Male,No,5,0
 Bachelors,2017,Pune,2,30,Female,No,4,1
 Bachelors,2017,Pune,2,28,Male,No,5,0
-Bachelors,2014,New Delhi,3,27,Female,No,5,1
-Bachelors,2012,Bangalore,3,28,Female,No,2,0
 Bachelors,2013,Bangalore,3,29,Female,No,5,0
 Bachelors,2012,Bangalore,3,27,Female,No,5,1
 Bachelors,2017,Pune,2,28,Female,No,3,1
@@ -2653,131 +1288,64 @@ Bachelors,2015,Bangalore,1,29,Male,No,4,0
 Bachelors,2013,Bangalore,2,30,Male,No,0,1
 PHD,2018,Bangalore,3,28,Male,No,2,1
 Bachelors,2015,Pune,3,28,Female,No,3,1
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,Bangalore,3,30,Female,No,3,1
 Bachelors,2012,Bangalore,3,29,Male,No,5,0
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
-Bachelors,2015,Bangalore,3,26,Female,No,4,0
-Bachelors,2016,Pune,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,27,Female,No,5,0
-Bachelors,2013,Pune,3,28,Male,No,0,0
 Bachelors,2014,Pune,3,29,Male,No,1,0
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
-Bachelors,2013,New Delhi,3,27,Female,No,5,0
 Bachelors,2017,Pune,3,30,Male,No,5,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
 Bachelors,2012,New Delhi,3,30,Female,Yes,3,0
 Bachelors,2013,Pune,2,30,Male,No,1,1
 PHD,2015,New Delhi,3,27,Female,No,5,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,27,Female,Yes,5,1
 Masters,2017,New Delhi,2,29,Male,No,1,0
 Bachelors,2013,New Delhi,3,28,Female,No,3,0
 Masters,2012,Pune,3,29,Male,No,4,1
-Bachelors,2014,New Delhi,3,28,Female,No,3,0
-Bachelors,2018,Bangalore,3,27,Male,Yes,5,1
-Bachelors,2012,Bangalore,3,29,Male,No,1,0
-Bachelors,2017,Pune,2,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,30,Male,No,2,1
 Bachelors,2014,New Delhi,3,29,Male,No,4,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Bachelors,2014,Bangalore,3,27,Female,No,5,0
-Masters,2013,New Delhi,2,26,Male,No,4,1
 Bachelors,2013,New Delhi,3,29,Female,No,2,0
 Bachelors,2016,Bangalore,2,30,Female,No,4,1
 Bachelors,2017,New Delhi,3,29,Female,No,0,0
 Bachelors,2018,Bangalore,3,28,Male,No,3,1
 Bachelors,2014,Bangalore,3,29,Male,No,4,0
-Masters,2017,New Delhi,2,30,Female,No,2,0
-Bachelors,2018,Bangalore,3,29,Male,Yes,2,1
-Bachelors,2017,New Delhi,2,28,Female,No,1,0
 Bachelors,2013,Bangalore,2,27,Female,No,5,1
-Bachelors,2015,Bangalore,3,30,Male,No,4,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Masters,2017,Bangalore,2,30,Male,No,3,0
 Masters,2017,New Delhi,2,29,Male,No,4,0
-Bachelors,2014,Bangalore,3,28,Male,No,3,0
-Masters,2017,New Delhi,3,27,Male,No,5,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,New Delhi,3,27,Male,No,5,0
 Bachelors,2016,Pune,3,30,Male,No,0,0
 Bachelors,2015,Bangalore,3,29,Female,No,0,0
-Bachelors,2015,Pune,2,27,Female,Yes,5,1
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Bachelors,2015,New Delhi,3,29,Male,No,1,0
 Bachelors,2017,Bangalore,3,30,Male,No,4,0
-PHD,2017,New Delhi,3,27,Male,No,5,0
 PHD,2013,Bangalore,3,27,Male,No,5,0
 Bachelors,2018,Bangalore,3,28,Male,Yes,1,1
-Bachelors,2013,Bangalore,3,29,Male,No,1,0
 Masters,2017,Pune,2,29,Female,Yes,2,1
-Bachelors,2015,Pune,3,27,Male,No,5,0
-Bachelors,2012,Bangalore,3,27,Female,No,5,0
-Masters,2018,Pune,3,26,Male,No,4,1
 Bachelors,2012,New Delhi,1,27,Female,No,5,1
-Masters,2017,Pune,2,27,Male,Yes,5,1
 Bachelors,2015,Pune,1,28,Female,No,0,1
 Bachelors,2014,Bangalore,3,29,Male,No,4,1
 Bachelors,2017,New Delhi,3,29,Female,No,3,0
 PHD,2015,Pune,2,26,Female,No,4,0
 Bachelors,2017,Bangalore,3,30,Female,No,5,0
-Bachelors,2016,Pune,3,26,Male,No,4,0
 Masters,2013,Pune,3,26,Male,No,4,1
 Bachelors,2012,Pune,2,29,Female,No,2,1
 Bachelors,2018,Bangalore,3,30,Male,Yes,2,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 Bachelors,2018,Bangalore,2,28,Female,No,3,1
 Bachelors,2012,Bangalore,3,28,Male,No,0,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2012,Bangalore,3,28,Female,Yes,0,0
-Masters,2014,New Delhi,3,28,Male,No,2,0
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
-Bachelors,2015,Pune,3,27,Male,No,5,0
 Bachelors,2016,Bangalore,3,28,Male,Yes,2,0
 Bachelors,2018,Pune,3,29,Male,Yes,3,1
 Bachelors,2014,New Delhi,3,29,Male,Yes,4,0
-Bachelors,2015,Bangalore,3,29,Male,No,1,0
 Masters,2018,Bangalore,3,27,Male,Yes,5,1
-Bachelors,2014,Bangalore,3,28,Male,No,5,0
-Masters,2017,Pune,2,27,Male,No,5,0
-Bachelors,2017,Pune,2,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,28,Male,No,4,0
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
 Bachelors,2017,Pune,3,29,Female,No,0,1
-Bachelors,2012,Bangalore,3,26,Female,No,4,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2017,Pune,2,26,Female,No,4,1
-Bachelors,2014,Bangalore,3,30,Male,No,1,0
 Bachelors,2018,Bangalore,3,29,Male,No,2,1
 Masters,2013,Bangalore,3,30,Male,No,2,1
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
-Bachelors,2016,New Delhi,3,26,Female,No,4,0
 Bachelors,2017,Bangalore,1,30,Male,No,1,0
 Bachelors,2015,New Delhi,3,30,Female,Yes,1,0
-Bachelors,2013,Pune,3,30,Male,No,0,0
-Bachelors,2015,Pune,3,27,Male,No,5,0
 Bachelors,2017,Pune,3,30,Female,No,1,1
 PHD,2018,New Delhi,3,30,Male,No,2,1
 Bachelors,2018,Bangalore,3,29,Male,Yes,1,1
 Bachelors,2013,Bangalore,3,30,Male,Yes,0,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,1
-Bachelors,2016,New Delhi,3,29,Female,Yes,2,0
 Bachelors,2013,Pune,3,28,Male,No,5,0
-Bachelors,2014,New Delhi,3,26,Male,No,4,0
 Bachelors,2015,Pune,2,30,Female,No,1,1
-Masters,2013,New Delhi,2,26,Male,No,4,1
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
 Masters,2012,Pune,3,27,Male,Yes,5,1
-Bachelors,2017,Bangalore,3,27,Female,No,5,0
 Bachelors,2013,Bangalore,3,30,Male,No,1,0
 Bachelors,2014,New Delhi,3,27,Male,No,5,0
 Masters,2013,Bangalore,3,30,Male,No,1,1
 Bachelors,2016,Bangalore,3,29,Male,No,2,1
-Bachelors,2016,Bangalore,3,28,Male,No,3,0
-Masters,2017,New Delhi,3,29,Female,No,2,0
-Bachelors,2014,New Delhi,3,26,Male,No,4,0
 Masters,2018,New Delhi,3,30,Male,No,2,1
 Masters,2014,Pune,3,27,Female,No,5,1
 Bachelors,2017,Pune,3,29,Male,No,0,0
@@ -2785,210 +1353,97 @@ Masters,2016,New Delhi,3,30,Male,No,2,0
 Masters,2017,New Delhi,3,30,Male,No,3,1
 Bachelors,2013,Pune,2,30,Female,No,1,1
 Masters,2014,New Delhi,3,28,Female,No,3,0
-Bachelors,2013,Pune,3,26,Male,No,4,0
 Bachelors,2017,Bangalore,1,30,Male,No,2,0
-Bachelors,2016,Bangalore,3,28,Male,Yes,3,0
 Bachelors,2013,Pune,1,30,Female,Yes,1,1
 Bachelors,2013,Bangalore,3,30,Female,No,5,0
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2015,Pune,3,27,Male,No,5,0
-Masters,2012,New Delhi,3,26,Female,No,4,0
-Bachelors,2013,Pune,2,26,Male,Yes,4,0
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
 PHD,2018,New Delhi,2,30,Female,No,4,1
 Bachelors,2017,Bangalore,3,29,Male,No,3,0
-Bachelors,2013,Bangalore,3,28,Male,No,1,0
 Bachelors,2012,Bangalore,3,28,Male,Yes,2,0
 Masters,2017,New Delhi,1,30,Male,No,2,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
 Masters,2013,Bangalore,1,29,Female,No,2,1
 Bachelors,2012,Pune,3,29,Male,No,5,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,Bangalore,3,29,Male,No,4,0
 Bachelors,2014,Bangalore,3,29,Male,No,3,1
 Bachelors,2018,Bangalore,3,28,Male,No,0,1
-Bachelors,2012,Bangalore,3,27,Male,No,5,1
-Bachelors,2017,New Delhi,2,26,Male,No,4,0
-Bachelors,2014,Pune,2,29,Female,No,1,1
-Bachelors,2017,Bangalore,3,29,Male,No,4,0
-Bachelors,2015,Pune,2,28,Female,No,3,1
-Bachelors,2017,Bangalore,3,28,Male,No,5,0
 Bachelors,2017,Bangalore,3,29,Male,No,0,0
-Bachelors,2017,Bangalore,3,30,Male,No,2,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Masters,2017,New Delhi,2,30,Female,No,2,0
 Bachelors,2015,Pune,2,29,Female,No,4,1
 Bachelors,2014,Pune,3,29,Female,No,1,1
-Bachelors,2012,Bangalore,3,28,Male,No,2,0
 Bachelors,2012,Bangalore,3,28,Female,No,4,0
 Bachelors,2017,Bangalore,3,29,Female,No,5,0
 Bachelors,2015,Bangalore,3,30,Male,Yes,3,0
-Masters,2012,Pune,3,26,Male,No,4,1
 Bachelors,2018,Bangalore,3,28,Male,No,5,1
 Bachelors,2017,New Delhi,3,30,Male,No,5,0
-Bachelors,2012,New Delhi,3,27,Female,No,5,0
-Bachelors,2017,New Delhi,3,26,Female,No,4,0
-Bachelors,2014,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2014,Bangalore,3,30,Male,No,0,0
 Bachelors,2014,New Delhi,3,30,Female,No,2,0
 Bachelors,2012,New Delhi,3,29,Female,No,5,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,Pune,2,29,Female,No,4,1
 Masters,2016,Pune,3,29,Male,No,4,1
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
-Masters,2017,New Delhi,3,26,Female,No,4,0
 Masters,2012,New Delhi,3,29,Male,No,2,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,0
-Bachelors,2012,Pune,3,26,Male,No,4,0
 Bachelors,2017,Bangalore,3,28,Female,No,2,1
 Bachelors,2013,New Delhi,3,30,Female,No,3,1
-Masters,2017,Pune,2,26,Female,No,4,1
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
-Masters,2017,New Delhi,2,28,Female,No,2,0
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
-PHD,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2013,Bangalore,3,30,Female,No,1,0
 Masters,2013,New Delhi,3,30,Male,No,0,1
 Masters,2018,New Delhi,3,26,Female,No,4,1
 Masters,2015,New Delhi,3,30,Male,No,2,0
 Bachelors,2012,Bangalore,3,29,Male,No,4,0
-Bachelors,2018,Bangalore,3,27,Male,Yes,5,1
 Masters,2017,Pune,2,28,Male,No,5,0
 Bachelors,2016,Pune,2,29,Male,No,3,1
-Bachelors,2015,Pune,2,27,Female,Yes,5,1
-Bachelors,2014,Bangalore,3,29,Male,No,4,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2018,Pune,3,28,Male,No,5,1
-Bachelors,2012,Bangalore,3,28,Female,No,0,0
-Masters,2017,Pune,2,28,Male,No,2,0
-Masters,2015,Pune,2,27,Female,No,5,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Bachelors,2014,Pune,3,29,Female,No,4,1
 Masters,2016,New Delhi,3,30,Male,No,3,0
-Bachelors,2014,Pune,1,26,Female,No,4,1
-Bachelors,2012,Pune,2,27,Female,No,5,1
 Bachelors,2017,Pune,3,30,Male,No,0,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
 Bachelors,2017,New Delhi,2,30,Male,No,4,0
 Bachelors,2017,New Delhi,2,28,Female,No,4,0
 PHD,2016,Bangalore,3,30,Female,No,5,0
-Bachelors,2018,Bangalore,3,28,Male,No,1,1
 Bachelors,2017,Pune,2,29,Male,No,3,0
 Bachelors,2017,New Delhi,2,30,Male,No,1,1
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Pune,3,30,Male,No,0,0
-Bachelors,2018,Bangalore,3,26,Male,Yes,4,1
-Bachelors,2015,New Delhi,3,28,Female,No,3,0
-Masters,2017,New Delhi,2,26,Female,Yes,4,1
 Bachelors,2016,Pune,2,30,Female,No,1,1
 Masters,2014,New Delhi,3,28,Male,No,0,0
-Bachelors,2015,Bangalore,3,28,Male,No,2,0
 Masters,2015,Pune,2,30,Female,No,1,0
-Masters,2017,New Delhi,2,27,Female,No,5,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Bachelors,2013,Pune,3,27,Male,No,5,0
-Bachelors,2016,Bangalore,3,30,Male,No,1,1
-Masters,2017,New Delhi,3,29,Male,No,2,0
 Bachelors,2012,Bangalore,3,30,Female,No,1,0
 Bachelors,2018,Bangalore,3,29,Male,No,3,1
 Masters,2018,Pune,3,29,Male,No,2,1
-Bachelors,2016,Bangalore,3,27,Female,No,5,0
 Bachelors,2017,New Delhi,2,28,Male,No,2,0
 Bachelors,2016,Bangalore,3,29,Female,No,0,1
 Bachelors,2016,New Delhi,1,29,Female,No,1,0
-Bachelors,2015,Pune,2,28,Female,No,0,1
-Bachelors,2012,Bangalore,3,29,Male,Yes,2,0
-PHD,2014,Bangalore,3,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2018,Bangalore,3,29,Female,No,3,1
-Masters,2017,New Delhi,2,30,Male,No,2,0
 Masters,2016,New Delhi,3,29,Female,No,1,1
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
 Bachelors,2015,Pune,3,28,Male,No,5,0
 Bachelors,2017,New Delhi,2,29,Female,No,5,0
-Bachelors,2014,Bangalore,3,30,Male,No,0,0
 Bachelors,2017,Bangalore,3,30,Male,No,0,0
-Bachelors,2014,Pune,3,28,Male,No,2,0
 Bachelors,2013,New Delhi,3,28,Female,No,1,0
-Bachelors,2016,New Delhi,3,26,Female,No,4,0
 Bachelors,2012,New Delhi,3,28,Female,No,0,0
-Bachelors,2017,Bangalore,3,29,Male,No,0,0
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Masters,2017,New Delhi,2,26,Male,No,4,1
-Bachelors,2017,New Delhi,3,26,Female,No,4,0
-Bachelors,2013,Bangalore,3,27,Male,No,5,1
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,Pune,2,29,Female,No,0,1
 Bachelors,2013,Pune,2,28,Female,No,4,1
-Bachelors,2017,Bangalore,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,28,Female,No,0,1
-Bachelors,2017,Bangalore,3,29,Male,No,1,0
 Bachelors,2013,Bangalore,3,29,Female,No,3,0
 Bachelors,2015,Bangalore,3,29,Male,No,5,0
 Bachelors,2017,New Delhi,3,30,Female,No,3,0
 Bachelors,2015,Pune,3,29,Male,No,0,0
 Bachelors,2013,Bangalore,3,27,Female,Yes,5,0
-Bachelors,2016,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,1
-Bachelors,2012,Bangalore,3,28,Male,No,2,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2018,Bangalore,3,29,Male,No,0,1
 Bachelors,2017,Bangalore,1,29,Female,No,5,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
 Masters,2017,Bangalore,2,27,Male,No,5,1
 Masters,2014,New Delhi,3,28,Female,No,2,0
 Bachelors,2012,New Delhi,3,27,Female,No,5,1
 Bachelors,2012,Bangalore,3,28,Male,No,0,0
-Masters,2017,Pune,2,27,Male,No,5,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,New Delhi,3,27,Female,No,5,1
 Bachelors,2013,Bangalore,2,26,Female,No,4,1
-Bachelors,2012,Pune,2,27,Female,No,5,1
-Bachelors,2016,Pune,3,26,Female,No,4,1
-Bachelors,2017,New Delhi,2,27,Male,No,5,0
 Bachelors,2012,Bangalore,3,28,Female,No,3,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 Masters,2017,New Delhi,3,27,Male,No,5,0
 Bachelors,2013,Pune,2,30,Female,No,5,1
-Bachelors,2013,Pune,3,28,Male,No,0,0
-Bachelors,2012,Pune,3,26,Male,No,4,0
-Bachelors,2016,Bangalore,3,28,Male,No,3,1
 Masters,2015,Pune,3,26,Male,No,4,1
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Masters,2017,Bangalore,2,26,Male,No,4,1
-Bachelors,2014,Bangalore,3,30,Female,No,2,0
-Bachelors,2014,Bangalore,3,29,Female,No,2,0
-Bachelors,2017,Pune,3,26,Male,Yes,4,0
-Bachelors,2013,Bangalore,3,28,Male,No,0,0
-Bachelors,2018,Bangalore,3,29,Male,No,1,1
 Bachelors,2016,Bangalore,3,30,Female,No,3,0
 Bachelors,2017,Bangalore,3,30,Male,No,0,1
 PHD,2015,New Delhi,3,29,Male,No,4,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Bachelors,2014,Bangalore,1,28,Female,No,5,0
 Bachelors,2014,Pune,3,30,Male,No,0,0
 Masters,2012,Bangalore,3,26,Female,No,4,1
 Bachelors,2013,New Delhi,2,26,Female,No,4,1
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
 Bachelors,2016,New Delhi,3,29,Female,No,0,0
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
 Masters,2018,New Delhi,3,28,Female,No,2,1
 PHD,2015,New Delhi,2,27,Female,No,5,0
 Masters,2013,Pune,1,30,Male,No,1,0
-Bachelors,2012,Pune,3,26,Male,No,4,0
-Bachelors,2015,Pune,2,26,Female,Yes,4,1
 Bachelors,2018,New Delhi,3,30,Female,Yes,3,1
 PHD,2013,New Delhi,3,30,Male,No,5,0
-Bachelors,2013,Bangalore,3,28,Male,No,0,0
 Masters,2014,New Delhi,3,26,Male,Yes,4,1
-Bachelors,2017,Bangalore,3,29,Male,No,1,0
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
-Bachelors,2012,Pune,3,26,Male,No,4,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Bachelors,2015,Pune,3,29,Male,No,0,0
-Bachelors,2014,Bangalore,1,26,Male,No,4,0
 Bachelors,2018,Bangalore,3,36,Male,No,2,1
 Bachelors,2018,Bangalore,3,37,Male,No,4,1
 Bachelors,2015,Pune,3,35,Female,No,0,1
@@ -3048,7 +1503,6 @@ Bachelors,2013,Bangalore,3,37,Female,No,5,0
 Masters,2017,New Delhi,2,35,Female,No,2,1
 Bachelors,2017,Bangalore,3,36,Male,No,5,0
 Masters,2013,New Delhi,3,41,Male,No,0,0
-Bachelors,2017,Bangalore,3,33,Male,No,2,0
 Bachelors,2018,Bangalore,3,38,Male,No,2,1
 Bachelors,2015,Bangalore,3,34,Male,No,5,0
 Bachelors,2012,Bangalore,3,34,Male,No,1,0
@@ -3085,7 +1539,6 @@ Bachelors,2015,Pune,2,35,Female,Yes,4,1
 Masters,2018,New Delhi,3,41,Male,No,2,1
 Bachelors,2012,Pune,3,31,Male,No,5,0
 Bachelors,2015,Pune,2,36,Female,Yes,0,1
-Bachelors,2016,Bangalore,3,32,Male,No,1,0
 Bachelors,2017,Bangalore,3,37,Male,No,2,1
 Bachelors,2015,Pune,2,39,Female,No,4,1
 Bachelors,2012,Pune,3,34,Male,No,2,0
@@ -3131,7 +1584,6 @@ Bachelors,2014,Bangalore,3,39,Male,Yes,1,0
 Bachelors,2015,Pune,3,35,Female,No,1,1
 Bachelors,2013,Bangalore,3,38,Female,No,4,0
 Masters,2017,Bangalore,3,39,Female,No,4,1
-Bachelors,2012,Bangalore,3,41,Male,No,3,0
 Bachelors,2014,Pune,2,35,Male,No,2,1
 Bachelors,2016,Pune,3,31,Male,No,1,0
 Bachelors,2017,New Delhi,2,32,Female,No,4,1
@@ -3141,7 +1593,6 @@ Masters,2014,New Delhi,3,36,Male,No,1,1
 Masters,2017,Bangalore,2,41,Male,No,4,0
 Masters,2017,Pune,2,39,Female,No,3,0
 Masters,2017,New Delhi,2,38,Male,No,5,0
-Bachelors,2012,Bangalore,3,37,Male,No,4,0
 Bachelors,2015,Bangalore,3,38,Male,No,3,1
 Bachelors,2014,Bangalore,3,37,Male,No,4,0
 Bachelors,2017,Bangalore,3,34,Male,No,5,0
@@ -3250,7 +1701,6 @@ Bachelors,2012,Bangalore,3,41,Female,No,4,0
 Bachelors,2017,Bangalore,3,35,Female,No,4,0
 Bachelors,2015,Bangalore,1,40,Male,No,2,0
 Bachelors,2018,Bangalore,3,33,Female,No,4,1
-Bachelors,2016,Bangalore,3,37,Female,No,0,0
 PHD,2018,Bangalore,3,36,Female,No,3,1
 Bachelors,2012,Bangalore,3,40,Male,No,0,0
 Bachelors,2017,New Delhi,2,36,Male,No,0,0
@@ -3290,7 +1740,6 @@ PHD,2014,Bangalore,3,38,Female,No,3,0
 Masters,2017,New Delhi,2,40,Female,No,2,1
 Bachelors,2012,Bangalore,3,41,Male,No,5,0
 Bachelors,2013,Bangalore,2,38,Female,No,1,1
-Bachelors,2012,Bangalore,3,37,Male,No,4,0
 Bachelors,2014,Bangalore,3,39,Male,No,5,1
 Bachelors,2018,Bangalore,3,35,Male,No,1,1
 Masters,2017,New Delhi,3,39,Female,No,5,1
@@ -3317,11 +1766,9 @@ Bachelors,2017,Pune,3,36,Female,No,0,1
 Bachelors,2015,Bangalore,3,39,Female,No,3,1
 Bachelors,2012,Bangalore,3,39,Male,No,0,0
 Bachelors,2013,Bangalore,3,35,Female,No,0,0
-Masters,2013,New Delhi,3,35,Male,No,2,0
 Bachelors,2013,Bangalore,3,35,Male,No,5,0
 Masters,2017,Bangalore,3,34,Female,No,4,0
 Bachelors,2014,Bangalore,3,41,Male,No,4,0
-Bachelors,2017,Bangalore,3,35,Male,No,5,0
 Bachelors,2013,Bangalore,3,40,Male,No,1,0
 Masters,2017,Pune,3,31,Male,No,3,1
 Masters,2014,New Delhi,3,33,Male,No,3,0
@@ -3334,8 +1781,6 @@ Bachelors,2014,Bangalore,3,31,Male,No,1,0
 Bachelors,2012,Bangalore,3,40,Male,No,3,0
 Masters,2018,New Delhi,3,34,Male,No,2,1
 Bachelors,2018,New Delhi,3,37,Male,No,4,1
-Bachelors,2016,Bangalore,3,37,Female,No,0,0
-Bachelors,2014,Bangalore,3,36,Female,No,3,0
 Bachelors,2015,Bangalore,2,39,Female,No,0,1
 Bachelors,2014,Pune,3,37,Male,No,1,0
 Masters,2014,New Delhi,3,37,Male,No,2,0
@@ -3347,7 +1792,6 @@ Bachelors,2014,Bangalore,3,40,Male,No,0,0
 Bachelors,2012,Pune,3,32,Male,No,3,0
 Bachelors,2012,Bangalore,3,37,Male,No,3,1
 Bachelors,2017,Pune,3,40,Female,No,1,1
-Bachelors,2014,Pune,3,40,Male,No,5,0
 Bachelors,2017,Bangalore,3,34,Female,Yes,0,0
 Bachelors,2012,Bangalore,3,37,Male,No,3,0
 Bachelors,2017,Bangalore,3,35,Male,No,3,0
@@ -3359,15 +1803,12 @@ Masters,2017,New Delhi,3,37,Female,No,3,0
 Bachelors,2018,Pune,3,40,Male,No,0,1
 Bachelors,2018,Bangalore,1,36,Male,Yes,1,0
 PHD,2018,New Delhi,3,37,Female,No,2,1
-Bachelors,2014,Bangalore,3,40,Female,No,0,0
-Bachelors,2017,Bangalore,3,34,Male,No,3,0
 Bachelors,2018,Pune,3,37,Male,No,5,1
 Bachelors,2016,Pune,3,38,Male,No,0,0
 Bachelors,2017,Bangalore,2,37,Male,No,2,1
 Bachelors,2016,Pune,3,32,Male,No,1,1
 Bachelors,2016,Bangalore,3,31,Male,No,3,0
 Bachelors,2013,Bangalore,1,40,Male,No,2,0
-Bachelors,2017,Bangalore,3,40,Female,No,4,0
 Bachelors,2015,Bangalore,3,31,Male,No,1,0
 Masters,2017,Pune,2,36,Male,No,2,0
 Bachelors,2017,Bangalore,3,38,Male,Yes,2,0
@@ -3393,7 +1834,6 @@ Bachelors,2012,Bangalore,3,39,Male,No,3,0
 Bachelors,2017,Pune,3,41,Male,No,4,0
 Bachelors,2015,Bangalore,3,36,Male,No,4,0
 Bachelors,2014,Bangalore,3,32,Male,No,5,0
-Bachelors,2013,Bangalore,3,41,Male,No,2,0
 Bachelors,2013,Bangalore,3,32,Male,No,0,0
 Bachelors,2017,Bangalore,3,36,Male,No,2,0
 Bachelors,2013,Bangalore,3,40,Male,No,4,0
@@ -3407,12 +1847,8 @@ Bachelors,2016,Bangalore,3,31,Male,No,2,0
 PHD,2015,Pune,3,37,Male,No,2,0
 Bachelors,2013,Bangalore,3,41,Female,No,4,0
 Bachelors,2013,Bangalore,3,31,Male,No,0,0
-Bachelors,2017,New Delhi,2,36,Male,No,2,0
 Bachelors,2015,New Delhi,3,32,Male,No,1,0
-Bachelors,2017,Bangalore,3,34,Male,No,0,0
-Bachelors,2015,Bangalore,3,39,Female,No,0,0
 Bachelors,2014,Bangalore,3,33,Male,No,1,1
-Bachelors,2017,New Delhi,2,36,Male,No,3,0
 Bachelors,2016,Bangalore,1,34,Male,Yes,2,1
 Bachelors,2017,Pune,2,33,Male,No,1,0
 Bachelors,2012,Bangalore,3,38,Female,No,4,1
@@ -3431,14 +1867,11 @@ Bachelors,2017,Bangalore,2,38,Female,No,5,1
 Bachelors,2012,Bangalore,3,32,Male,No,5,0
 Bachelors,2018,Pune,3,35,Female,No,3,1
 Bachelors,2017,Bangalore,3,39,Male,No,2,0
-Masters,2017,New Delhi,2,36,Male,Yes,2,0
 Bachelors,2013,Pune,3,33,Male,No,4,0
 Bachelors,2013,Pune,3,32,Male,Yes,5,0
 Bachelors,2017,Bangalore,3,35,Male,No,1,1
-Bachelors,2015,Bangalore,3,36,Male,No,1,0
 Masters,2014,Pune,3,39,Male,No,4,0
 Bachelors,2016,Bangalore,3,40,Male,No,0,1
-Bachelors,2012,Bangalore,3,37,Male,No,3,0
 Masters,2015,Pune,1,38,Female,No,0,0
 Bachelors,2017,New Delhi,3,40,Male,No,1,0
 Bachelors,2013,Bangalore,3,34,Female,No,2,0
@@ -3447,11 +1880,9 @@ Bachelors,2014,New Delhi,3,40,Female,No,3,1
 Bachelors,2013,Bangalore,3,37,Male,No,2,0
 Bachelors,2012,New Delhi,3,33,Male,No,3,0
 Bachelors,2015,Bangalore,3,36,Male,Yes,4,0
-Bachelors,2014,Bangalore,3,35,Female,No,4,0
 Bachelors,2014,Bangalore,3,34,Male,No,5,0
 Bachelors,2013,Bangalore,3,35,Male,No,0,1
 Masters,2014,New Delhi,3,39,Male,No,2,0
-Bachelors,2015,Pune,3,35,Female,No,1,1
 Masters,2014,New Delhi,3,34,Male,No,5,0
 Bachelors,2017,Pune,2,32,Female,No,2,1
 Bachelors,2015,New Delhi,3,32,Female,No,2,0
@@ -3461,7 +1892,6 @@ Masters,2016,Bangalore,3,35,Female,No,1,1
 Masters,2017,New Delhi,3,35,Male,Yes,2,0
 Bachelors,2014,Pune,2,38,Female,No,3,1
 Bachelors,2016,Bangalore,3,37,Male,No,0,0
-Bachelors,2013,Bangalore,3,38,Female,No,4,0
 Bachelors,2015,Bangalore,3,41,Male,No,0,0
 Masters,2017,Bangalore,3,40,Male,No,4,1
 Bachelors,2017,Bangalore,3,39,Female,No,3,0
@@ -3469,7 +1899,6 @@ Bachelors,2017,Pune,2,32,Male,No,2,0
 Bachelors,2018,New Delhi,3,40,Male,Yes,4,1
 Bachelors,2016,Bangalore,3,40,Male,No,0,0
 Bachelors,2016,Bangalore,3,41,Female,No,1,1
-Bachelors,2015,Bangalore,3,38,Male,Yes,4,0
 Masters,2017,Pune,1,38,Male,No,0,1
 Bachelors,2018,Bangalore,3,41,Female,No,2,1
 Bachelors,2015,New Delhi,2,33,Female,No,4,1
@@ -3478,13 +1907,11 @@ Bachelors,2017,New Delhi,2,35,Female,No,5,0
 Bachelors,2013,Bangalore,3,36,Male,No,5,0
 Bachelors,2013,Pune,3,37,Male,No,1,0
 Bachelors,2013,New Delhi,1,37,Female,No,1,0
-Bachelors,2014,Bangalore,3,39,Male,No,5,0
 Bachelors,2017,Bangalore,3,38,Female,No,2,0
 Bachelors,2013,Pune,2,34,Female,No,1,1
 Bachelors,2017,Pune,2,33,Female,No,4,1
 Bachelors,2013,Bangalore,3,32,Female,No,1,0
 Masters,2014,Bangalore,3,38,Female,No,4,1
-Bachelors,2017,Bangalore,3,32,Male,No,5,0
 Masters,2016,New Delhi,3,41,Male,No,5,1
 Masters,2014,Pune,3,36,Female,No,2,0
 Bachelors,2017,New Delhi,3,34,Female,No,2,1
@@ -3495,23 +1922,18 @@ Bachelors,2016,Bangalore,3,32,Male,Yes,5,0
 Bachelors,2015,Pune,3,37,Female,No,2,1
 Bachelors,2017,Bangalore,2,32,Female,No,2,1
 Masters,2017,New Delhi,2,36,Male,No,3,0
-Bachelors,2012,Bangalore,3,41,Male,No,3,0
 Bachelors,2017,Pune,3,37,Female,No,5,0
 Bachelors,2018,Bangalore,3,34,Female,No,3,1
 Bachelors,2016,Pune,3,31,Male,No,0,1
-Bachelors,2017,Bangalore,3,41,Male,No,1,0
 Bachelors,2015,New Delhi,3,35,Female,No,3,0
 Bachelors,2015,Bangalore,3,37,Female,No,5,0
-Bachelors,2016,Bangalore,3,34,Male,No,4,0
 Masters,2017,Bangalore,2,40,Female,Yes,2,0
 Bachelors,2015,Bangalore,3,39,Male,No,5,1
-Bachelors,2013,Pune,3,37,Male,No,2,0
 Bachelors,2015,Pune,2,36,Female,Yes,1,1
 Bachelors,2014,Bangalore,3,35,Female,No,2,0
 Masters,2013,Bangalore,3,37,Female,No,3,1
 Bachelors,2013,New Delhi,3,41,Female,No,1,0
 Masters,2017,New Delhi,2,40,Male,No,2,0
-Bachelors,2016,Bangalore,3,37,Male,No,2,0
 Masters,2013,New Delhi,3,40,Female,No,2,1
 Bachelors,2015,Bangalore,3,39,Male,No,5,0
 Masters,2015,Pune,2,33,Female,No,4,0
@@ -3537,14 +1959,10 @@ Bachelors,2013,Pune,3,36,Male,No,1,0
 Bachelors,2016,Bangalore,3,41,Male,No,3,0
 Bachelors,2018,Bangalore,3,32,Female,No,2,1
 Masters,2018,Bangalore,3,40,Female,No,3,1
-Bachelors,2012,Bangalore,3,39,Female,No,2,0
 Bachelors,2014,New Delhi,3,33,Male,No,3,0
 Bachelors,2012,Bangalore,3,32,Male,No,4,0
 Bachelors,2018,Bangalore,3,41,Male,No,5,1
-Bachelors,2016,Bangalore,3,36,Male,No,2,0
 Bachelors,2016,Bangalore,3,31,Male,No,0,0
-Bachelors,2014,Bangalore,3,37,Male,No,4,0
-Bachelors,2014,Bangalore,3,33,Male,No,5,1
 Masters,2018,Pune,3,31,Male,No,2,1
 Bachelors,2017,New Delhi,3,35,Female,No,5,0
 Bachelors,2015,Pune,1,32,Female,No,5,1
@@ -3564,7 +1982,6 @@ Bachelors,2014,Bangalore,3,37,Male,No,5,0
 Bachelors,2012,Bangalore,3,32,Male,No,3,0
 Bachelors,2015,Pune,3,40,Female,Yes,2,1
 Bachelors,2014,Pune,1,40,Female,No,1,1
-Masters,2013,New Delhi,2,32,Male,No,2,1
 Masters,2017,Bangalore,2,39,Female,No,2,1
 PHD,2016,New Delhi,3,41,Male,No,1,0
 PHD,2014,New Delhi,3,32,Female,No,0,0
@@ -3583,7 +2000,6 @@ Bachelors,2016,Bangalore,3,38,Male,Yes,1,0
 Bachelors,2015,Pune,3,35,Male,No,3,0
 Bachelors,2014,Pune,2,31,Male,No,3,1
 Bachelors,2017,Pune,3,41,Male,No,2,0
-Bachelors,2017,Bangalore,3,35,Female,No,3,0
 Bachelors,2018,Bangalore,3,33,Male,No,5,1
 Bachelors,2017,New Delhi,2,33,Male,No,5,0
 Bachelors,2016,New Delhi,3,31,Female,Yes,4,0
@@ -3597,10 +2013,7 @@ Bachelors,2017,Bangalore,3,40,Female,No,5,0
 Bachelors,2012,Bangalore,3,34,Male,No,5,0
 Bachelors,2014,Pune,3,37,Male,No,4,0
 PHD,2015,Bangalore,3,40,Male,No,3,0
-Masters,2017,New Delhi,2,34,Female,No,2,1
-Bachelors,2015,Pune,2,32,Female,No,3,1
 Bachelors,2013,Bangalore,3,33,Male,No,1,0
-Bachelors,2015,Bangalore,3,38,Male,No,3,1
 Masters,2017,New Delhi,2,41,Male,No,3,1
 Masters,2017,New Delhi,1,36,Female,No,0,0
 Bachelors,2016,Bangalore,3,33,Male,No,1,0
@@ -3608,32 +2021,24 @@ Bachelors,2014,Pune,3,31,Male,No,5,0
 Bachelors,2013,Pune,2,34,Female,No,3,1
 Bachelors,2017,Bangalore,3,31,Male,No,1,0
 Bachelors,2016,New Delhi,2,36,Female,No,4,1
-Bachelors,2013,Bangalore,3,38,Male,No,5,0
 Bachelors,2015,Pune,2,39,Female,Yes,1,1
 Bachelors,2014,Pune,3,31,Male,No,3,0
 Bachelors,2015,New Delhi,3,40,Male,No,3,1
-Bachelors,2013,Bangalore,3,39,Male,No,0,0
 Bachelors,2015,Bangalore,3,32,Female,No,4,0
 Bachelors,2014,Bangalore,3,34,Male,No,1,0
-Masters,2015,New Delhi,3,38,Male,No,1,0
 Bachelors,2014,Bangalore,1,39,Male,No,2,0
-Bachelors,2014,Bangalore,3,39,Male,No,5,0
-Bachelors,2016,Bangalore,3,33,Male,No,1,0
 Bachelors,2018,Pune,2,34,Female,No,4,1
 Bachelors,2017,Pune,3,38,Male,Yes,1,0
 Masters,2017,New Delhi,2,33,Male,No,2,0
 Bachelors,2014,Bangalore,3,41,Male,No,5,0
 Masters,2017,Pune,1,39,Male,No,0,0
 Masters,2013,Pune,3,39,Male,No,2,0
-Bachelors,2014,Bangalore,3,41,Male,No,5,0
 Bachelors,2012,Bangalore,3,40,Male,No,4,0
-Bachelors,2014,Bangalore,3,36,Male,No,0,0
 Bachelors,2015,Bangalore,3,34,Male,No,0,0
 Bachelors,2013,Bangalore,3,32,Male,No,5,1
 Bachelors,2015,Bangalore,3,31,Male,No,4,0
 Bachelors,2012,Bangalore,3,36,Male,Yes,0,0
 Masters,2017,Pune,2,35,Male,No,1,1
-Bachelors,2017,Bangalore,3,32,Male,No,2,0
 Bachelors,2017,Pune,3,33,Male,Yes,5,0
 Bachelors,2016,Bangalore,3,34,Male,No,2,0
 Bachelors,2017,Bangalore,3,39,Male,No,3,0
@@ -3647,10 +2052,8 @@ Bachelors,2018,Bangalore,3,33,Female,No,3,1
 Bachelors,2015,Bangalore,3,38,Male,No,1,1
 Masters,2017,Bangalore,2,32,Male,No,2,0
 Bachelors,2014,Pune,3,32,Male,Yes,2,0
-Bachelors,2015,New Delhi,3,32,Female,No,2,0
 Bachelors,2016,Pune,2,37,Female,No,2,1
 Bachelors,2015,Bangalore,3,40,Male,No,5,0
-Bachelors,2016,Bangalore,3,38,Male,No,1,0
 PHD,2018,New Delhi,3,33,Female,No,4,1
 Masters,2017,New Delhi,2,40,Male,No,4,0
 Masters,2017,New Delhi,2,35,Male,No,2,0
@@ -3661,7 +2064,6 @@ Bachelors,2018,Bangalore,3,32,Male,No,2,1
 Bachelors,2017,Bangalore,3,40,Female,No,2,0
 Bachelors,2015,New Delhi,3,33,Female,No,2,0
 Bachelors,2016,Bangalore,3,38,Male,No,2,1
-Bachelors,2013,Bangalore,3,34,Male,No,5,0
 Bachelors,2017,New Delhi,3,38,Female,No,4,0
 Bachelors,2018,Pune,2,31,Female,No,3,1
 Bachelors,2014,Pune,3,32,Female,No,4,0
@@ -3673,14 +2075,12 @@ Bachelors,2015,Pune,1,31,Female,No,3,1
 Bachelors,2016,Bangalore,3,34,Male,No,3,0
 Masters,2017,New Delhi,2,40,Female,No,2,0
 Masters,2016,Bangalore,3,32,Male,No,1,1
-Bachelors,2012,Bangalore,3,36,Male,No,5,0
 Bachelors,2014,Pune,2,40,Female,No,3,1
 Bachelors,2012,Pune,3,31,Male,No,3,0
 Bachelors,2014,Bangalore,1,34,Female,No,5,0
 Masters,2013,New Delhi,3,41,Female,Yes,2,1
 Masters,2017,New Delhi,2,32,Male,No,2,0
 Bachelors,2016,Bangalore,3,41,Male,No,2,0
-Masters,2014,New Delhi,3,33,Male,No,3,0
 Bachelors,2013,Bangalore,3,33,Female,No,0,1
 Bachelors,2013,Pune,3,39,Female,No,2,0
 Masters,2018,Pune,3,40,Male,No,2,1
@@ -3710,15 +2110,12 @@ Masters,2017,New Delhi,2,36,Male,No,2,1
 Masters,2017,Bangalore,1,34,Male,No,1,0
 Bachelors,2015,Bangalore,3,36,Male,No,3,0
 Bachelors,2017,Pune,2,33,Male,No,3,0
-Masters,2018,New Delhi,3,38,Male,No,2,1
 PHD,2013,New Delhi,3,35,Female,Yes,3,1
 Bachelors,2015,New Delhi,2,37,Female,No,3,1
-Bachelors,2017,Bangalore,3,31,Male,No,0,0
 Bachelors,2017,Pune,2,40,Female,No,2,1
 Bachelors,2015,Pune,3,32,Female,No,3,1
 Bachelors,2015,Bangalore,3,35,Male,Yes,2,0
 Bachelors,2012,Bangalore,3,38,Male,Yes,0,0
-Bachelors,2015,Pune,2,36,Female,No,0,1
 Masters,2015,Pune,3,36,Male,No,3,0
 Masters,2014,New Delhi,3,32,Female,No,5,0
 Bachelors,2018,Pune,2,37,Female,No,0,1
@@ -3731,7 +2128,6 @@ Bachelors,2015,Pune,2,39,Female,No,5,1
 Bachelors,2012,Pune,2,32,Female,No,5,1
 Bachelors,2015,Bangalore,3,39,Male,No,2,0
 Bachelors,2015,Bangalore,3,39,Male,No,2,1
-Masters,2017,Pune,2,37,Male,No,2,0
 Bachelors,2015,Bangalore,3,32,Female,No,5,0
 Bachelors,2017,New Delhi,2,38,Male,No,0,0
 Bachelors,2012,Pune,2,36,Female,No,5,1
@@ -3740,9 +2136,7 @@ Bachelors,2017,Pune,3,32,Male,No,4,0
 Masters,2017,New Delhi,3,37,Male,No,2,0
 Bachelors,2016,New Delhi,3,33,Male,No,2,0
 Bachelors,2016,Bangalore,3,39,Male,No,4,0
-Bachelors,2012,Bangalore,3,35,Male,No,1,1
 Masters,2015,Pune,3,39,Male,No,5,0
-Bachelors,2015,Bangalore,3,34,Male,No,0,0
 Masters,2017,New Delhi,2,33,Male,No,4,0
 Bachelors,2012,Bangalore,3,33,Male,No,1,0
 Bachelors,2015,New Delhi,3,31,Male,No,0,0
@@ -3758,12 +2152,10 @@ Bachelors,2014,Bangalore,3,37,Male,No,1,0
 Bachelors,2017,Pune,2,34,Female,No,3,1
 Bachelors,2017,New Delhi,2,31,Male,No,2,0
 Bachelors,2014,Pune,2,34,Female,Yes,1,1
-Bachelors,2012,Bangalore,3,38,Female,No,5,0
 Bachelors,2013,Bangalore,3,37,Female,No,1,0
 Bachelors,2015,Pune,1,34,Female,No,3,1
 Bachelors,2015,Bangalore,3,33,Male,No,2,0
 Bachelors,2016,Bangalore,3,37,Male,No,4,0
-Bachelors,2016,Bangalore,3,41,Male,No,4,0
 Bachelors,2012,Bangalore,1,38,Female,No,1,0
 Bachelors,2016,Pune,3,40,Male,No,5,0
 Bachelors,2017,New Delhi,3,33,Female,No,1,1
@@ -3773,26 +2165,22 @@ Bachelors,2017,New Delhi,2,36,Female,No,2,0
 Bachelors,2012,Bangalore,3,36,Female,No,5,0
 Bachelors,2015,Bangalore,3,41,Male,No,1,0
 Masters,2014,New Delhi,3,40,Male,No,5,0
-Bachelors,2016,Bangalore,3,36,Female,No,0,0
 Masters,2017,Bangalore,2,41,Male,Yes,2,1
 Bachelors,2015,Pune,3,33,Male,No,5,0
 Masters,2017,New Delhi,2,37,Female,No,2,0
 Bachelors,2017,New Delhi,2,33,Male,No,0,0
-Bachelors,2014,Bangalore,3,40,Female,No,4,0
 Masters,2018,New Delhi,3,36,Male,No,2,1
 Bachelors,2018,Bangalore,3,40,Male,Yes,3,1
 Masters,2018,Bangalore,3,40,Male,No,2,1
 Bachelors,2014,Bangalore,3,34,Male,No,3,0
 Bachelors,2012,Pune,3,39,Male,No,5,0
 Bachelors,2017,Pune,2,33,Male,No,1,1
-Bachelors,2016,Bangalore,3,37,Male,No,2,0
 Bachelors,2012,New Delhi,3,40,Male,No,3,0
 Bachelors,2018,Bangalore,3,38,Male,No,1,1
 Bachelors,2016,Bangalore,3,40,Male,Yes,1,0
 Bachelors,2014,New Delhi,3,38,Female,No,0,0
 Bachelors,2016,Bangalore,3,34,Male,Yes,1,0
 Masters,2016,New Delhi,3,37,Female,No,3,1
-Bachelors,2015,Bangalore,3,40,Male,No,5,0
 Bachelors,2015,New Delhi,3,40,Female,No,1,0
 Masters,2016,Bangalore,3,37,Male,No,2,1
 Bachelors,2016,Pune,2,37,Female,No,3,1
@@ -3801,12 +2189,9 @@ Masters,2017,New Delhi,1,35,Male,No,5,0
 Bachelors,2016,Bangalore,1,38,Male,No,3,0
 Bachelors,2017,Pune,3,34,Female,No,1,0
 Bachelors,2014,Bangalore,3,32,Male,No,2,1
-Bachelors,2013,Bangalore,3,37,Male,No,5,0
 Bachelors,2017,New Delhi,2,37,Male,No,4,0
 Bachelors,2014,Bangalore,3,35,Male,No,2,0
-Bachelors,2016,Bangalore,3,40,Male,No,0,0
 Bachelors,2012,Bangalore,3,40,Male,Yes,2,0
-Bachelors,2015,Bangalore,3,39,Female,No,3,1
 Masters,2013,New Delhi,3,41,Female,No,2,0
 Bachelors,2015,Bangalore,3,34,Female,No,4,0
 Bachelors,2012,New Delhi,3,34,Female,No,4,0
@@ -3815,7 +2200,6 @@ Masters,2016,New Delhi,3,39,Female,No,1,0
 Bachelors,2014,New Delhi,3,41,Male,No,5,0
 Bachelors,2015,Bangalore,3,40,Male,No,0,0
 Bachelors,2017,Bangalore,3,34,Female,No,5,0
-Bachelors,2013,Bangalore,3,31,Male,No,2,0
 Bachelors,2012,Pune,3,40,Male,No,3,0
 Bachelors,2013,Pune,3,32,Male,No,5,0
 Bachelors,2018,Pune,3,38,Male,No,3,1
@@ -3827,14 +2211,12 @@ Bachelors,2016,New Delhi,3,37,Male,No,3,0
 Bachelors,2015,Pune,3,38,Male,No,4,0
 Bachelors,2017,Bangalore,3,32,Male,No,4,0
 Bachelors,2017,Pune,3,33,Male,No,1,0
-Bachelors,2015,Bangalore,3,38,Male,No,5,0
 Bachelors,2015,Pune,3,40,Female,No,5,1
 Bachelors,2014,Bangalore,3,35,Male,Yes,0,0
 Masters,2016,New Delhi,3,37,Female,No,5,0
 Bachelors,2016,Bangalore,3,37,Male,Yes,2,0
 Bachelors,2015,Bangalore,3,36,Male,No,2,0
 Bachelors,2017,Bangalore,3,33,Female,No,4,1
-Bachelors,2014,Pune,2,36,Female,No,3,1
 Bachelors,2016,Pune,3,32,Male,No,3,0
 Bachelors,2017,Bangalore,3,35,Female,No,1,1
 Bachelors,2014,Pune,2,34,Female,No,2,1
@@ -3857,7 +2239,6 @@ Masters,2014,Pune,3,39,Male,No,2,0
 Bachelors,2017,New Delhi,2,41,Female,No,2,1
 Bachelors,2017,New Delhi,2,34,Male,No,2,0
 Bachelors,2013,Bangalore,3,36,Female,No,5,0
-Bachelors,2015,Pune,2,39,Female,No,5,1
 Bachelors,2012,Pune,3,37,Male,No,5,0
 Bachelors,2016,Bangalore,3,36,Male,No,4,0
 Bachelors,2014,New Delhi,3,38,Female,No,1,0
@@ -3879,19 +2260,13 @@ Bachelors,2013,Pune,3,35,Male,No,1,0
 Masters,2017,New Delhi,3,38,Female,No,3,0
 Bachelors,2017,Bangalore,3,33,Male,No,1,0
 Bachelors,2014,Bangalore,3,38,Female,No,2,0
-Bachelors,2018,Bangalore,3,38,Male,No,1,1
 Bachelors,2017,Pune,2,40,Male,No,4,0
 Bachelors,2013,New Delhi,3,39,Male,No,5,0
 Bachelors,2014,New Delhi,3,33,Female,No,4,0
-Bachelors,2015,Pune,3,32,Female,No,3,1
-Bachelors,2013,Bangalore,3,39,Male,No,2,0
 Bachelors,2015,Bangalore,3,38,Female,No,4,0
 Bachelors,2013,Bangalore,3,38,Male,No,2,0
 Bachelors,2017,Bangalore,3,35,Male,No,0,0
-Bachelors,2017,Pune,3,31,Female,No,0,1
-Bachelors,2017,Bangalore,3,41,Male,No,5,0
 Bachelors,2013,New Delhi,3,38,Female,No,4,1
-Bachelors,2016,Bangalore,3,40,Male,Yes,1,0
 Bachelors,2018,Bangalore,3,36,Female,No,2,1
 PHD,2013,New Delhi,3,36,Male,No,3,1
 Bachelors,2014,Pune,3,41,Male,No,4,0
@@ -3900,13 +2275,9 @@ Bachelors,2017,Bangalore,3,38,Male,No,5,0
 Bachelors,2017,New Delhi,2,41,Female,No,0,0
 Bachelors,2012,Bangalore,1,34,Male,No,0,0
 Bachelors,2016,Bangalore,3,39,Female,No,3,1
-Bachelors,2014,Bangalore,3,37,Male,No,5,0
 Bachelors,2015,Pune,2,39,Female,Yes,0,1
-Bachelors,2013,Bangalore,3,31,Male,No,2,1
 Masters,2012,New Delhi,3,34,Female,No,3,0
 Bachelors,2015,Bangalore,3,39,Male,No,1,0
-Bachelors,2014,Pune,2,38,Female,No,3,1
-Bachelors,2012,Bangalore,3,34,Male,No,1,0
 Bachelors,2016,Bangalore,3,31,Female,No,2,0
 Bachelors,2016,Bangalore,3,39,Female,No,0,0
 Bachelors,2013,Bangalore,3,31,Female,No,1,0
@@ -3917,7 +2288,6 @@ PHD,2017,Pune,3,41,Male,No,2,0
 Bachelors,2018,Bangalore,3,32,Male,No,4,1
 Bachelors,2018,Pune,3,35,Male,No,0,1
 Bachelors,2017,Bangalore,3,35,Male,No,1,0
-Bachelors,2013,Bangalore,3,32,Male,No,1,0
 Bachelors,2015,Bangalore,3,31,Male,No,1,1
 Bachelors,2015,Bangalore,3,41,Male,No,4,0
 Bachelors,2012,Bangalore,3,33,Male,Yes,0,0
@@ -3932,7 +2302,6 @@ Bachelors,2015,Bangalore,3,38,Male,No,1,0
 Bachelors,2017,Pune,2,31,Male,No,0,0
 Bachelors,2014,Bangalore,3,34,Male,No,4,0
 Bachelors,2017,Bangalore,3,40,Male,No,2,0
-Bachelors,2012,Bangalore,3,36,Male,No,1,0
 Bachelors,2015,Bangalore,3,36,Female,No,2,0
 Bachelors,2017,New Delhi,2,41,Female,No,4,0
 Bachelors,2017,Bangalore,3,37,Male,No,3,0
@@ -3951,14 +2320,10 @@ Bachelors,2014,Bangalore,3,37,Female,No,3,0
 Bachelors,2016,Bangalore,3,40,Female,Yes,4,0
 Bachelors,2014,Pune,3,33,Male,No,4,0
 Bachelors,2016,Bangalore,3,39,Female,No,4,0
-Bachelors,2012,Bangalore,3,40,Male,No,4,0
 Bachelors,2013,Bangalore,1,34,Male,No,4,1
-Bachelors,2016,Pune,3,40,Male,No,5,0
 PHD,2013,Bangalore,3,32,Male,No,5,0
-Bachelors,2012,Bangalore,3,33,Male,No,1,0
 Bachelors,2017,New Delhi,1,31,Female,No,4,1
 Masters,2016,New Delhi,3,41,Female,No,4,0
-Bachelors,2016,Bangalore,3,34,Male,No,4,0
 Bachelors,2016,Bangalore,3,39,Male,No,7,0
 Bachelors,2014,Bangalore,3,35,Male,No,5,0
 Bachelors,2016,Pune,3,38,Female,No,7,0
@@ -3993,7 +2358,6 @@ Bachelors,2018,Bangalore,3,34,Male,No,5,1
 Bachelors,2017,Pune,2,22,Male,No,0,0
 Bachelors,2018,Bangalore,2,26,Female,No,4,1
 Bachelors,2012,Bangalore,3,22,Male,No,0,0
-Bachelors,2017,New Delhi,3,25,Female,No,3,0
 Bachelors,2016,Bangalore,3,29,Male,No,0,0
 Bachelors,2017,New Delhi,3,36,Female,No,0,0
 Bachelors,2014,Bangalore,3,37,Female,No,1,0
@@ -4005,14 +2369,8 @@ Bachelors,2015,New Delhi,3,36,Female,No,2,0
 Bachelors,2016,Bangalore,3,31,Male,Yes,5,0
 Bachelors,2015,Bangalore,3,34,Male,No,4,0
 Masters,2014,New Delhi,3,28,Male,Yes,2,1
-Bachelors,2014,Bangalore,3,28,Male,No,2,0
-Bachelors,2015,Bangalore,3,31,Male,No,1,0
-Bachelors,2017,Bangalore,3,35,Male,No,5,0
 Bachelors,2012,Bangalore,1,28,Female,Yes,1,0
-Bachelors,2018,Bangalore,3,32,Female,No,2,1
 Bachelors,2013,Bangalore,3,23,Male,Yes,1,1
-Masters,2018,Pune,3,27,Male,No,5,1
-Bachelors,2017,Pune,3,25,Male,No,3,0
 Masters,2017,New Delhi,2,31,Female,No,2,0
 PHD,2018,New Delhi,3,34,Male,No,0,1
 Bachelors,2016,Bangalore,3,36,Female,No,2,0
@@ -4024,46 +2382,25 @@ Bachelors,2017,New Delhi,2,22,Female,No,0,0
 Bachelors,2016,Pune,2,36,Female,No,0,1
 Bachelors,2013,New Delhi,2,35,Female,No,1,1
 Bachelors,2012,New Delhi,3,22,Female,No,0,0
-Bachelors,2016,Bangalore,3,22,Male,No,0,0
-Bachelors,2012,Bangalore,3,29,Male,No,4,0
-Bachelors,2017,Bangalore,3,34,Male,No,5,0
 Bachelors,2017,Bangalore,2,23,Male,No,1,0
 Bachelors,2014,Pune,2,32,Male,No,3,1
-Bachelors,2012,Pune,2,26,Female,No,4,1
 Masters,2017,Bangalore,3,38,Male,No,2,0
-Bachelors,2014,Pune,3,37,Male,No,4,0
-Bachelors,2017,New Delhi,2,25,Female,No,3,0
 Bachelors,2018,Pune,2,36,Female,No,5,1
-Bachelors,2016,Bangalore,3,26,Female,No,4,0
 Bachelors,2018,Pune,2,39,Female,No,4,1
-Bachelors,2016,Bangalore,3,24,Male,No,2,1
 Masters,2018,Pune,3,39,Male,No,2,1
 Masters,2018,New Delhi,3,39,Female,No,2,1
-Bachelors,2017,New Delhi,2,27,Female,No,5,0
 Bachelors,2013,Bangalore,3,36,Male,No,5,1
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
 Bachelors,2017,Bangalore,3,28,Female,No,3,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 Bachelors,2017,New Delhi,3,23,Male,No,1,0
-Bachelors,2013,Bangalore,3,30,Female,No,5,0
 Bachelors,2014,Bangalore,3,22,Male,No,0,0
-Bachelors,2014,Pune,3,27,Male,No,5,0
-Masters,2017,New Delhi,3,32,Male,No,2,0
 Masters,2014,Pune,1,33,Female,No,1,0
-Masters,2017,New Delhi,3,26,Male,No,4,1
 Bachelors,2013,Pune,3,25,Female,Yes,3,1
 Masters,2017,New Delhi,2,23,Male,No,1,1
-Bachelors,2012,Pune,3,24,Male,No,2,0
 Bachelors,2014,Bangalore,3,33,Male,No,5,0
 Masters,2018,Bangalore,3,30,Male,Yes,2,1
-Masters,2017,New Delhi,2,27,Female,No,5,0
 Bachelors,2012,Pune,2,31,Female,No,5,1
 Masters,2018,New Delhi,3,23,Female,No,1,1
-Bachelors,2015,Bangalore,3,30,Male,No,2,0
-Bachelors,2015,Pune,2,32,Female,No,2,1
 Bachelors,2013,New Delhi,3,26,Female,Yes,4,0
-Masters,2017,New Delhi,2,35,Male,No,2,0
 Bachelors,2016,Bangalore,1,30,Male,No,4,1
 Bachelors,2012,Bangalore,3,37,Male,No,4,1
 Bachelors,2017,Bangalore,1,34,Male,Yes,0,0
@@ -4074,14 +2411,7 @@ Masters,2015,Pune,2,33,Female,No,2,1
 Bachelors,2015,Bangalore,3,32,Male,No,1,0
 Masters,2015,Pune,2,34,Female,No,2,0
 Bachelors,2017,Bangalore,3,36,Female,No,1,0
-Bachelors,2015,Bangalore,3,32,Male,No,1,0
-Bachelors,2017,Bangalore,3,28,Male,Yes,3,0
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2013,Pune,3,35,Male,No,1,0
-Bachelors,2014,Pune,3,33,Male,No,4,0
 Masters,2013,Pune,3,22,Female,Yes,0,1
-Bachelors,2014,Pune,3,27,Male,No,5,1
-Masters,2018,New Delhi,3,23,Female,No,1,1
 Bachelors,2013,Bangalore,3,34,Female,Yes,2,0
 Masters,2017,Pune,2,23,Male,No,1,1
 Bachelors,2012,Pune,3,36,Male,No,4,0
@@ -4092,66 +2422,40 @@ Bachelors,2013,Bangalore,3,39,Male,No,3,0
 Bachelors,2015,New Delhi,3,25,Female,Yes,3,0
 Bachelors,2014,Pune,3,32,Male,No,2,0
 Bachelors,2015,Pune,3,23,Female,No,1,1
-Masters,2018,New Delhi,3,29,Male,No,2,1
 Bachelors,2013,Pune,2,24,Male,No,2,1
 Bachelors,2012,Bangalore,3,36,Female,No,2,1
 Bachelors,2018,Bangalore,3,40,Male,No,4,1
 Bachelors,2012,New Delhi,3,38,Female,No,1,0
-Bachelors,2014,Bangalore,3,22,Male,No,0,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 Bachelors,2012,Bangalore,3,37,Male,No,5,0
 Bachelors,2018,Pune,3,40,Male,No,3,1
 Bachelors,2018,Bangalore,3,32,Male,Yes,0,1
 Bachelors,2012,New Delhi,3,28,Female,No,1,0
 Bachelors,2016,Pune,3,29,Male,Yes,5,0
-Bachelors,2013,Pune,3,25,Male,No,3,0
 PHD,2013,Bangalore,3,35,Male,No,3,1
-Bachelors,2015,Bangalore,3,28,Male,No,0,1
-Bachelors,2012,Bangalore,3,39,Male,No,3,0
 Bachelors,2012,Pune,1,35,Male,No,1,0
 Bachelors,2017,Bangalore,3,37,Male,No,2,0
 Masters,2018,Pune,3,40,Female,No,2,1
 Bachelors,2018,Bangalore,3,23,Male,No,1,1
-Bachelors,2013,Pune,3,32,Male,No,2,0
 PHD,2018,New Delhi,3,37,Male,No,3,1
 Bachelors,2015,Bangalore,3,23,Female,No,1,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
 Bachelors,2017,Bangalore,3,36,Female,No,3,1
 Bachelors,2013,Bangalore,3,40,Female,No,3,0
-Bachelors,2015,New Delhi,3,22,Male,No,0,0
-Bachelors,2015,Bangalore,3,30,Male,No,0,0
-Bachelors,2014,Bangalore,3,30,Male,No,1,0
-Bachelors,2015,Pune,1,34,Female,No,3,1
-Bachelors,2018,Bangalore,3,27,Male,No,5,1
-Bachelors,2013,Bangalore,1,27,Female,No,5,0
-Bachelors,2017,Pune,2,27,Female,No,5,1
 Bachelors,2015,Bangalore,3,35,Female,No,1,1
 Bachelors,2014,New Delhi,3,33,Female,Yes,4,0
-Bachelors,2012,Bangalore,3,37,Male,No,4,0
 Bachelors,2014,New Delhi,3,40,Female,No,3,0
-Bachelors,2015,Pune,2,25,Female,No,3,1
 Bachelors,2017,Pune,2,34,Male,No,2,0
-Bachelors,2017,New Delhi,3,40,Male,No,1,0
-Masters,2018,New Delhi,3,34,Male,No,2,1
 Bachelors,2013,Pune,3,33,Male,No,5,0
 Bachelors,2016,Bangalore,3,22,Female,No,0,0
-Bachelors,2015,Pune,2,36,Female,No,1,1
 Bachelors,2012,Bangalore,3,38,Male,No,2,1
 Bachelors,2013,Pune,3,25,Female,No,3,0
 Bachelors,2017,Bangalore,3,37,Male,No,3,1
-Bachelors,2016,Bangalore,3,25,Female,No,3,0
 Bachelors,2015,Pune,2,40,Female,Yes,0,1
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Masters,2015,Pune,1,23,Female,No,1,0
 Bachelors,2014,Bangalore,3,22,Male,No,0,1
 Masters,2017,New Delhi,2,34,Male,Yes,2,0
 Masters,2017,New Delhi,3,35,Female,No,2,0
 Bachelors,2014,Pune,3,23,Male,No,1,0
-Bachelors,2015,Bangalore,3,29,Male,No,2,1
 Bachelors,2015,Pune,3,32,Female,No,1,0
-Bachelors,2015,Bangalore,3,26,Male,No,4,0
-Bachelors,2014,Bangalore,3,28,Male,No,3,0
-Masters,2015,Pune,2,24,Female,No,2,0
 Bachelors,2017,Bangalore,3,33,Male,No,4,0
 PHD,2016,New Delhi,3,22,Male,No,0,0
 Masters,2015,Pune,2,39,Female,No,2,0
@@ -4159,74 +2463,44 @@ Masters,2018,New Delhi,3,30,Female,Yes,2,1
 Bachelors,2014,Bangalore,3,38,Female,No,5,1
 Bachelors,2012,New Delhi,3,36,Female,No,4,0
 Bachelors,2012,Pune,2,38,Male,No,5,0
-Bachelors,2013,Bangalore,3,24,Male,Yes,2,0
-Bachelors,2016,Bangalore,3,28,Male,No,1,0
 Bachelors,2015,Bangalore,3,35,Female,No,0,1
 Bachelors,2013,New Delhi,3,23,Female,No,1,0
 Masters,2017,New Delhi,2,23,Female,No,1,1
-Bachelors,2013,Bangalore,3,37,Male,No,5,0
-Masters,2016,New Delhi,3,24,Male,No,2,1
 Bachelors,2014,Pune,3,33,Male,Yes,4,0
 Bachelors,2015,Bangalore,3,38,Female,No,5,0
 Bachelors,2015,Pune,3,40,Male,Yes,0,0
-Bachelors,2014,Bangalore,3,34,Male,No,4,0
-Masters,2017,New Delhi,2,26,Male,No,4,0
-Bachelors,2016,Pune,3,25,Male,No,3,0
 Bachelors,2016,Pune,3,24,Female,No,2,0
 Bachelors,2018,Bangalore,3,35,Male,Yes,5,1
-PHD,2013,New Delhi,3,27,Male,No,5,0
 Masters,2013,New Delhi,3,30,Female,No,3,0
-Bachelors,2015,Bangalore,3,26,Female,No,4,1
 Bachelors,2017,Bangalore,3,40,Male,No,0,0
 Masters,2017,Pune,2,27,Female,No,5,1
 Bachelors,2016,Pune,3,38,Male,Yes,0,0
 Bachelors,2014,New Delhi,3,34,Female,No,5,0
-Masters,2017,Pune,2,24,Male,No,2,0
 Bachelors,2016,Bangalore,3,38,Male,No,4,0
 Bachelors,2014,Pune,1,37,Male,No,1,0
 Bachelors,2015,Bangalore,3,22,Male,No,0,0
 Bachelors,2014,New Delhi,3,29,Female,No,2,1
 Bachelors,2014,Pune,1,37,Female,No,4,1
-Bachelors,2016,Pune,3,23,Male,No,1,0
 Bachelors,2012,New Delhi,3,34,Female,No,2,0
-Bachelors,2017,Bangalore,3,28,Male,No,2,0
-Bachelors,2012,Pune,3,24,Male,Yes,2,0
 Masters,2017,Bangalore,2,35,Female,No,0,0
-Bachelors,2015,Bangalore,3,30,Male,No,2,0
 Bachelors,2018,Bangalore,3,33,Male,No,4,1
-Bachelors,2015,Bangalore,3,27,Female,No,5,0
-Bachelors,2016,Bangalore,3,32,Male,No,4,0
 Bachelors,2014,Pune,3,36,Female,No,5,0
-Bachelors,2012,Bangalore,3,26,Male,Yes,4,0
 Bachelors,2012,Bangalore,1,35,Male,No,4,0
 PHD,2012,New Delhi,3,25,Male,No,3,0
 Masters,2013,Bangalore,2,29,Male,No,1,1
 Bachelors,2012,Bangalore,3,36,Female,No,3,0
-Bachelors,2013,Bangalore,3,30,Male,No,1,0
 Bachelors,2017,Pune,2,37,Female,No,4,1
-Bachelors,2016,Bangalore,3,40,Male,No,0,1
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,32,Male,No,4,0
 Bachelors,2018,Pune,3,34,Male,No,0,1
-Bachelors,2014,Pune,3,29,Male,No,3,0
 Bachelors,2012,Bangalore,3,23,Female,No,1,1
 Bachelors,2017,Pune,3,23,Male,No,1,0
-Bachelors,2013,Bangalore,3,25,Female,No,3,0
 Bachelors,2012,New Delhi,1,31,Female,No,3,0
-Masters,2017,New Delhi,2,23,Male,No,1,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
 PHD,2015,New Delhi,2,39,Female,No,5,0
 Bachelors,2016,Bangalore,3,33,Female,No,1,1
 Bachelors,2013,Bangalore,3,23,Male,No,1,0
 Masters,2017,New Delhi,2,34,Female,No,4,0
 Bachelors,2015,Pune,2,37,Female,No,1,1
 Bachelors,2012,Bangalore,3,23,Male,No,1,0
-Bachelors,2017,New Delhi,3,27,Male,No,5,0
-Masters,2017,Pune,2,38,Female,No,2,0
-Bachelors,2014,Bangalore,3,27,Female,No,5,0
-Bachelors,2016,Bangalore,3,22,Male,No,0,0
 Masters,2015,Pune,2,26,Female,No,4,1
-Bachelors,2012,Bangalore,3,40,Male,No,3,0
 Bachelors,2016,Bangalore,3,33,Female,No,3,0
 Bachelors,2014,Bangalore,3,31,Male,No,0,0
 Bachelors,2017,Pune,3,33,Male,No,4,0
@@ -4234,162 +2508,99 @@ Bachelors,2015,New Delhi,3,30,Male,No,5,0
 Bachelors,2015,New Delhi,3,33,Female,No,5,1
 Masters,2017,New Delhi,3,33,Female,No,0,1
 Bachelors,2016,Pune,3,22,Male,No,0,0
-Bachelors,2012,Pune,3,28,Male,No,2,0
-Bachelors,2013,Bangalore,3,36,Male,No,4,0
 Bachelors,2017,New Delhi,2,36,Female,No,1,0
 Bachelors,2014,Pune,3,31,Female,No,2,0
 Bachelors,2013,Bangalore,2,25,Male,No,3,1
 Bachelors,2012,Pune,1,31,Male,No,4,0
 Masters,2015,Pune,2,39,Female,No,0,0
-Masters,2015,Bangalore,3,26,Male,No,4,1
 Bachelors,2017,Bangalore,2,25,Female,No,3,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2013,New Delhi,3,35,Female,No,0,0
 Bachelors,2013,Pune,2,28,Male,No,5,0
 Bachelors,2012,Bangalore,3,32,Female,No,0,0
 Masters,2017,New Delhi,2,22,Male,No,0,1
 Bachelors,2014,Pune,3,36,Female,No,5,1
-Bachelors,2015,Bangalore,3,38,Male,No,1,0
 Bachelors,2014,Bangalore,3,39,Female,No,1,0
-Masters,2017,New Delhi,2,25,Female,No,3,1
-Bachelors,2016,Pune,3,27,Male,No,5,0
 Masters,2014,Pune,3,38,Male,Yes,2,0
-Bachelors,2012,New Delhi,3,22,Female,No,0,0
 Bachelors,2013,Bangalore,3,33,Male,No,2,0
-Bachelors,2013,Pune,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,37,Male,No,5,0
 Bachelors,2018,Pune,3,28,Male,Yes,0,1
 Masters,2017,Pune,3,32,Male,Yes,2,0
 PHD,2016,New Delhi,3,33,Male,No,0,1
 Bachelors,2014,New Delhi,3,32,Male,No,5,0
-Bachelors,2017,Bangalore,3,24,Male,No,2,1
-Bachelors,2016,Bangalore,3,27,Male,Yes,5,0
 Bachelors,2012,Pune,2,35,Female,No,2,1
 PHD,2013,Bangalore,3,40,Male,No,1,0
 Bachelors,2017,New Delhi,2,34,Female,No,4,0
 Bachelors,2016,New Delhi,3,39,Female,No,0,0
-Bachelors,2014,Pune,3,26,Male,No,4,0
-Masters,2015,Pune,2,29,Female,No,2,0
 Bachelors,2013,Bangalore,3,29,Male,No,4,0
 Bachelors,2015,Pune,2,23,Female,Yes,1,1
 Bachelors,2015,Pune,3,32,Male,No,0,0
 Bachelors,2014,Pune,3,28,Male,Yes,4,0
 Masters,2013,New Delhi,2,32,Male,Yes,2,1
 Bachelors,2012,New Delhi,3,32,Female,No,0,0
-Bachelors,2013,Bangalore,3,38,Male,No,0,0
 PHD,2017,Pune,3,30,Male,No,5,0
 PHD,2015,New Delhi,3,31,Male,No,3,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,1
 Bachelors,2013,Bangalore,3,37,Female,No,4,0
-Masters,2017,New Delhi,2,27,Male,No,5,1
-Bachelors,2013,New Delhi,3,25,Female,No,3,0
 Bachelors,2015,Pune,2,22,Female,No,0,1
-Bachelors,2018,Bangalore,3,38,Male,No,2,1
-Bachelors,2015,New Delhi,3,22,Male,No,0,0
-Bachelors,2017,Pune,3,38,Male,No,2,0
 PHD,2015,New Delhi,1,38,Male,No,5,0
 Bachelors,2016,New Delhi,2,26,Female,No,4,1
 Masters,2017,New Delhi,2,31,Male,No,4,0
 Masters,2014,New Delhi,3,28,Male,No,5,0
 PHD,2017,New Delhi,3,34,Female,No,3,0
 Masters,2013,Bangalore,3,31,Male,No,2,0
-Bachelors,2014,New Delhi,3,26,Female,No,4,0
 Bachelors,2013,Pune,3,40,Female,No,1,1
-Bachelors,2016,Bangalore,3,31,Male,No,0,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Bachelors,2018,Pune,3,32,Female,No,1,1
-Bachelors,2012,Bangalore,3,33,Female,No,5,0
-Bachelors,2017,Bangalore,3,25,Male,No,3,0
-Bachelors,2017,Bangalore,3,40,Male,No,0,0
 Masters,2013,New Delhi,3,31,Male,No,2,1
-Bachelors,2015,Bangalore,3,36,Male,No,1,0
 Bachelors,2014,Bangalore,3,31,Male,No,5,0
 Bachelors,2015,Pune,3,22,Male,No,0,0
-Bachelors,2016,Bangalore,3,34,Female,No,0,0
 PHD,2018,New Delhi,3,38,Female,No,5,1
 Bachelors,2015,Bangalore,3,23,Male,Yes,1,0
-PHD,2017,Bangalore,3,27,Male,No,5,0
 Bachelors,2016,Bangalore,3,34,Male,No,1,0
-Bachelors,2012,Bangalore,3,39,Male,No,3,0
-Bachelors,2018,Bangalore,3,24,Male,Yes,2,1
 Bachelors,2015,Pune,3,37,Female,No,1,1
 PHD,2013,New Delhi,3,23,Male,No,1,0
-Bachelors,2018,Bangalore,3,36,Male,No,3,1
 Bachelors,2014,New Delhi,3,23,Male,No,1,0
-Bachelors,2012,Pune,3,31,Male,No,3,0
-Bachelors,2015,Bangalore,3,22,Male,No,0,0
-Bachelors,2015,Pune,2,24,Female,No,2,1
 Bachelors,2018,Pune,2,28,Female,No,4,1
 Bachelors,2014,Pune,3,33,Male,No,3,0
 Bachelors,2018,Bangalore,3,35,Female,No,2,1
 Bachelors,2012,New Delhi,3,30,Female,Yes,1,0
-Bachelors,2014,Bangalore,3,28,Female,No,3,0
 Bachelors,2015,Bangalore,3,22,Male,Yes,0,0
-Bachelors,2014,Bangalore,3,38,Male,No,3,0
 Bachelors,2014,Pune,3,39,Male,No,4,0
 PHD,2012,Bangalore,1,38,Male,No,5,0
 Bachelors,2014,Bangalore,3,22,Female,No,0,1
 Bachelors,2014,New Delhi,3,36,Female,No,5,0
-Bachelors,2015,Bangalore,3,27,Male,No,5,0
 Bachelors,2016,Pune,1,32,Male,No,2,0
 Bachelors,2017,New Delhi,2,39,Female,No,2,0
 Bachelors,2015,Pune,2,36,Male,No,5,0
 Bachelors,2018,Bangalore,3,34,Male,Yes,5,1
-Bachelors,2015,Bangalore,3,28,Male,No,1,0
 Bachelors,2018,Bangalore,3,36,Female,Yes,1,1
 PHD,2015,New Delhi,3,22,Female,No,0,0
 Bachelors,2014,New Delhi,1,28,Female,No,5,0
-Bachelors,2016,Pune,2,27,Female,No,5,1
 Bachelors,2014,Bangalore,1,39,Female,No,4,0
-Bachelors,2012,Bangalore,3,31,Male,No,0,0
-Bachelors,2013,Bangalore,3,26,Male,Yes,4,0
 Bachelors,2012,Bangalore,3,31,Male,No,3,0
 Bachelors,2015,Pune,2,33,Female,No,2,1
 Bachelors,2017,Pune,2,38,Female,No,1,1
 Bachelors,2014,Pune,3,38,Male,No,2,0
-Bachelors,2012,Pune,3,32,Male,No,3,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
 Masters,2017,Pune,2,33,Female,No,2,0
-Bachelors,2015,Bangalore,3,34,Female,No,2,0
 Bachelors,2018,Pune,3,36,Male,Yes,1,1
-Bachelors,2014,Bangalore,3,27,Male,No,5,0
-Masters,2017,Pune,2,27,Male,No,5,0
 Bachelors,2017,New Delhi,2,40,Female,No,5,0
 Masters,2012,Bangalore,3,31,Female,No,4,0
-Bachelors,2014,Bangalore,3,22,Male,No,0,0
-Masters,2017,New Delhi,2,22,Male,No,0,1
-Bachelors,2016,New Delhi,3,26,Female,No,4,0
 Bachelors,2017,New Delhi,3,28,Female,No,1,1
 Bachelors,2014,Bangalore,3,38,Male,Yes,5,0
 Masters,2015,Pune,3,31,Male,No,0,0
-Bachelors,2016,Bangalore,3,24,Male,No,2,0
 Bachelors,2015,Pune,2,25,Male,No,3,1
-PHD,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2017,Bangalore,3,40,Male,No,1,0
-Bachelors,2018,Pune,2,34,Female,No,4,1
 Bachelors,2016,Bangalore,3,32,Male,No,0,0
-Bachelors,2014,Pune,3,37,Male,No,1,0
 Bachelors,2015,Bangalore,3,33,Male,No,3,1
-Bachelors,2016,Pune,3,27,Male,No,5,0
 Bachelors,2012,New Delhi,3,36,Male,No,3,0
 Bachelors,2013,Bangalore,3,30,Female,No,4,0
-Masters,2017,Pune,2,26,Female,No,4,0
 Bachelors,2012,Bangalore,3,23,Male,Yes,1,0
 Masters,2015,Pune,2,31,Female,No,2,0
 Bachelors,2013,Bangalore,3,22,Male,Yes,0,0
 Masters,2017,New Delhi,2,24,Female,No,2,1
 Bachelors,2016,Bangalore,3,37,Female,Yes,4,0
-Masters,2018,New Delhi,3,35,Male,No,2,1
 Bachelors,2013,Bangalore,3,22,Male,No,0,1
 Bachelors,2012,Pune,3,35,Male,No,5,0
 Bachelors,2014,New Delhi,3,30,Female,No,3,0
-Bachelors,2014,Bangalore,3,30,Male,No,0,0
-Bachelors,2014,Pune,3,29,Male,No,3,0
 Masters,2017,Bangalore,3,36,Male,No,4,1
-Bachelors,2014,Bangalore,3,37,Male,No,4,0
 Bachelors,2016,Pune,3,40,Male,No,2,0
-Bachelors,2015,Pune,2,26,Female,No,4,1
-Masters,2017,New Delhi,2,26,Female,No,4,0
 Bachelors,2017,Bangalore,3,38,Male,No,3,0
 Bachelors,2014,Bangalore,3,31,Male,No,3,1
 Bachelors,2014,Bangalore,3,22,Female,No,0,0
@@ -4405,56 +2616,35 @@ Bachelors,2014,Pune,3,34,Male,No,5,0
 Bachelors,2014,Bangalore,1,31,Female,No,5,0
 Bachelors,2016,Bangalore,3,23,Male,No,1,0
 Bachelors,2013,Pune,2,39,Female,No,1,1
-Bachelors,2017,New Delhi,3,26,Male,No,4,0
 Bachelors,2013,Pune,2,33,Female,Yes,4,1
-Bachelors,2013,Bangalore,3,27,Female,No,5,0
 PHD,2018,New Delhi,3,24,Male,No,2,1
 Bachelors,2017,Bangalore,3,38,Male,No,1,0
-Bachelors,2017,Bangalore,3,27,Male,No,5,0
-Bachelors,2014,Bangalore,3,27,Female,No,5,0
-Bachelors,2015,Bangalore,3,23,Male,No,1,0
-Bachelors,2014,New Delhi,3,26,Female,No,4,0
 Bachelors,2016,Bangalore,3,31,Male,No,5,0
 Bachelors,2017,Bangalore,3,32,Female,No,3,0
 Bachelors,2015,Pune,2,36,Female,No,3,1
 Bachelors,2017,Bangalore,3,28,Male,No,0,0
 Bachelors,2017,New Delhi,2,31,Male,No,3,0
 Masters,2017,New Delhi,2,36,Female,No,3,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,1
 Bachelors,2017,Bangalore,3,28,Male,No,3,1
 Bachelors,2015,Pune,3,39,Female,No,2,1
 Bachelors,2013,Bangalore,3,23,Female,No,1,0
-Bachelors,2014,Bangalore,3,32,Male,No,1,0
 Masters,2013,New Delhi,3,33,Female,No,2,0
 Bachelors,2017,New Delhi,3,39,Female,No,4,0
-Masters,2017,Bangalore,2,24,Female,No,2,0
 Bachelors,2016,Pune,3,33,Male,No,2,0
 Bachelors,2016,Pune,2,29,Female,No,4,1
 Masters,2017,Pune,3,24,Female,No,2,1
-Masters,2015,Pune,3,27,Female,No,5,1
 Masters,2013,New Delhi,2,35,Female,No,2,1
-Bachelors,2015,Pune,2,28,Female,No,2,1
-Bachelors,2016,Bangalore,3,22,Male,No,0,0
 Bachelors,2013,Bangalore,3,39,Male,No,5,1
 Bachelors,2014,Bangalore,3,36,Female,No,3,1
 Bachelors,2017,New Delhi,2,40,Female,No,3,0
 Bachelors,2012,New Delhi,3,35,Female,No,5,0
 Bachelors,2016,Bangalore,3,33,Male,No,4,0
 PHD,2018,Bangalore,3,33,Male,No,2,1
-Bachelors,2012,Bangalore,3,23,Male,No,1,0
-Bachelors,2014,Bangalore,3,28,Male,No,2,1
-Bachelors,2016,Bangalore,3,27,Male,No,5,0
-Bachelors,2017,Bangalore,3,26,Female,No,4,0
 Bachelors,2014,Bangalore,3,33,Male,No,3,0
 Bachelors,2016,Bangalore,3,35,Male,No,3,0
 Bachelors,2013,Bangalore,3,33,Male,No,3,1
 Bachelors,2013,Pune,3,36,Female,No,0,1
-Bachelors,2015,New Delhi,3,26,Male,No,4,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
 Bachelors,2014,Bangalore,3,39,Female,No,5,0
-Bachelors,2013,Bangalore,3,28,Male,No,5,0
-Bachelors,2018,Bangalore,3,24,Male,No,2,1
 Bachelors,2012,Bangalore,3,36,Female,No,4,0
 Bachelors,2016,Bangalore,3,33,Male,No,0,0
 Bachelors,2013,Pune,1,33,Female,No,0,1
@@ -4463,29 +2653,16 @@ Masters,2012,New Delhi,3,27,Male,No,5,1
 Bachelors,2015,Bangalore,3,33,Male,Yes,4,0
 Bachelors,2016,Pune,2,35,Female,No,4,1
 Bachelors,2014,Pune,2,40,Female,No,0,1
-Bachelors,2017,Pune,2,25,Male,No,3,0
-Bachelors,2014,Bangalore,3,38,Male,No,2,0
 Bachelors,2017,New Delhi,2,40,Male,No,5,0
 Bachelors,2014,Bangalore,3,29,Male,Yes,0,0
-Bachelors,2012,Bangalore,3,27,Male,No,5,0
 Bachelors,2015,Bangalore,3,40,Male,No,4,0
-Masters,2017,New Delhi,2,25,Female,No,3,1
 Bachelors,2016,Pune,2,39,Female,No,3,1
 Bachelors,2017,New Delhi,2,22,Male,No,0,1
 PHD,2015,Pune,2,35,Female,No,0,0
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Bachelors,2014,New Delhi,2,25,Female,No,3,1
-Bachelors,2015,Bangalore,3,29,Female,No,1,0
 Masters,2017,New Delhi,1,37,Male,No,0,0
-Bachelors,2014,Bangalore,3,35,Male,No,1,0
-Bachelors,2012,Bangalore,3,26,Male,No,4,0
-Masters,2018,New Delhi,3,26,Male,No,4,1
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
-Bachelors,2014,Bangalore,3,31,Male,No,0,0
-Bachelors,2014,Bangalore,3,34,Male,No,5,0
 Masters,2018,New Delhi,3,27,Female,Yes,5,1
 Bachelors,2016,Pune,3,35,Male,No,1,0
-Bachelors,2017,Pune,3,27,Male,No,5,0
 Masters,2017,New Delhi,3,34,Male,No,1,1
 Bachelors,2018,Bangalore,3,40,Female,No,4,1
 Bachelors,2012,Pune,3,39,Male,No,4,0
@@ -4493,125 +2670,72 @@ Bachelors,2013,Pune,1,39,Female,Yes,0,1
 Bachelors,2015,Bangalore,3,22,Male,No,0,1
 Masters,2017,Pune,2,33,Male,Yes,2,0
 Bachelors,2014,Bangalore,3,39,Male,No,0,0
-Bachelors,2017,Bangalore,3,39,Male,No,3,0
-Bachelors,2017,Bangalore,3,40,Female,No,3,0
 Bachelors,2014,Bangalore,3,38,Female,No,1,0
 Bachelors,2018,New Delhi,3,36,Female,Yes,2,1
 Bachelors,2013,Pune,2,37,Male,Yes,5,0
-Bachelors,2017,Pune,2,33,Female,No,2,1
 Bachelors,2013,Bangalore,3,37,Female,No,2,1
 Bachelors,2013,Pune,3,34,Male,No,5,0
-Bachelors,2015,Bangalore,3,28,Male,No,2,0
 Bachelors,2018,Bangalore,3,31,Male,Yes,0,1
 Masters,2012,New Delhi,3,37,Male,No,4,0
-Bachelors,2018,Pune,3,26,Male,No,4,1
 Masters,2014,New Delhi,3,34,Female,No,1,1
 Bachelors,2015,Pune,3,39,Male,No,1,0
 Bachelors,2017,Pune,2,23,Female,No,1,1
 Bachelors,2013,Bangalore,3,35,Female,No,4,0
-Bachelors,2015,Pune,3,25,Male,No,3,0
 Bachelors,2013,Pune,2,38,Male,No,0,1
 Masters,2017,New Delhi,1,23,Male,No,1,0
-Masters,2017,New Delhi,3,26,Male,No,4,1
-Masters,2018,New Delhi,3,33,Female,No,2,1
 Bachelors,2015,Pune,2,37,Female,No,4,1
-Bachelors,2013,Bangalore,3,35,Male,No,5,0
 Bachelors,2013,Bangalore,3,23,Female,Yes,1,0
 Bachelors,2013,Pune,3,31,Male,No,2,0
 Bachelors,2017,Bangalore,3,24,Male,Yes,2,0
-Bachelors,2015,Bangalore,3,28,Male,No,3,0
-Bachelors,2013,Pune,2,37,Female,No,0,1
 Bachelors,2012,Bangalore,3,36,Female,No,1,0
 Bachelors,2015,Bangalore,3,28,Male,No,1,1
 Bachelors,2017,New Delhi,2,30,Male,No,5,0
-Bachelors,2014,Bangalore,3,26,Male,No,4,0
-Masters,2015,Pune,2,29,Female,No,1,0
-Masters,2018,New Delhi,3,39,Female,No,2,1
 Bachelors,2013,Pune,2,36,Male,No,4,0
 Bachelors,2015,Pune,3,36,Male,No,3,0
 Bachelors,2012,Bangalore,3,22,Male,No,0,1
 Masters,2017,New Delhi,3,31,Male,No,2,0
 PHD,2017,New Delhi,3,29,Male,No,3,0
 Bachelors,2014,Pune,3,37,Female,No,4,1
-Bachelors,2012,Bangalore,3,24,Male,No,2,0
-Bachelors,2015,Pune,2,28,Female,Yes,2,1
-PHD,2016,New Delhi,3,22,Male,No,0,0
 Bachelors,2015,Bangalore,3,31,Male,No,2,1
-Bachelors,2013,Pune,2,28,Female,No,3,1
-Bachelors,2014,Bangalore,3,22,Female,No,0,0
-Bachelors,2016,Bangalore,3,23,Male,No,1,0
 Bachelors,2016,New Delhi,1,25,Female,Yes,3,0
 Bachelors,2013,Pune,1,23,Female,No,1,1
-Bachelors,2017,New Delhi,2,26,Female,No,4,0
-Bachelors,2015,Pune,2,22,Female,No,0,1
 Bachelors,2015,Bangalore,3,38,Female,No,2,0
-Bachelors,2017,Bangalore,3,25,Female,No,3,0
 Bachelors,2017,New Delhi,3,37,Female,No,1,1
 PHD,2012,New Delhi,3,30,Male,No,4,0
 Bachelors,2012,Bangalore,3,35,Female,No,2,0
 PHD,2014,Bangalore,3,23,Male,No,1,0
-Masters,2017,New Delhi,2,25,Female,No,3,0
-Bachelors,2015,Bangalore,3,39,Female,No,0,0
 PHD,2013,Pune,1,32,Female,No,0,1
 Bachelors,2015,Pune,3,28,Female,No,1,1
 Bachelors,2015,New Delhi,3,23,Female,No,1,0
 PHD,2014,Bangalore,1,34,Female,No,3,0
 Bachelors,2014,Bangalore,1,36,Female,No,1,0
 Bachelors,2017,Bangalore,3,40,Male,No,5,0
-Bachelors,2016,Bangalore,3,40,Male,No,3,0
-Bachelors,2015,Bangalore,3,25,Female,No,3,1
-Bachelors,2013,Bangalore,3,22,Male,No,0,1
-Bachelors,2015,Bangalore,3,34,Male,No,4,0
 Bachelors,2017,Bangalore,3,23,Male,No,1,0
-Bachelors,2017,Bangalore,3,24,Female,No,2,0
 Bachelors,2015,Bangalore,1,35,Male,No,3,0
-Bachelors,2014,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,Pune,3,28,Male,No,3,0
 Masters,2017,New Delhi,2,39,Female,No,4,0
 PHD,2017,New Delhi,3,31,Female,No,5,0
 Bachelors,2014,Bangalore,3,32,Male,No,2,0
 Bachelors,2017,New Delhi,2,37,Female,No,3,0
-Bachelors,2014,Pune,1,22,Female,No,0,1
-Bachelors,2015,Bangalore,3,32,Female,No,4,0
-Bachelors,2016,Bangalore,3,37,Male,No,2,0
-Bachelors,2014,Bangalore,3,36,Male,No,3,0
 Bachelors,2013,Pune,3,24,Male,Yes,2,0
 Masters,2017,New Delhi,3,40,Male,No,2,0
 Bachelors,2014,Bangalore,3,39,Male,No,3,0
-Bachelors,2013,Bangalore,3,24,Male,No,2,0
-Bachelors,2016,Bangalore,3,25,Male,No,3,0
-Bachelors,2018,Bangalore,3,26,Male,No,4,1
 Bachelors,2017,New Delhi,2,33,Male,No,3,0
 Bachelors,2016,Pune,3,36,Male,Yes,3,0
 Bachelors,2015,Pune,1,39,Male,No,1,1
-Bachelors,2014,Bangalore,3,34,Male,No,4,0
 Bachelors,2014,New Delhi,2,23,Female,No,1,1
 Bachelors,2014,Pune,1,33,Female,No,2,1
 Bachelors,2013,Bangalore,3,31,Male,No,3,0
-Bachelors,2015,Bangalore,3,39,Female,No,0,0
 Bachelors,2017,Bangalore,3,36,Male,No,4,1
-Bachelors,2015,Bangalore,3,28,Male,No,1,0
 Bachelors,2013,New Delhi,3,28,Female,No,0,1
-Masters,2017,New Delhi,2,24,Male,No,2,1
 Bachelors,2013,Bangalore,3,36,Female,No,0,1
 Bachelors,2014,Bangalore,3,30,Male,No,1,1
-Bachelors,2018,New Delhi,3,27,Female,No,5,1
-Bachelors,2012,Bangalore,3,25,Male,No,3,0
 Bachelors,2018,Bangalore,3,31,Male,No,0,1
 Bachelors,2013,Bangalore,3,36,Male,No,0,0
 Bachelors,2017,New Delhi,2,31,Male,No,1,0
-Bachelors,2016,Bangalore,3,37,Male,No,2,0
-Bachelors,2015,Bangalore,3,39,Male,No,2,0
-Bachelors,2014,Bangalore,3,28,Male,No,4,0
 Bachelors,2015,Pune,2,38,Male,No,2,1
 Masters,2017,New Delhi,3,40,Female,No,1,0
 Masters,2015,Bangalore,3,38,Female,No,1,0
 PHD,2014,New Delhi,3,23,Male,No,1,0
-Bachelors,2015,Bangalore,3,39,Male,No,2,0
-Bachelors,2014,Pune,1,22,Female,No,0,1
-Bachelors,2015,Pune,3,24,Female,No,2,1
-Masters,2014,New Delhi,3,24,Male,No,2,0
-Bachelors,2012,Bangalore,3,23,Female,No,1,1
 Bachelors,2014,Bangalore,3,30,Male,No,4,0
 Bachelors,2016,New Delhi,3,25,Female,No,3,0
 Bachelors,2013,Bangalore,3,34,Male,No,4,0
@@ -4620,35 +2744,22 @@ Bachelors,2012,Bangalore,3,39,Female,No,1,0
 Masters,2017,New Delhi,3,38,Female,No,2,1
 Bachelors,2016,Pune,3,38,Male,No,2,0
 Bachelors,2015,Pune,2,38,Female,No,4,1
-Bachelors,2015,Bangalore,3,31,Male,No,5,0
 Bachelors,2017,Pune,1,30,Male,No,4,0
 PHD,2013,Bangalore,3,24,Male,No,2,0
-Bachelors,2017,Bangalore,3,38,Male,No,3,0
 Bachelors,2013,Pune,3,37,Male,No,3,0
-Bachelors,2016,Bangalore,3,22,Male,No,0,0
 PHD,2012,Bangalore,3,30,Female,No,4,0
 Bachelors,2013,Bangalore,3,39,Female,No,5,0
 Bachelors,2017,Bangalore,2,35,Male,No,0,0
-Bachelors,2012,Pune,3,25,Female,No,3,1
-Bachelors,2018,Bangalore,3,32,Male,Yes,1,1
 Bachelors,2018,Bangalore,3,31,Female,No,2,1
-Bachelors,2016,Bangalore,3,37,Male,No,2,0
 Bachelors,2016,New Delhi,1,38,Female,No,2,1
-Bachelors,2014,Bangalore,3,22,Female,No,0,0
 Masters,2014,New Delhi,3,37,Female,No,0,1
 Bachelors,2018,Bangalore,3,32,Male,Yes,2,1
-Bachelors,2013,Bangalore,3,26,Male,No,4,0
 Bachelors,2017,Bangalore,3,28,Male,No,0,1
-Bachelors,2015,Bangalore,3,35,Male,No,0,0
 Bachelors,2016,Bangalore,1,33,Female,No,0,1
-Bachelors,2012,Bangalore,3,36,Female,No,4,0
 Bachelors,2013,Bangalore,3,31,Female,No,5,0
 Bachelors,2015,Pune,3,32,Female,Yes,1,1
 Masters,2017,Pune,2,31,Female,No,2,0
-Bachelors,2013,Bangalore,3,25,Female,No,3,0
 Bachelors,2016,Pune,3,30,Male,No,2,0
-Bachelors,2013,Bangalore,3,26,Female,No,4,0
 Masters,2013,Pune,2,37,Male,No,2,1
 Masters,2018,New Delhi,3,27,Male,No,5,1
 Bachelors,2012,Bangalore,3,30,Male,Yes,2,0
-Bachelors,2015,Bangalore,3,33,Male,Yes,4,0

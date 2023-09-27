@@ -1,0 +1,32 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "Education": {
+            "sdtype": "categorical"
+        },
+        "JoiningYear": {
+            "sdtype": "numerical"
+        },
+        "City": {
+            "sdtype": "categorical"
+        },
+        "PaymentTier": {
+            "sdtype": "numerical"
+        },
+        "Age": {
+            "sdtype": "numerical"
+        },
+        "Gender": {
+            "sdtype": "categorical"
+        },
+        "EverBenched": {
+            "sdtype": "categorical"
+        },
+        "ExperienceInCurrentDomain": {
+            "sdtype": "numerical"
+        },
+        "LeaveOrNot": {
+            "sdtype": "numerical"
+        }
+    }
+}
