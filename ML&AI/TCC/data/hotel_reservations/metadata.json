@@ -1,0 +1,45 @@
+{
+    "columns": {
+        "no_of_adults": {
+            "sdtype": "numerical"
+        },
+        "no_of_children": {
+            "sdtype": "numerical"
+        },
+        "no_of_weekend_nights": {
+            "sdtype": "numerical"
+        },
+        "no_of_week_nights": {
+            "sdtype": "numerical"
+        },
+        "type_of_meal_plan": {
+            "sdtype": "numerical"
+        },
+        "required_car_parking_space": {
+            "sdtype": "numerical"
+        },
+        "lead_time": {
+            "sdtype": "numerical"
+        },
+        "arrival_month": {
+            "sdtype": "numerical"
+        },
+        "market_segment_type": {
+            "sdtype": "numerical"
+        },
+        "repeated_guest": {
+            "sdtype": "numerical"
+        },
+        "avg_price_per_room": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "no_of_special_requests": {
+            "sdtype": "numerical"
+        },
+        "booking_status": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
