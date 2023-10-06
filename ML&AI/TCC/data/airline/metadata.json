@@ -1,8 +1,6 @@
 {
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
     "columns": {
-        "id": {
-            "sdtype": "numerical"
-        },
         "Customer Type": {
             "sdtype": "numerical"
         },
@@ -64,6 +62,5 @@
         "satisfaction": {
             "sdtype": "numerical"
         }
-    },
-    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+    }
 }

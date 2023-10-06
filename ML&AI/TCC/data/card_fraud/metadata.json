@@ -1,5 +1,4 @@
 {
-    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
     "columns": {
         "distance_from_home": {
             "sdtype": "numerical",
@@ -28,5 +27,6 @@
         "fraud": {
             "sdtype": "numerical"
         }
-    }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
 }
