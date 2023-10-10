@@ -1,4 +1,5 @@
 {
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
     "columns": {
         "no_of_adults": {
             "sdtype": "numerical"
@@ -40,6 +41,5 @@
         "booking_status": {
             "sdtype": "numerical"
         }
-    },
-    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+    }
 }
