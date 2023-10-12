@@ -1,5 +1,4 @@
 {
-    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
     "columns": {
         "Education": {
             "sdtype": "categorical"
@@ -28,5 +27,6 @@
         "LeaveOrNot": {
             "sdtype": "numerical"
         }
-    }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
 }
