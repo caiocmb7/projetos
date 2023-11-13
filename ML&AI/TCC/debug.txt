@@ -1,0 +1,12 @@
+X: (1452, 7)
+y: (1452,)
+y: 
+0    726
+1    726
+dtype: int64
+X_balanced: (1452, 7)
+y_balanced: (1452,)
+y_balanced: 
+0    726
+1    726
+dtype: int64
