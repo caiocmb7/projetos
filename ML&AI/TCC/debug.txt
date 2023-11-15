@@ -1,0 +1,14 @@
+X: (238, 13)
+y: (238, 1)
+y: 
+condition
+0            124
+1            114
+dtype: int64
+X_balanced: (248, 13)
+y_balanced: (248, 1)
+y_balanced: 
+condition
+0            124
+1            124
+dtype: int64
