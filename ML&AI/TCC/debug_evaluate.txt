@@ -1,4 +1,0 @@
-X_train shape: (800, 7)
-y_train shape: (800,)
-X_test shape: (200, 7)
-y_test shape: (200,)
