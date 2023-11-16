@@ -1,7 +1,0 @@
-X_test: 
-(59, 13)
-y_test: (59,)
-y_test distribution: 
-0    36
-1    23
-Name: condition, dtype: int64
