@@ -1,0 +1,6 @@
+Model,Mean Score
+FastML,0.964
+TVAE,0.957
+CTGAN,0.921
+GaussianCopula,0.909
+CopulaGAN,0.817

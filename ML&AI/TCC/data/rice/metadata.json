@@ -1,0 +1,34 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "Area": {
+            "sdtype": "numerical"
+        },
+        "Perimeter": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "Major_Axis_Length": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "Minor_Axis_Length": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "Eccentricity": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "Convex_Area": {
+            "sdtype": "numerical"
+        },
+        "Extent": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "Class": {
+            "sdtype": "numerical"
+        }
+    }
+}

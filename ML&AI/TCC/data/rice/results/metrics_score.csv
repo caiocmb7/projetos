@@ -1,0 +1,11 @@
+Model,Metric,Quality Score
+CopulaGAN,KSComplement,0.7473425196850394
+CopulaGAN,CorrelationSimilarity,0.8867862429644928
+CTGAN,KSComplement,0.9201443569553805
+CTGAN,CorrelationSimilarity,0.9215152755735871
+FastML,KSComplement,0.9428805774278215
+FastML,CorrelationSimilarity,0.9845940338633234
+GaussianCopula,KSComplement,0.8381561679790026
+GaussianCopula,CorrelationSimilarity,0.979713828146659
+TVAE,KSComplement,0.9474081364829396
+TVAE,CorrelationSimilarity,0.9672602035920438
